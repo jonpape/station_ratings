@@ -1,1 +1,7 @@
-# station_ratings
+# Tokyo Station Ratings
+Jonathan Pape
+
+Program opens up a csv with a list of station and then searches for the station on Google Maps.
+If the station is found, the rating for the station is downloaded and stored in a csv.
+
+Project was developed for CIS 5450 final project.
