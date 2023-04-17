@@ -1,0 +1,8251 @@
+station,rating
+Maruyamakoen,4.0
+Odori,3.9
+Nango 18-chome,3.4
+Nishi 11-chome,3.8
+Nishi 18-chome,3.4
+Nishi 28-chome,3.1
+Naebo,3.8
+Bus Center Mae,3.5
+Sapporo (Sapporoshiei),4.1
+Soen,3.6
+Sapporo (JR),4.1
+Nijuyonken,3.6
+Kita 24-jo,3.7
+Hachiken,3.3
+Horohirabashi,3.5
+Kita 18-jo,3.7
+Ropeway Iriguchi,3.9
+Susukino (Shiei),4.0
+Jieitaimae,3.4
+Hassamuminami,3.2
+Hosui Susukino,3.4
+Higashisapporo,3.8
+Nakajimakoen,4.0
+Nakajimakoendori,4.0
+Chuotoshokanmae,3.6
+Seishugakuenmae,3.8
+Ishiyamadori,4.0
+Higashitondendori,3.6
+Denshajigyoshomae,4.3
+Nakanoshima,3.8
+Minamihiragishi,3.6
+Hiragishi (Sapporoshiei),3.6
+Sumikawa,4.1
+Konanshogakkomae,3.8
+Ainosatokyoikudai,3.6
+Takuhoku,3.1
+Ainosatokoen,3.7
+Shinoro,3.5
+Asabu,3.5
+Kita 12-jo,3.8
+Kita 13-jo Higashi,3.2
+Shinkotoni,4.0
+Kita 34-jo,3.2
+Shinkawa (Hokkaido),3.3
+Yurigahara,2.9
+Sakaemachi (Sapporo),3.7
+Taihei,3.6
+Shindohigashi,3.7
+Higashikuyakushomae,3.5
+Kanjodorihigashi,3.4
+Motomachi (Sapporo),3.5
+Kikusui,3.6
+Shiroishi (JR Hokkaido),3.6
+Heiwa,3.6
+Atsubetsu,3.3
+Shinsapporo,3.6
+Shiroishi (Sapporoshiei),3.7
+Nango 13-chome,3.7
+Nango 7-chome,3.4
+Oyachi,3.7
+Hibarigaoka (Hokkaido),3.4
+Gakuenmae (Sapporo),3.8
+Tsukisamuchuo,3.6
+Fukuzumi,3.6
+Misono,3.7
+Toyohirakoen,3.6
+Makomanai,3.6
+Kotoni (JR),3.9
+Kotoni (Sapporoshiei),3.9
+Hassamuchuo,3.7
+Miyanosawa,3.8
+Inazumikoen,3.3
+Hassamu,3.9
+Teine,3.9
+Kaminopporo,3.3
+Shinrinkoen (Hokkaido),3.7
+Inaho,3.3
+Hoshioki,3.7
+Hoshimi,3.3
+Zenibako,3.9
+Aoyagicho,3.8
+Hakodate,4.1
+Horaicho,3.6
+Goryokaku,3.5
+Kikyo,3.6
+Uoichibadori,3.2
+Shiyakushomae (Hakodate),3.7
+Hakodate Dock Mae,3.9
+Matsukazecho,3.9
+Shikabe,3.8
+Choshiguchi,3.8
+Yunokawa,3.8
+Chitosecho (Hokkaido),3.8
+Omachi (Hokkaido),3.6
+Kashiwagicho,3.9
+Fukaboricho,3.5
+Showabashi,3.3
+Nanaehama,3.6
+Keibajomae (Hakodate),4.4
+Komabashakomae,3.8
+Goryokakukoenmae,3.8
+Suginamicho,3.0
+Jujigai,4.2
+Suehirocho (Hakodate),4.1
+Chuobyoinmae,3.4
+Yachigashira,4.1
+Chiyogadai,3.4
+Yunokawaonsen,4.1
+Hakodate-arena-mae,3.9
+Hakodateekimae,4.0
+Otaru,4.1
+Minamiotaru,4.0
+Asari,4.0
+Ranshima,4.1
+Shioya,3.3
+Otaruchikko,4.2
+Asahikawa,4.2
+Chikabumi,3.8
+Asahikawayojo,3.3
+Ino,3.6
+Kaguraoka,3.9
+Shin-asahikawa,3.5
+Nagayama,3.7
+Kutchan,3.8
+Higashiasahikawa,4.0
+Nishikagura,3.3
+Kamikawa,4.1
+Minaminagayama,3.8
+Kitahinode,3.3
+Chiyogaoka,3.5
+Nishiseiwa,4.4
+Pippu,4.1
+Sakimori,4.0
+Muroran,3.7
+Bokoi,4.0
+Wanishi,3.6
+Motowanishi,4.5
+Misaki,4.9
+Higashimuroran,3.8
+Washibetsu,3.4
+Kushiro,3.8
+Shinfuji (Hokkaido),3.2
+Otanoshike,3.5
+Musa (Hokkaido),3.7
+Shin-otanoshike,3.2
+Onbetsu,3.5
+Obihiro,4.0
+Hakurindai,3.2
+Satsunai,3.3
+Ikeda (Hokkaido),3.7
+Nishiobihiro,3.5
+Midorigaoka (Hokkaido),3.2
+Ainonai,3.4
+Kitami,3.4
+Higashiainonai,3.6
+Abashiri,3.8
+Taisei (Hokkaido),3.8
+Tanno,4.1
+Itoshino,4.0
+Hiushinai,3.7
+Nishikitami,3.3
+Hakuyo,4.1
+Rubeshibe,4.0
+Nishirubeshibe,3.1
+Shin-yubari,3.8
+Iwamizawa,3.9
+Kamihoromui,3.3
+Minenobu,3.6
+Shibun,3.4
+Horomui,3.5
+Ishikaritsukigata,3.9
+Chiraiotsu,4.0
+Kurisawa,3.5
+Kuriyama,4.0
+Memanbetsu,3.8
+Hamakoshimizu,3.9
+Kitahama (Hokkaido),3.5
+Yamubetsu,4.0
+Masuura,3.4
+Yobito,3.7
+Mokoto,3.9
+Rumoi,4.1
+Owada (Hokkaido),3.8
+Horonuka,3.7
+Aoba,3.3
+Tomakomai,3.4
+Numanohata,3.5
+Itoi,3.8
+Uenae,3.4
+Toasa,2.8
+Nishikioka,3.5
+Takinoue,3.6
+Kurioka,3.6
+Shadai,3.3
+Katsuradai,3.1
+Yufutsu,3.5
+Minamiwakkanai,3.7
+Wakkanai,4.3
+Kabutonuma,3.4
+Yuchi,3.9
+Bibai,3.7
+Koshunai,3.5
+Chashinai,3.5
+Hamaatsuma,3.8
+Ashibetsu,3.6
+Kamiashibetsu,3.5
+Hiragishi (JR),3.3
+Nokanan,3.7
+Ebetsu,2.4
+Nopporo,3.8
+Oasa,3.5
+Takasago (Hokkaido),3.3
+Toyohoro,3.9
+Kitahiroshima,3.7
+Akabira,4.1
+Higashitakikawa,3.6
+Moshiri,3.4
+Shibetsu,3.8
+Nayoro,3.8
+Shimoshibetsu,3.8
+Tayoro,4.3
+Chiebun,4.1
+Toyonuma,3.4
+Higashifuren,4.5
+Mizuho,4.1
+Furen,3.9
+Nemuro,4.1
+Attoko,4.0
+Ochiishi,4.3
+Nishiwada,4.1
+Higashinemuro,4.0
+Chitose (Hokkaido),4.0
+Osatsu,2.9
+Minamichitose,3.6
+Oiwake (Hokkaido),3.6
+Sapporo Beer Teien,3.6
+Hayakita,3.3
+Takikawa,3.6
+Sunagawa,3.7
+Ebeotsu,4.0
+Fukagawa,3.6
+Kitaichiyan,3.8
+Osamunai,3.5
+Moseushi,3.9
+Furano,4.0
+Gakuden,3.7
+Nunobe,4.3
+Shimokanayama,4.4
+Yamabe,4.2
+Horobetsu,3.8
+Noboribetsu,3.9
+Tomiura (Hokkaido),4.1
+Mikawa (Hokkaido),3.1
+Eniwa,3.3
+Megumino,3.3
+Shimamatsu,3.4
+Datemonbetsu,3.2
+Usu,3.7
+Nagawa,3.2
+Kogane (Hokkaido),4.1
+Mareppu,3.4
+Kitafunaoka,4.3
+Shin-Hakodate-Hokuto,3.7
+Kunebetsu,3.6
+Kamiiso,3.8
+Higashikunebetsu,3.2
+Onakayama,3.3
+Kiyokawaguchi,3.7
+Oshimatobetsu,4.0
+Nanae,3.7
+Moheji,3.8
+Ishikaritobetsu,3.7
+Hokkaidoiryodaigaku,3.6
+Ishikarifutomi,4.0
+Nakagoya,3.4
+Motonakagoya,3.4
+Kikonai,3.8
+Izumisawa,3.9
+Kamaya,4.1
+Satsukari,3.0
+Ikedaen,3.9
+Nagareyamaonsen,3.9
+Onuma,3.7
+Onumakoen,4.2
+Niyama,4.4
+Akaigawa,3.7
+Hon-ishikura,3.9
+Mori (Hokkaido),4.0
+Oshironai,3.9
+Komagatake,3.5
+Oshimasawara,3.5
+Kakarima,3.7
+Higashimori,3.2
+Ishikura,4.0
+Yakumo,3.7
+Otoshibe,3.5
+Kuroiwa,3.9
+Nodaoi,3.5
+Yamakoshi,3.6
+Yamasaki (Hokkaido),4.0
+Oshamanbe,3.8
+Kunnui,3.5
+Shizukari,4.1
+Nakanosawa,3.9
+Kuromatsunai,3.8
+Rankoshi,3.8
+Konbu,3.6
+Mena,4.1
+Niseko,4.1
+Ishikarikanazawa,3.5
+Hirafu,4.1
+Ginzan,4.0
+Yoichi,3.8
+Niki,3.5
+Naie,3.3
+Furusan,3.6
+Yuni,3.7
+Kawabata,3.8
+Futamata,3.2
+Urausu,3.9
+Satteki,3.6
+Osokinai,3.8
+Tsurunuma,3.6
+Shintotsukawa,4.3
+Shimotoppu,3.7
+Chippubetsu,3.9
+Ishikarinumata,3.7
+Ebishima,4.1
+Nishigoryo,3.4
+Nishimizuho,3.1
+Toma,3.2
+Shikaribetsu,3.6
+Kitapippu,4.1
+Ranru,4.0
+Aibetsu,2.9
+Antaroma,3.8
+Nakaaibetsu,3.6
+Kitabiei,4.6
+Biei,4.2
+Bibaushi,4.0
+Kamifurano,3.8
+Nakafurano,4.0
+Shikauchi,4.4
+Nishinaka,4.6
+Ikutora,4.3
+Ochiai (Hokkaido),3.5
+Kanayama (Hokkaido),4.1
+Shimukappu,3.8
+Tomamu,3.4
+Wassamu,3.9
+Shiokari,4.2
+Toyogaoka,4.3
+Sappinai,3.9
+Kenbuchi,3.7
+Minamishimotoppu,4.1
+Bifuka,4.1
+Onnenai,3.9
+Monponai,4.1
+Otoineppu,4.2
+Teshionakagawa,4.2
+Saku,4.1
+Kitachippubetsu,3.8
+Sakuraoka,4.0
+Toyotomi,3.8
+Horonobe,4.1
+Bihoro,3.9
+Minamipippu,3.6
+Shiretokoshari,4.0
+Nakashari,3.4
+Kiyosatocho,3.6
+Sattsuru,3.4
+Midori,3.8
+Engaru,4.0
+Ikutahara,3.5
+Yasukuni,3.3
+Maruseppu,3.7
+Shirataki,4.7
+Setose,3.8
+Sakkuru,4.3
+Hatsuno,3.5
+Toyoura,3.8
+Okishi,3.9
+Rebun,3.9
+Toya,3.8
+Shiraoi,3.8
+Hagino,3.8
+Kitayoshihara,3.5
+Kojohama,4.0
+Takeura,3.2
+Toikanbetsu,4.1
+Abira,3.0
+Mukawa,3.7
+Shiomi,3.5
+Hamataura,3.8
+Atsuga,3.8
+Kiyohata,3.4
+Tomikawa,3.1
+Okaribe,4.2
+Seppu,4.1
+Urakawa,4.2
+Higashicho,4.4
+Efue,4.2
+Ogifushi,4.0
+Hidakahorobetsu,3.5
+Utoma,3.7
+Nishisamani,4.3
+Shizunai,3.9
+Hidakatobetsu,3.5
+Harutachi,4.0
+Higashishizunai,2.8
+Hidakamitsuishi,3.9
+Honkiri,4.2
+Hoei,3.5
+Onoppunai,4.3
+Shintoku,4.0
+Nishimemanbetsu,4.1
+Tokachishimizu,3.5
+Mikage (Hokkaido),3.3
+Memuro,3.9
+Makubetsu,3.2
+Toshibetsu,3.9
+Toyokoro,3.6
+Urahoro,3.8
+Atsunai,3.8
+Shin-yoshino,2.9
+Beppo,3.7
+Oboro,3.8
+Akkeshi,3.9
+Monshizu,3.9
+Kamioboro,3.6
+Itoizawa,3.7
+Chanai,3.8
+Anebetsu,4.1
+Hamanaka,4.0
+Shibecha,4.0
+Isobunnai,3.6
+Kayanuma,4.1
+Toro,3.3
+Mashu,3.8
+Kawayuonsen,4.2
+Minamiteshikaga,3.8
+Biruwa,4.2
+Shoro,3.7
+Shiranuka,4.0
+Nishishoro,3.4
+Tofutsu,3.6
+Aomori,3.7
+Koyanagi (Aomori),2.7
+Higashiaomori,3.6
+Asamushionsen,4.0
+Tsugarumiyata,2.6
+Aburakawa,3.8
+Shin-aomori,3.8
+Tsugarushinjo,3.2
+Ushirogata,4.0
+Nakasawa,3.6
+Yadamae,2.9
+Okunai,3.4
+Hidariseki,3.4
+Nonai,3.1
+Tsurugasaka,3.3
+Namioka,3.7
+Kitatokiwa,3.6
+Daishaka,4.0
+Hirosaki,3.8
+Hirosakigakuindaimae,3.8
+Itayanagi,3.5
+Seiaichukomae,3.9
+Ishikawa (JR),4.3
+Ishikawa (Konan),4.3
+Chitose,3.6
+Undokoenmae (Aomori),4.3
+Naijoshi,3.4
+Tsugaruosawa,4.6
+Hirosakihigashikomae,3.7
+Chuohirosaki,4.2
+Nisato (Aomori),3.7
+Hirokoshita,3.3
+Sabaishi,4.0
+Koguriyama,4.0
+Matsukitai,3.6
+Kominato,3.7
+Fujisaki (Aomori),3.4
+Kawabe,3.6
+Tsurudomari,3.7
+Konakano,3.6
+Honhachinohe,3.6
+Shirogane,3.6
+Mutsuminato,4.0
+Naganawashiro,3.6
+Shimoda,3.9
+Hachinohe,3.7
+Mutsuichikawa,3.6
+Kitatakaiwa,3.9
+Tanesashikaigan,4.0
+Kanehama,2.8
+Okuki,3.0
+Same,3.9
+Mutsushirahama,4.3
+Mutsutsuruda,3.7
+Ken-yoshi,3.7
+Inakadate,3.8
+Ishikawa Pool Mae,4.0
+Owani,3.9
+Kuroishi (Aomori),3.8
+Onoekokomae,4.0
+Sakaimatsu,4.1
+Tsugarunakasato,4.4
+Goshogawara,3.9
+Tsugaruiizume,3.2
+Togawa (Aomori),3.7
+Gonokomae,3.8
+Ashinokoen,4.3
+Kanagi,4.2
+Kase,3.5
+Kawakura,4.3
+Bishamon,4.1
+Misawa (Aomori),3.6
+Mukaiyama,3.5
+Kamikitacho,3.7
+Sannohe,3.6
+Akagawa,4.1
+Shimokita,3.9
+Ominato,4.0
+Kanayasawa,4.3
+Chikagawa,3.9
+Ozawanai,4.5
+Kizukuri,4.1
+Nakata (Aomori),3.7
+Koshimizu,4.0
+Narusawa,4.0
+Mutsumorita,3.6
+Hakunokokomae,3.8
+Hiraka,3.7
+Tsugaruonoe,3.2
+Ikarigaseki,4.2
+Tsugaruyunosawa,4.1
+Tachita,4.3
+Nagamine,2.7
+Nishihiranai,3.7
+Karibasawa,3.7
+Shimizugawa,3.6
+Imabetsu,3.7
+Tsugaruhamana,4.1
+Okutsugaru-Imabetsu,3.7
+Kogawara,3.4
+Okawadai,3.7
+Yomogida,3.4
+Gosawa,3.5
+Seheji,2.8
+Kanita,3.9
+Odai,3.8
+Nakaoguni,3.7
+Minmaya,4.1
+Mutsuakaishi,4.3
+Ajigasawa,3.8
+Mutsuiwasaki,4.3
+Oirase,4.1
+Omagoshi,3.2
+Kitakanegasawa,3.3
+Senjojiki,4.4
+Shirakamidaketozanguchi,3.8
+Mutsuyanagita,3.5
+Henashi,3.8
+Hiroto,4.0
+Fukaura,3.8
+Yokoiso,3.7
+Hayashizaki,4.3
+Owanionsen,3.9
+Shukugawara,3.5
+Oja,3.5
+Fukoda,4.4
+Arito,4.1
+Kitanoheji,3.7
+Noheji,3.8
+Ottomo,3.7
+Shichinohetowada,3.7
+Mutsuyokohama,3.8
+Chibiki,3.6
+Arihata,3.3
+Juniko,3.9
+Tsugarufutamata,3.2
+Kasose,4.2
+Metoki,3.3
+Tomabechi,3.1
+Odose,3.7
+Matsukami,3.8
+Suwanotaira,3.9
+Hashikami,3.4
+Mutsusawabe,3.7
+Todoroki,3.8
+Kadonohama,4.0
+Aoyama (Iwate),4.0
+Morioka,4.0
+Yamagishi,4.0
+Kamimorioka,3.7
+Iwateiioka,3.1
+Senbokucho,3.3
+Okama,3.6
+Shibutami,3.7
+Kuriyagawa,3.5
+Takizawa,3.5
+Yahaba,3.9
+Shiwachuo,3.7
+Koiwai,3.5
+Shizukuishi,3.6
+Iwatekawaguchi,3.9
+Tsugaruishi,4.2
+Miyako,3.9
+Yamaguchidanchi,4.1
+Sentoku,4.7
+Kamiyonai,3.9
+Rikuchukawai,4.3
+Sokei,3.8
+Yagisawa Miyakotandai,4.8
+Matsukusa,4.1
+Ichinowatari,4.3
+Sabane,4.3
+Settai,3.7
+Taro,3.8
+Hikime,3.7
+Ofunato,4.0
+Sakari,3.6
+Rikuzen-akasaki,4.0
+Ryori,4.0
+Ofunatouoichibamae,3.8
+Shimofunato,5.0
+Sanriku,4.1
+Horei,3.7
+Yoshihama (Iwate),4.4
+Koishihama,4.0
+Otomo,3.4
+Goishikaiganguchi,3.5
+Hosoura,1.0
+Hanamaki,3.6
+Ishidoriya,3.7
+Hanamakikuko (JR),3.2
+Obuke,3.6
+Oyamada,3.0
+Miyamori,4.2
+Nitanai,3.6
+Shinhanamaki,3.4
+Tsuchizawa,3.4
+Kashiwagidaira,4.3
+Haruyama,3.3
+Kitakami,3.5
+Rokuhara,2.9
+Yanagihara (Iwate),3.0
+Murasakino,3.3
+Rikuchuyamada,4.4
+Kanegasaki,3.7
+Kebaraichi,2.5
+Ezuriko,3.4
+Fujine,3.7
+Toyomane,4.3
+Iwasawa,4.6
+Tatekawame,3.0
+Yokokawame,3.2
+Wakasennin,4.0
+Kuji,3.4
+Rikuchuube,4.0
+Rikuchunatsui,4.0
+Samuraihama,3.4
+Taneichi,3.4
+Aozasa,3.8
+Tono,4.0
+Iwatefutsukamachi,3.0
+Ayaori,3.7
+Masuzawa,3.8
+Iwatekamigo,3.3
+Ichinoseki,3.7
+Rikuchukanzaki,4.0
+Senmaya,3.4
+Konashi,5.0
+Surisawa,3.3
+Shibajuku,3.5
+Mataki,3.1
+Shimzuhara,4.0
+Yamanome,3.4
+Hanaizumi,3.1
+Yushima,3.5
+Geibikei,3.3
+Iwanoshita,3.7
+Rikuchumatsukawa,3.4
+Hiraizumi,4.0
+Mizusawa,3.5
+Orikabe,3.3
+Niitsuki,3.8
+Yagoshi,4.0
+Wakinosawa,2.3
+Osabe,3.0
+Kisekinoipponmatsu,4.3
+Rikuzen-yahagi,3.1
+Takadakokomae,3.8
+Shinjyo-tanaka,3.8
+Takekoma,3.7
+Rikuchunoda,3.8
+Kamaishi,3.7
+Unosumai,4.1
+Heita (Iwate),3.7
+Kosano,3.5
+Dosen,3.6
+Matsukura,3.0
+Rikuchuohashi,4.3
+Toni,4.4
+Ryoishi,4.7
+Ninohe,3.6
+Kintaichionsen,4.0
+Tomai,3.3
+Appikogen,4.0
+Higashiobuke,4.0
+Matsuohachimantai,4.0
+Tairadate,3.4
+Kitamori,4.1
+Akasakata,5.0
+Anihata,4.5
+Arayashinmachi,4.1
+Tayama,3.9
+Hirakura,3.0
+Maesawa,3.8
+Rikuchuorii,3.1
+Hakoishi,4.0
+Mizusawaesashi,3.4
+Sugo,4.3
+Harukiba,3.6
+Akabuchi,3.9
+Iwatenumakunai,3.4
+Kozuya,3.9
+Mido,3.4
+Kamiarisu,3.9
+Hizume,3.4
+Furudate,3.1
+Ichinohe,3.3
+Hottoyuda,4.1
+Yudakinshuko,3.9
+Otsuchi,4.0
+Kirikiri,4.3
+Namiitakaigan,3.9
+Orikasa,4.2
+Iwatefunakoshi,3.7
+Imaizumiomoto,3.8
+Tanohata,3.8
+Shimanokoshi,4.3
+Fudai,4.1
+Shiraikaigan,4.3
+Horinai,4.3
+Nodatamagawa,3.8
+Uge (Iwate),4.2
+Rikuchuyagi,3.6
+Tamagawa (Iwate),3.7
+Hiranai,3.2
+Rikuchunakano,4.3
+Okunakayamakogen,4.0
+Kotsunagi,3.9
+Shukunohe,3.6
+Yudakogen,3.8
+Kitasendai,3.6
+Ayashi,3.0
+Rikuzen-ochiai,3.4
+Asahigaoka (Miyagi),3.7
+Kuromatsu (Miyagi),3.9
+Dainohara,3.4
+Aobayama,3.9
+Kawauchi (Miyagi),4.1
+Kunimi (Miyagi),3.3
+Hirosedori,3.4
+Kitayama (Miyagi),3.5
+Aobadori,3.8
+Aoba-dori Ichibancho,3.8
+Itsutsubashi,5.0
+Omachi Nishi-koen,3.9
+Kotodaikoen,3.8
+Sendai,4.1
+Atagobashi,3.7
+Kuzuoka,3.4
+Rikuzenshirasawa,3.3
+Toshogu,3.3
+Kumagane,3.9
+Tohokufukushidaimae,3.5
+Kitayobancho,3.6
+International Center (Miyagi),4.2
+Yaotome,3.8
+Sakunami,3.5
+Tsutsujigaoka,3.5
+Okunikkawa,3.9
+Yamoto,3.2
+Higashisendai,3.6
+Miyaginohara,3.9
+Rikuzenharanomachi,3.4
+Nakanosakae,3.5
+Iwakiri,3.2
+Fukudamachi,1.7
+Kozurushinden,3.6
+Nigatake,3.1
+Arai (Miyagi),4.2
+Rikuzentakasago,3.3
+Tagajo,3.8
+Rikuzen-akai,3.5
+Miyagino-dori,3.6
+Oroshimachi (Miyagi),3.6
+Yakushido (Miyagi),3.7
+Rembo,3.7
+Kawaramachi (Miyagi),3.5
+Rokuchonome,3.5
+Izumichuo,4.1
+Nagamachi 1-chome,4.1
+Nagamachi,3.7
+Natori,3.3
+Minamisendai,3.3
+Atago (Miyagi),3.5
+Nagamachiminami,3.4
+Yagiyama Zoological Park,4.2
+Taishido,3.5
+Tomizawa,3.6
+Rifu,3.5
+Higashishiogama,3.4
+Kanomata,3.9
+Ishinomakiayumino,3.5
+Hebita,3.8
+Sobanokami,3.3
+Ishinomaki,3.8
+Onagawa,4.1
+Watanoha,3.6
+Rikuzen-inai,2.4
+Rikuzen-yamashita,3.6
+Yanaizu (Miyagi),3.6
+Kakeyama,3.8
+Higashiyamoto,3.1
+Maeyachi,3.4
+Urashuku,2.6
+Higashishiroishi,3.7
+Wabuchi,3.8
+Sawada,4.6
+Mangokuura,3.7
+Mitakedo,4.3
+Rikuzentoyosato,3.5
+Shiogama,3.7
+Nishishiogama,2.9
+Honshiogama,3.5
+Geba,3.2
+Rikuzen-yokoyama,3.0
+Kokufutagajo,3.6
+Kesennuma,3.8
+Minamikesennuma,3.4
+Oyakaigan,4.0
+Saichi,2.2
+Rikuzenhashikami,3.2
+Matsuiwa,3.8
+Fudonosawa,3.6
+Rikuzenkoizumi,2.3
+Motoyoshi,3.3
+Shiroishi (Miyagi),3.7
+Shiroishizao,3.7
+Kosugo,4.0
+Kitashirakawa,3.9
+Tatekoshi,3.0
+Morisekinoshita,3.6
+Mitazono,3.7
+Sendaikuko,3.3
+Iwanuma,3.6
+Oka,3.7
+Yokokura (Miyagi),2.6
+Kakuda,3.1
+Minamikakuda,3.0
+Shishiorikarakuwa,3.8
+Marumori,3.5
+Kitamarumori,3.5
+Ogawara (Miyagi),3.6
+Higashifunaoka,3.8
+Hamayoshida,3.7
+Rikuzensanno,3.4
+Kashimadai,3.4
+Nonodake,3.0
+Tsukinoki,3.5
+Ishikoshi,3.8
+Nitta (Miyagi),3.9
+Umegasawa,3.1
+Semine,3.0
+Kamiwakuya,3.0
+Kurikomakogen,3.5
+Arikabe,3.8
+Kawatabionsen,3.7
+Rikuzen-ono,4.1
+Tona,3.9
+Rikuzen-otsuka,3.8
+Nobiru,3.8
+Kazuma,3.8
+Iwadeyama,3.6
+Utatsu,3.3
+Yubikan,4.2
+Ikezuki,3.7
+Kaminome,3.8
+Shinainuma,4.3
+Matsuyamamachi,3.3
+Furukawa,3.4
+Shizugawa,4.0
+Tsukanome,3.4
+Tajiri,4.2
+Kurauchi,3.0
+Nakayamadairaonsen,3.8
+Koganezawa,3.2
+Narukoonsen,3.9
+Narukogoten-yu,3.8
+Nishifurukawa,3.7
+Rikuzen-yachi,3.4
+Watari,3.8
+Higashiosaki,3.5
+Kitaura (Miyagi),3.6
+Takagimachi,3.5
+Kamishishiori,3.6
+Kogota,3.5
+Funaoka (Miyagi),3.8
+Shinchi,3.7
+Sakamoto,3.9
+Okuma,3.5
+Yamashita (Miyagi),4.0
+Matsushima,3.4
+Tetaru,3.8
+Rikuzentomiyama,3.0
+Matsushimakaigan,3.9
+Rikuzenhamada,3.3
+Shinrifu,3.7
+Wakuya,2.9
+Shizuhama,3.0
+Rikuzenminato,1.0
+Rikuzentogura,3.8
+Abukuma,3.9
+Yanagawakibonomorikoenmae,3.1
+Akita,4.0
+Araya (Akita),3.4
+Katsurane,3.9
+Kamiiijima,3.3
+Tsuchizaki,3.5
+Ugoushijima,3.7
+Yotsugoya,3.6
+Oiwake (Akita),3.6
+Obarino,2.7
+Wada,3.9
+Shimohama,3.6
+Noshiro,3.6
+Higashinoshiro,3.7
+Mukainoshiro,4.8
+Tomine,2.7
+Kitanoshiro,5.0
+Okubo (Akita),2.8
+Futatsui,4.0
+Kitakanaoka,4.2
+Tsurugata,4.4
+Yokote,3.8
+Iizume,4.0
+Gosannen,3.9
+Yanagida,3.3
+Daigo (Akita),4.0
+Ainono,4.2
+Hiraishi,4.3
+Jumonji,3.7
+Odate,3.9
+Higashiodate,3.9
+Shimokawazoi,2.4
+Hayaguchi,3.7
+Shirasawa (Akita),4.0
+Otakionsen,4.6
+Sawajiri,4.7
+Junisho,4.4
+Jinba,4.5
+Ogita,4.0
+Rikuchuosato,3.7
+Wakimoto,3.1
+Funakoshi,3.3
+Hadachi,3.9
+Oga,3.9
+Yokobori,3.9
+Yuzawa,4.2
+Shimoyuzawa,3.4
+Innai,3.8
+Mitsuseki,3.6
+Kamiyuzawa,3.0
+Kazunohanawa,3.9
+Towadaminami,3.6
+Suehiro,4.0
+Kurosawa (JR),3.8
+Hachimantai,2.7
+Yuzeonsen,3.8
+Shibahira,3.7
+Ugoiwaya,3.6
+Ugohonjo,3.4
+Iwakiminato,4.1
+Michikawa,3.4
+Ugokameda,4.0
+Yakushidou (Akita),3.3
+Koyoshi,3.3
+Nishitakisawa,4.0
+Kubota (Akita),3.9
+Maego,4.2
+Yashima,3.5
+Yoshizawa,4.1
+Nishime,3.0
+Ayukawa,3.8
+Kurosawa (Yurikogen),4.4
+Ugoiizuka,3.0
+Kamifutada,3.3
+Detohama,3.8
+Tenno,3.7
+Futada,3.6
+Omagari (Akita),3.8
+Kitaomagari,3.0
+Kariwano,3.7
+Yariminai,2.8
+Ugonagano,3.5
+Ugoyotsuya,2.8
+Uguisuno,2.6
+Ugosakai,4.1
+Mineyoshikawa,4.3
+Jinguji,3.5
+Takanosu,3.7
+Arase,3.5
+Aniai,4.4
+Hitachinai,4.2
+Kobuchi,2.9
+Okuani,3.8
+Animaeda,4.2
+Maeyama,3.0
+Yonaizawa,4.3
+Katsurase,3.8
+Aikawa,3.2
+Onodai,4.0
+Kamisugi,3.9
+Maedaminami,4.3
+Nukazawa,4.0
+Ogata,3.6
+Kisakata,3.8
+Konoura,4.0
+Nikaho,3.4
+Kamihama,4.3
+Kosagawa,3.2
+Kakunodate,4.0
+Ugoota,4.0
+Tazawako,3.9
+Shoden (Akita),4.0
+Jindai (Akita),3.1
+Saimyoji,4.3
+Kamihinokinai,4.1
+Yatsu,3.3
+Matsuba,4.0
+Moritake,3.5
+Kado,3.3
+Koikawa,4.2
+Iwadate,3.7
+Takinoma,4.2
+Hachimori,4.3
+Higashihachimori,4.3
+Torigata,4.7
+Sawame,3.6
+Hachirogata,3.1
+Ikawasakura,3.6
+Dobukai,3.5
+Akitashirakami,4.0
+Okashinai,3.8
+Ugonagatoro,3.3
+Nishitakanosu,4.0
+Sashimaki,3.7
+Tozawa,3.9
+Kitayamagata,3.5
+Yamagata,3.6
+Zao,3.4
+Uzenchitose,3.4
+Tateyama,4.1
+Minamidewa,4.4
+Urushiyama,3.2
+Higashikanai,3.6
+Takase (Yamagata),3.9
+Uzen-yamabe,3.7
+Mokichikinenkanmae,3.5
+Uzennagasaki,3.4
+Takatama,3.4
+Yamadera,4.2
+Yonezawa,3.7
+Nishiyonezawa,3.3
+Oitama,3.3
+Minamiyonezawa,2.6
+Sekine,3.3
+Narushima (Yamagata),3.0
+Chugun (Yamagata),3.6
+Tsuruoka,3.8
+Atsumionsen,4.1
+Iragawa,3.0
+Fujishima,3.8
+Uzen-oyama,3.5
+Koiwagawa,3.6
+Uzenmizusawa,3.8
+Kobato,3.0
+Nezugaseki,3.8
+Sanze,2.9
+Karikawa,4.0
+Nishibukuro,3.1
+Sakata,3.7
+Higashisakata,3.0
+Sagoshi,3.4
+Mototate,3.3
+Amarume,3.7
+Minamichokai,3.5
+Kitaamarume,3.0
+Minamino,4.0
+Kiyokawa,3.8
+Shinjo,3.8
+Izumita,2.6
+Funagata,3.7
+Minamishinjo,3.1
+Masukata,3.5
+Sagae,3.6
+Nishisagae,3.7
+Aterazawa,3.7
+Uzentakamatsu,3.9
+Minamisagae,2.8
+Shibahashi,4.3
+Kaminoyamaonsen,3.5
+Uzennakayama,3.9
+Murayama (Yamagata),3.5
+Sodesaki,3.3
+Nagai,3.6
+Minaminagai,3.6
+Uzennarita,4.5
+Shirousagi,3.8
+Tokiniwa,4.0
+Imaizumi,3.8
+Ayamekoen,4.1
+Nishiotsuka,4.4
+Tendo,3.5
+Midaregawa,4.0
+Tendominami,3.9
+Omoshiroyamakogen,3.9
+Sakuranbohigashine,3.6
+Jinmachi,3.5
+Higashine,3.4
+Ashisawa,3.2
+Oishida,3.6
+Akayu,3.7
+Orihata,3.4
+Miyauchi (Yamagata),4.0
+Nakagawa (Yamagata),3.3
+Ringo,3.4
+Nan-yoshiyakusho,3.5
+Uzenkanezawa,3.0
+Kitaoishida,2.3
+Mamurogawa,3.7
+Usugi,4.0
+Semionsen,3.6
+Sakaida,3.7
+Ohori,3.0
+Akakuraonsen,3.7
+Mogami,3.8
+Nagasawa,3.8
+Higashinagasawa,2.9
+Kamabuchi,3.7
+Nozoki,3.7
+Uzentoyosato,3.3
+Tsuya,3.5
+Furukuchi,4.1
+Uzenzennami,3.0
+Takahata,3.8
+Uzenkomatsu,2.7
+Inukawa,3.0
+Oguni,4.0
+Isaryo,3.8
+Koguwa,3.6
+Ayukai,3.6
+Arato,4.0
+Shikinosato,3.9
+Hagyu,3.8
+Uzentsubaki,3.4
+Tenoko,3.5
+Yuza,4.0
+Fukura,3.7
+Mega,4.2
+Uzenmatsuoka,4.2
+Uzennumazawa,3.8
+Soneda,3.8
+Fukushima (Fukushima),3.7
+Niwasaka,3.7
+Minamifukushima,3.1
+Nihonmatsu,3.5
+Iizakaonsen,3.8
+Iojimae,3.7
+Hanamizuzaka,3.8
+Sakuramizu,3.8
+Higashifukushima,3.5
+Hirano (Fukushima),3.4
+Matsukawa,3.8
+Sugita (Fukushima),2.8
+Izumi (Fukushimakotsu),3.9
+Iwashiroshimizu,3.3
+Sasakino,3.4
+Fukushimagakuinmae,3.6
+Oroshi-machi (Fukushima),3.1
+Senoue,3.0
+Mukaisenoue,2.0
+Kamimatsukawa,4.1
+Sasaya,3.1
+Bijutsukantoshokanmae,3.5
+Kanayagawa,3.5
+Date,4.0
+Kaida,3.4
+Aizuwakamatsu,3.9
+Hirota,3.9
+Ashinomakionsen,3.9
+Bandaimachi,3.9
+Higashinagahara,3.2
+Negishi (Fukushima),3.3
+Aizuhongo,3.1
+Nishiwakamatsu,3.3
+Niitsuru,4.0
+Inawashiro,3.6
+Nanukamachi,4.1
+Wakamiya,3.6
+Adachi,4.1
+Minamiwakamatsu,3.4
+Akaiwa,3.6
+Koriyama (Fukushima),3.1
+Asakanagamori,3.0
+Akogashima,3.4
+Bandaiatami,3.7
+Nakayamajuku,3.7
+Kikuta,3.0
+Hiwada,3.0
+Joko,3.0
+Iwakimoriyama,3.0
+Yatagawa,3.8
+Koriyamatomita,3.5
+Sukagawa,3.8
+Miharu,3.8
+Mogi,3.7
+Ueda (Fukushima),3.7
+Iwaki,3.9
+Izumi (JR),3.3
+Nakoso,3.3
+Kusano (Fukushima),3.5
+Uchigo,3.4
+Yumoto,4.1
+Hisanohama,3.0
+Ogawago,3.5
+Aizutakada,3.2
+Akai,3.2
+Oikawa,3.5
+Dojima,3.3
+Suetsugi,4.2
+Yotsukura,3.4
+Kawamae,3.8
+Shirakawa,3.8
+Shinshirakawa,3.6
+Iwakitanakura,3.5
+Kutano,3.0
+Yabuki,2.9
+Iwakiasakawa,3.8
+Satoshiraishi,3.0
+Kagamiishi,3.5
+Oshioe,4.0
+Shiokawa,3.7
+Ubado,4.0
+Yamato,3.6
+Soma,3.6
+Nittaki,3.5
+Komagamine,3.9
+Amaya,4.5
+Funehiki,3.9
+Ogoe,3.5
+Iwakitokiwa,3.4
+Kanmata,3.6
+Sugaya,3.6
+Ononiimachi,3.6
+Okinashima,3.9
+Ashinomakionsenminami,3.4
+Kanameta,4.1
+Odaka,3.8
+Momouchi,2.8
+Kashima,3.5
+Haranomachi,3.7
+Iwakiota,3.0
+Izumizaki,3.3
+Hobara,3.7
+Takako,3.0
+Oizumi (Fukushima),3.0
+Kamihobara,3.0
+Niida,3.0
+Nitta (Fukushima),2.6
+Yanagawa (Fukushima),3.3
+Motomiya (Fukushima),3.4
+Gohyakugawa,3.3
+Aizutoyokawa,3.8
+Kori,4.5
+Fujita,3.4
+Yunokamionsen,4.3
+Aizushimogo,3.9
+Yosonkoen,3.3
+Yagoshima,2.8
+Tonohetsuri,3.9
+Tadami,4.0
+Aizugamo,4.7
+Aizukogen-ozeguchi,4.0
+Aizutajima,4.0
+Nanatsugataketozanguchi,4.2
+Aizuarakai,4.2
+Tajimakokomae,3.7
+Nakaarai,3.4
+Aizunagano,3.3
+Kaminojiri,4.2
+Tokusawa,3.7
+Nozawa,4.0
+Kawageta,3.9
+Sekito,4.0
+Aizubange,3.3
+Todera,3.8
+Aizuyanaizu,4.1
+Aizumiyashita,4.2
+Aizunishikata,3.6
+Aizuhinohara,4.5
+Aizuoshio,3.8
+Aizuyokota,4.0
+Aizukawaguchi,4.1
+Honna,4.3
+Aizunakagawa,3.8
+Aizumizunuma,3.3
+Kawabeoki,3.0
+Izumigo,3.4
+Nogisawa,3.6
+Nakatoyo,2.6
+Chikatsu,3.2
+Iwakihanawa,3.7
+Iwakiishii,3.5
+Yamatsuriyama,3.9
+Higashidate,4.1
+Minamiishii,3.0
+Iwakiishikawa,3.5
+Natsui,4.0
+Hirono (Fukushima),3.5
+Eda (Fukushima),3.7
+Tatsuta,3.9
+Tomioka,4.0
+Yonomori,3.9
+Namie,3.8
+Ono,4.1
+Futaba,3.6
+Tomino,2.9
+Godo,4.2
+Takiya (Fukushima),3.7
+Aizushiozawa,4.2
+Aizusakamoto,3.8
+Kabuto,3.8
+Furusatokoen,3.5
+Inawashirokohan,3.2
+Aizusansondojo,3.5
+Hitachiaoyagi,3.0
+Hitachitsuda,3.5
+Mito,3.8
+Akatsuka,3.7
+Higashimito,3.3
+Uchihara,3.1
+Tsunezumi,3.4
+Oarai,4.1
+Kairakuen,3.8
+Hitachikonosu,3.3
+Nakaminato,4.1
+Tomobe,3.6
+Godai,3.6
+Shimosugaya,3.7
+Hitachi,4.2
+Ogitsu,3.2
+Isohara,3.6
+Hitachitaga,3.3
+Juo,3.7
+Omika,3.6
+Tokai,3.7
+Takahagi,3.6
+Sawa,3.4
+Tsuchiura,3.4
+Arakawaoki,3.4
+Hitachinoushiku,3.4
+Kandatsu,3.5
+Tsukuba,4.4
+Koga,3.7
+Kurihashi,3.5
+Shimotsuma,3.5
+Yuhki,3.4
+Katsuta,3.7
+Ishioka,3.7
+Hatori,3.6
+Otabayashi,3.5
+Kawashima,3.3
+Higashiyuki,3.3
+Ryugasaki,3.6
+Sanuki,3.3
+Fujishiro,3.3
+Ireji,4.3
+Toride,3.5
+Nakasugaya,4.1
+Sawara,3.8
+Daiho,3.9
+Kurogo,3.4
+Tobanoe,4.4
+Sodo,3.3
+Tamamura,3.4
+Kitamitsukaido,3.8
+Mitsukaido,3.6
+Shimodate,3.6
+Ishige,3.6
+Minamiishige,3.6
+Mitsuma,3.3
+Nakatsuma,3.2
+Fukuhara,3.4
+Hitachiota,3.9
+Yagawara,3.4
+Kawai,3.7
+Hitachiomiya,3.3
+Fukuroda,3.7
+Yamagatajuku,3.8
+Saigane,3.8
+Nogamihara,3.3
+Urizura,3.5
+Minaminakago,3.3
+Otsuko,3.1
+Kasama,3.5
+Iwama,3.6
+Inada,3.5
+Shishido,3.6
+Minamimoriya,3.6
+Terahara,3.1
+Nishitoride,3.3
+Yumemino,3.8
+Inatoi,3.5
+Shintoride,4.0
+Togashira,3.1
+Kohoku,3.5
+Ushiku,3.6
+Shimoogawa,3.7
+Banpakukinenkoen (Ibaraki),4.1
+Fusa,3.4
+Kenkyugakuen,3.8
+Midorino,3.4
+Nikkomae,3.8
+Tonoyama,3.8
+Hiraiso,3.8
+Ajigaura,4.0
+Takadanotekkyo,3.8
+Isozaki,3.5
+Kaneage,3.7
+Nakane,4.0
+Minamikurihashi,3.6
+Kashimajingu,3.4
+Kashimaono,3.7
+Chojagahamashiosaihamanasukoenmae,3.9
+Kashima Soccer Stadium,3.5
+Koyadai,3.7
+Nakafunyu,3.9
+Kashimanada,3.5
+Itako,3.4
+Nobukata,3.2
+Shinmoriya,3.4
+Moriya,3.8
+Tamagawamura,3.2
+Karasuyama,3.7
+Shizu,3.5
+Kamisugaya,3.8
+Minamisakaide,3.3
+Nukada (Ibaraki),3.6
+Tamado,3.4
+Otago,3.4
+Niihari,3.2
+Shimodatenikomae,2.9
+Higuchi,3.8
+Orimoto,3.6
+Kamiogawa,3.9
+Atago (Chiba),3.8
+Shimousakozaki,3.8
+Namegawa,3.6
+Shimousamanzaki,3.8
+Oto,3.6
+Ajiki,3.4
+Iwase,3.5
+Yamato (Ibaraki),3.5
+Haguro (Ibaraki),3.6
+Omigawa,4.3
+Shiishiba,3.3
+Shimousatachibana,4.4
+Choshi,3.9
+Taiyo,3.9
+Shinhokota,3.4
+Tokushuku,3.1
+Kitaurakohan,3.8
+Kashimaasahi,4.0
+Hinuma,3.8
+Miraidaira,3.6
+Tobudobutsukoen,3.6
+Motegi,4.1
+Hitachidaigo,4.0
+Shimonomiya,3.7
+Satte,3.7
+Minamiutsunomiya,3.7
+Utsunomiya,3.8
+Tobuutsunomiya,3.6
+Ujiie,3.2
+Suzumenomiya,3.5
+Okamoto (Tochigi),3.8
+Esojima,3.1
+Nishikawada,3.2
+Tsuruta,3.5
+Hoshakuji,3.7
+Fubasami,3.7
+Ishibashi (Tochigi),3.6
+Yasuzuka,3.5
+Shimotsukeosawa,3.5
+Ashikaga,3.6
+Agata,3.4
+Ashikagashi,3.6
+Tobuizumi,3.2
+Yashuyamabe,3.5
+Fukui,3.8
+Omata (Tochigi),3.6
+Ashikaga Flower Park,4.3
+Tomita (Tochigi),3.3
+Yamamae,3.6
+Tochigi,3.5
+Ienaka,3.3
+Kassenba,3.7
+Shintochigi,3.4
+Kuzuu,3.7
+Shin-ohirashita,3.6
+Iwafune,4.1
+Shizuwa,3.3
+Fujioka,3.8
+Yashuotsuka,3.1
+Yashuhirakawa,2.6
+Ohirashita,3.7
+Omoigawa,3.3
+Tobukanasaki,2.8
+Tajima,3.4
+Mamada,3.6
+Sano,3.6
+Sanoshi,3.3
+Tanuma,3.4
+Horigome,3.2
+Yoshimizu,3.1
+Tada (Tochigi),3.3
+Shinkanuma,3.8
+Momiyama,3.6
+Kanuma,3.7
+Niregi,3.3
+Kitakanuma,2.6
+Itaga,4.1
+Shimogoshiro,4.3
+Mooka,4.2
+Kamasusaka,3.2
+Tobunikko,4.0
+Nikko,4.2
+Ashio,4.1
+Tsudo,3.9
+Myojin,3.4
+Imaichi,3.4
+Kamiimaichi,4.2
+Shimoimaichi,4.0
+Daiyamuko,3.5
+Okuwa (Tochigi),3.2
+Kosagoe,3.7
+Shintakatoku,3.7
+Kawajiyumoto,3.7
+Kawajionsen,3.5
+Kinugawaonsen,4.0
+Tobu world square,4.1
+Kinugawakoen,3.5
+Nakamiyorionsen,3.9
+Yunishigawaonsen,4.0
+Shinfujiwara,3.6
+Ryuokyo,3.8
+Oyama,3.7
+Koganei,3.5
+Nogi,3.5
+Jichiidai,3.7
+Kugeta,3.9
+Kitamooka,3.6
+Terauchi,3.6
+Nishidai,3.7
+Kitayama (Tochigi),3.0
+Nishinasuno,3.5
+Nasushiobara,3.7
+Nozaki (Tochigi),3.0
+Kuroiso,3.6
+Kataoka,3.4
+Yaita,3.5
+Ogane,3.6
+Kurodahara,3.5
+Takaku,3.5
+Konoyama,4.3
+Taki (Tochigi),3.5
+Kobana,4.2
+Omochanomachi,3.7
+Kuniya,3.5
+Mibu,3.2
+Nanai,3.8
+Mashiko,3.7
+Ten-yaba,3.5
+Ichihana,4.4
+Sasaharada,3.8
+Shimotsukehanaoka,3.8
+Niita (Tochigi),3.5
+Toyohara,3.7
+Mato,3.9
+Gunmasoja,2.8
+Ino (Gunma),3.4
+Shinmaebashi,3.6
+Maebashi,3.6
+Maebashioshima,3.5
+Katakai,4.0
+Joto,3.2
+Ogo,4.0
+Komagata,3.4
+Akasaka (Gunma),2.5
+Egi,3.3
+Shinzokekkan Center,3.4
+Chuomaebashi,3.8
+Kitahara,3.3
+Yagihara,3.5
+Higoshi,4.3
+Araya (Gunma),3.0
+Kasukawa,3.8
+Zen,3.6
+Kamiizumi,2.7
+Mitsumata,3.6
+Isesaki,3.4
+Kunisada,3.0
+Shibukawa,3.8
+Kitatakasaki,3.4
+Takasaki (JR),3.9
+Kuragano,3.2
+Yamana,4.0
+Takasakiton-yamachi,3.6
+Negoya,4.0
+Kitafujioka,3.2
+Gunmayawata,3.5
+Matsuida,3.6
+Sanonowatashi,3.7
+Minamitakasaki,3.6
+Annaka,3.8
+Isobe (Gunma),3.0
+Shinmachi (Gunma),3.4
+Annakaharuna,3.2
+Takasaki (Joshin),3.9
+Takasakishokadaigakumae,3.2
+Nishiyamana,3.6
+Maniwa,3.8
+Yoshii (Gunma),3.9
+Nishiyoshii,3.0
+Joshuniiya,3.8
+Aioi,3.8
+Akagi,3.8
+Kiryu,3.6
+Kiryukyujomae,3.9
+Shinkiryu,3.6
+Tennojuku,3.6
+Fujiyamashita,4.2
+Nishikiryu,3.3
+Mizunuma,4.0
+Motojuku (Gunma),4.1
+Maruyamashita,3.0
+Iwajuku,3.2
+Kamikanbai,4.3
+Niisato (Gunma),4.0
+Nikkawa (Gunma),3.5
+Higashinikkawa (Gunma),3.0
+Azami,3.9
+Shimoshinden,3.7
+Shin-isesaki,3.5
+Goshi,3.4
+Sakaimachi,3.4
+Serada,3.2
+Numata,3.7
+Kizaki,3.5
+Ota (Gunma),3.6
+Hosoya (Gunma),3.3
+Ryumai,3.4
+Jiroenbashi,3.2
+Niragawa,3.5
+Yabuduka,3.5
+Sanmaibashi,3.7
+Nishikoizumi,3.6
+Koizumimachi (Gunma),2.8
+Iwamoto,3.8
+Morinjimae,3.5
+Tatebayashi,3.4
+Watarase (Gunma),3.0
+Narushima (Gunma),3.7
+Gokan,3.5
+Honnakano,3.3
+Shikishima,3.7
+Tsukuda,3.4
+Onogami,3.5
+Ubashima,4.0
+Kanashima (Gunma),3.6
+Onogamionsen,3.9
+Gunmafujioka,3.7
+Higashitomioka,3.3
+Joshuichinomiya,4.1
+Joshutomioka,3.9
+Nishitomioka,3.5
+Nanjai,4.0
+Kanohara,3.4
+Joshunanokaichi,4.1
+Joshufukushima,3.9
+Sendaira,3.1
+Yokokawa (Gunma),4.1
+Nishimatsuida,3.7
+Okabe,2.9
+Kawamata,3.3
+Hanawa,3.8
+Godo (Gunma),4.2
+Konaka,3.5
+Omama,3.9
+Shimonita,4.0
+Tansho,3.3
+Ichishiro,3.5
+Nakanojo,3.6
+Naganoharakusatsuguchi,3.6
+Gunmaharamachi,3.6
+Gunmaotsu,3.0
+Haneo,3.4
+Manza/Kazawaguchi,3.4
+Kawarayuonsen,3.4
+Omae,4.1
+Fukurogura,4.2
+Gobara,3.6
+Iwashima,3.5
+Yagura,3.4
+Minakami,3.8
+Yubiso,4.3
+Kamimoku (Gunma),3.8
+Jomokogen,3.5
+Itakuratoyodaimae,3.6
+Shinozuka,3.3
+Higashikoizumi,3.5
+Nakano (Gunma),3.5
+Omiya (Saitama),3.9
+Sashiogi,2.6
+Minamifuruya,3.5
+Kitayono,3.3
+Nishioomiya,3.5
+Nisshin (Saitama),3.6
+Miyahara,3.5
+Yonohonmachi,3.6
+Ageo,3.7
+Omiyakoen,3.7
+Kitaomiya,3.0
+Tetsudohakubutsukan,4.0
+Kamonomiya,3.3
+Konba,3.8
+Yoshinohara,3.0
+Saitamashintoshin,3.8
+Higashiomiya,3.5
+Higashimiyahara,3.3
+Haraichi,3.6
+Yono,3.5
+Owada (Saitama),3.1
+Nanasato,2.9
+Urawamisono,3.7
+Higashiurawa,3.4
+Minamiyono,3.3
+Kitaurawa,3.5
+Nakaurawa,3.3
+Nishiurawa,3.3
+Musashiurawa,3.6
+Minamiurawa,3.4
+Urawa,3.7
+Kamifukuoka,3.5
+Warabi,3.5
+Kitatoda,3.3
+Higashiiwatsuki,3.5
+Iwatsuki,3.7
+Toyoharu,3.3
+Takesato,3.1
+Sengendai,3.5
+Hasuda,3.7
+Obukuro,3.5
+Kasahata,4.2
+Matoba,2.9
+Kawagoe,3.7
+Sakado (Saitama),3.5
+Tsurugashima,3.5
+Nishikawagoe,3.5
+Honkawagoe,3.8
+Kawagoeshi,3.4
+Kasumigaseki (Saitama),2.9
+Shingashi,3.3
+Shinsayama,3.3
+Ipponmatsu (Saitama),3.0
+Musashitakahagi,3.5
+Wakaba,3.6
+Fujimino,3.8
+Higashimatsuyama,3.7
+Ishiwara (Saitama),3.0
+Kumagaya,3.7
+Kagohara,3.4
+Socio distribution center,3.2
+Mochida,3.4
+Kamikumagaya,3.4
+Oaso,3.3
+Gyoda,3.4
+Fukiage (Saitama),2.7
+Hiroseyachonomori,3.5
+Fukaya,4.0
+Kawaguchi,3.5
+Hatogaya,3.3
+Soka,3.5
+Dokkyodaigakumae,3.5
+Shinden (Saitama),2.9
+Minumadaishinsuikoen,3.6
+Yatsuka,3.5
+Toda (Saitama),3.6
+Gyodashi,3.3
+Higashigyoda,3.3
+Bushuaraki,3.9
+Kitakonosu,3.2
+Shingo (Saitama),3.8
+Hanyu,3.4
+Kitasakado,3.6
+Chichibu,3.8
+Onohara,3.5
+Bushuhino,4.1
+Urayamaguchi,4.0
+Bushunakagawa,4.1
+Shiroku,3.6
+Mitsumineguchi,4.1
+Minano,3.6
+Kagemori,3.5
+Ohanabatake,3.9
+Seibuchichibu,4.1
+Wadokuroya,4.1
+Kotesashi,3.6
+Shintokorozawa,3.6
+Tokorozawa,3.9
+Shimoyamaguchi,3.2
+Seibuen,3.3
+Nishitokorozawa,3.4
+Kokukoen,3.8
+Shin-akitsu,3.2
+Higashitokorozawa,3.7
+Akitsu,3.3
+Seibukyujomae,4.0
+Oizumigakuen,3.8
+Iriso,3.2
+Sayamagaoka,3.7
+Shiki,3.9
+Yokoze,3.7
+Niiza,3.5
+Kiyose,3.4
+Yuenchinishi,3.9
+Inariyamakoen,3.4
+Musashifujisawa,3.4
+Seibuyuenchi,3.9
+Higashihanno,3.5
+Hanno,3.5
+Nishiagano,3.7
+Irumashi,3.6
+Motokaji,3.4
+Agano,3.4
+Shomaru,3.8
+Higashiagano,3.8
+Komagawa,3.4
+Musashiyokote,3.5
+Sakurazawa (Saitama),3.5
+Aketo,3.3
+Hanasaki,3.6
+Kazo,3.4
+Washinomiya,3.5
+Shinkoga,3.3
+Yagyu,3.7
+Kuki,2.7
+Konosu,3.2
+Higashiwashinomiya,3.4
+Honjo,3.6
+Jinbohara,3.7
+Honjowaseda,3.5
+Kodama,3.2
+Takasaka,3.5
+Shinrinkoen (Saitama),3.6
+Tsukinowa,3.2
+Musashiranzan,3.5
+Minamisakurai (Saitama),3.3
+Ichinowari,3.6
+Kasukabe,3.5
+Fujinoushijima,3.2
+Kitakasukabe,3.2
+Himemiya,3.6
+Yagisaki,2.8
+Sayamashi,3.8
+Bushi,4.0
+Tonerikoen,3.7
+Nishihanyu,3.8
+Todakoen,3.7
+Kitamoto,3.4
+Omaeda,4.1
+Nagata (Saitama),3.2
+Takekawa,3.7
+Matsuhisa,3.3
+Yodo,3.7
+Shonan,3.5
+Kitaageo,3.5
+Maruyama (Saitama),3.6
+Okegawa,3.3
+Hanuki,3.5
+Uchijuku,3.5
+Inachuo,3.6
+Koshigaya Lake Town,3.7
+Gamo,3.4
+Shinmisato,3.7
+Takenotsuka,3.5
+Toneri,3.5
+Koshigaya,3.5
+Shinkoshigaya,3.5
+Yoshikawa,3.4
+Yoshikawa-Minami,3.9
+Minamikoshigaya,3.5
+Yorii,3.6
+Hagure,4.0
+Yashio,3.7
+Kaneko,3.2
+Hakonegasaki,3.5
+Asaka,3.7
+Asakadai,3.4
+Kitaasaka,3.4
+Wakoshi,3.6
+Yanasegawa,3.5
+Narimasu,3.7
+Chikatetsunarimasu,3.6
+Hikarigaoka,3.6
+Hibarigaoka (Tokyo),3.8
+Higashikurume,3.8
+Shinshiraoka,3.2
+Shiraoka,2.4
+Rokucho,3.2
+Hoya,3.7
+Misatochuo,3.8
+Mizuhodai,3.4
+Tsuruse,3.4
+Misato (Saitama),3.5
+Kanamachi,3.4
+Kameari,3.7
+Kawakado,3.1
+Nishioya,2.9
+Bushunagase,3.3
+Sugitotakanodai,3.4
+Bushukarasawa,3.0
+Wado,3.4
+Shiku,3.2
+Moro,3.7
+Higashimoro,3.1
+Ogose,3.6
+Ogawamachi (Saitama),3.6
+Tobutakezawa,3.5
+Takezawa,3.5
+Myokaku,4.2
+Ashigakubo,3.6
+Oyahana,3.0
+Nogami,3.9
+Kaminagatoro,3.9
+Nagatoro,4.1
+Obusuma,3.7
+Orihara,3.2
+Tamayodo,3.0
+Hachigata,3.2
+Umesato,3.3
+Soga,3.5
+Chiba,3.7
+Chibadera,3.6
+Honchiba,3.2
+Kamatori,3.4
+Higashichiba,3.0
+Omoridai,3.2
+Hamano,3.3
+Gakuenmae (Chiba),3.4
+Chibaminato,3.6
+Nishichiba,3.5
+Sakaecho (Chiba),3.2
+Nishinobuto,3.0
+Chibachuo,3.6
+Shiyakushomae (Chiba),3.9
+Kenchomae (Chiba),3.4
+Yoshikawakoen,3.5
+Chibakoen,4.0
+Shinchiba,3.0
+Tsuga,3.2
+Sakusabe,3.7
+Shinkemigawa,3.2
+Makuhari,3.1
+Mimomi,3.3
+Yachiyodai,3.7
+Katsutadai,3.6
+Keiseiokubo,3.2
+Keiseiowada,3.3
+Kemigawa,3.3
+Inage,3.8
+Sports Center,3.4
+Kaihinmakuhari,3.7
+Keiseimakuhari,3.2
+Makuharihongo,3.4
+Keiseiinage,3.3
+Midoridai,3.5
+Yotsukaido,3.3
+Tendai,3.2
+Anagawa (Chiba),4.0
+Toke,3.4
+Oguradai,3.6
+Chishirodaikita,3.5
+Sakuragi (Chiba),3.4
+Chishirodai,3.5
+Honda,3.4
+Mitsuwadai,3.3
+Yachimata,3.4
+Dobutsukoen,4.2
+Chiharadai,3.2
+Oyumino,4.1
+Inagekaigan,3.7
+Kemigawahama,3.9
+Matsugishi,3.3
+Shimousatoyosato,3.7
+Saruda,3.1
+Gyotoku,3.7
+Minamigyotoku,3.7
+Ichikawa,3.7
+Ichikawamama,3.5
+Konodai,3.3
+Akiyama,3.8
+Kitakokubun,3.4
+Myoden,3.8
+Motoyawata,3.6
+Ichikawaono,3.1
+Funabashihoten,3.4
+Omachi (Chiba),3.7
+Matsuhidai,3.7
+Onigoe,3.6
+Shimousanakayama,3.7
+Barakinakayama,3.0
+Futamatashinmachi,2.8
+Keiseinakayama,3.1
+Yagiri,2.9
+Ichikawashiohama,3.0
+Sugano,3.1
+Nishifunabashi,3.5
+Keiseiyawata,3.5
+Komuro,3.7
+Higashinakayama,3.5
+Tsukada,3.3
+Magomezawa,3.7
+Higashifunabashi,3.6
+Funabashi,3.7
+Keiseinishifuna,3.3
+Takifudo,3.6
+Yakuendai,3.5
+Takanekido,3.5
+Takanekodan,3.5
+Kaijin,3.5
+Keiseifunabashi,3.7
+Shinfunabashi,3.8
+Higashikaijin,2.8
+Hasama,3.4
+Kitanarashino,3.6
+Funabashinichidaimae,3.1
+Yachiyomidorigaoka,3.8
+Kamagayadaibutsu,3.5
+Shiroi,3.5
+Futawamukodai,3.3
+Shinnarashino,3.4
+Minamifunabashi,3.5
+Tsudanuma,3.6
+Maebara,3.1
+Narashino,3.4
+Daijingushita,3.5
+Funabashikeibajo,3.4
+Shintsudanuma,3.6
+Kamagaya,3.6
+Kokonoe,3.8
+Nakofunakata,4.0
+Kisarazu,3.5
+Iwane,3.4
+Higashikiyokawa,4.7
+Sodegaura,3.8
+Makuta,4.3
+Kimitsu,3.7
+Kazusakiyokawa,3.6
+Gion (Chiba),3.6
+Shimogori,4.1
+Higashimatsudo,3.6
+Koya,4.9
+Shinmatsudo,3.4
+Mabashi,3.7
+Minaminagareyama,3.6
+Matsudo,3.5
+Kitakogane,3.5
+Koganejoshi,3.3
+Goko,3.0
+Shin-yahashira,3.3
+Tokiwadaira,3.8
+Motoyama (Chiba),3.7
+Kamihongo,3.5
+Kitamatsudo,3.5
+Matsudoshinden,3.4
+Kunugiyama,3.5
+Minamikashiwa,3.5
+Minoridai,3.2
+Takayanagi,3.4
+Mutsumi,3.7
+Nanakodai,3.3
+Kawama,3.5
+Nodashi,3.5
+Unga,3.6
+Shimizukoen,3.3
+Oami,3.3
+Honno,3.0
+Mobara,3.4
+Shinmobara,3.3
+Kuzumi,3.4
+Narita,3.7
+Keiseinarita,3.8
+Naritayukawa,3.7
+Kozunomori,3.9
+Sogosando,3.2
+Higashinarita,4.1
+Naritakuko (Terminal 2),4.0
+Shibayamachiyoda,3.5
+Yukarigaoka,3.9
+Sakura,3.9
+Keiseiusui,3.6
+Keiseisakura,3.6
+Ino (Chiba),3.6
+Ashikajima,4.1
+Inubo,4.1
+Tokawa,4.4
+Kasagamikurohae,4.2
+Kimigahama,3.9
+Motochoshi,4.1
+Kannon,3.7
+Nakanocho,4.2
+Monoi,3.2
+Minamishisui,3.4
+Osakura,3.9
+Chugakko,3.9
+Joshidai,3.2
+Togane,3.4
+Gumyo,3.3
+Fukutawara,3.4
+Hyuga,3.6
+Asahi (Chiba),3.4
+Iioka,3.4
+Kurahashi,3.2
+Higata,3.5
+Keiseitsudanuma,3.4
+Kashiwanoha Campus,3.7
+Masuo,3.3
+Kashiwa,3.8
+Toyoshiki,3.1
+Abiko,3.9
+Edogawadai,3.8
+Shinkashiwa,3.3
+Kashiwatanaka,3.4
+Sakasai,3.2
+Kitakashiwa,3.3
+Nagareyamaotakanomori,3.8
+Hatsuishi,3.0
+Yatsumi,3.3
+Araki (Chiba),3.6
+Kazusaokitsu,3.6
+Onjuku,3.5
+Katsuura,2.8
+Ubara,3.3
+Namegawa Island,3.8
+Anegasaki,3.1
+Goi,3.6
+Kazusaushiku,4.1
+Kazusakawama,4.3
+Amaariki,3.9
+Yawatajuku,3.2
+Yorokeikoku,4.0
+Kazusamitsumata,3.6
+Kazusayamada,4.0
+Kazusatsurumai,4.3
+Itabu,4.4
+Kazusamurakami,4.0
+Umatate,4.3
+Kofudai (Chiba),3.5
+Takataki,4.1
+Kazusakubo,4.3
+Enokido (Chiba),3.4
+Satomi,4.1
+Kazusaokubo,4.3
+Tsukizaki,4.3
+Kazusaminato,3.6
+Nagareyama Central Park,3.7
+Nagareyama,4.7
+Heiwadai (Chiba),3.0
+Hiregasaki,3.4
+Hatsutomi,3.3
+Yokota,3.6
+Yachiyochuo,3.3
+Toyokatsutadai,3.6
+Murakami (Chiba),3.3
+Tennodai,3.4
+Higashiabiko,3.6
+Awaamatsu,3.9
+Futomi,3.8
+Awakamogawa,3.7
+Awakominato,3.7
+Emi,4.1
+Kitahatsutomi,3.3
+Shinkamagaya,3.6
+Kururi,3.9
+Hirayama,3.9
+Kazusamatsuoka,3.4
+Obitsu,3.7
+Aohori,3.0
+Sanukimachi,3.6
+Tawarada,3.6
+Kazusakameyama,3.9
+Onuki,3.4
+Takeoka,4.0
+Hamakanaya,3.6
+Maihama,3.9
+Torami,3.8
+Nagaura (Chiba),3.5
+Higashiyokota,4.1
+Kobayashi (Chiba),3.7
+Chiba New Town Chuo,3.6
+Inzaimakinohara,3.8
+Kioroshi,3.3
+Inbanihon-idai,3.7
+Naruto,3.8
+Iigura,3.1
+Keiseishisui,3.9
+Koen,3.4
+Shisui,3.5
+Iwai,3.8
+Minamihara,3.4
+Chitose (Chiba),3.6
+Tomiura (Chiba),3.7
+Chikura,3.6
+Wadaura,3.6
+Yokaichiba,3.2
+Junikyo,4.3
+Suigo,3.8
+Katori,3.4
+Sasagawa,3.2
+Matsuo (Chiba),3.6
+Yokoshiba,3.4
+Kuniyoshi,4.2
+Namihana,3.6
+Kazusanakagawa,3.9
+Ohara (Chiba),3.7
+Mikado,3.7
+Nittano,4.4
+Taito,3.6
+Kazusaazuma,3.3
+Nishiohara,3.3
+Chojamachi,3.6
+Kazusaichinomiya,3.6
+Kazusanakano,4.2
+Fusamoto,4.2
+Koyamatsu,4.1
+Shiromigaoka,3.5
+Nishihata,4.0
+Higashifusamoto,3.6
+Hota (Chiba),3.6
+Awakatsuyama,3.4
+Naritakuko,4.2
+Kugahara,3.7
+Iidabashi,3.5
+Kudanshita,3.6
+Suidobashi,3.4
+Kojimachi,3.4
+Hanzomon,3.7
+Akihabara,3.8
+Iwamotocho,3.4
+Kanda (Tokyo),3.6
+Kodenmacho,3.5
+Shinnihonbashi,3.3
+Otemachi (Tokyo),3.6
+Ogawamachi (Tokyo),3.3
+Tameikesanno,3.7
+Awajicho,3.4
+Shin-ochanomizu,3.5
+Asakusabashi,3.6
+Jinbocho,3.5
+Ochanomizu,3.6
+Takebashi,3.4
+Yotsuya,3.6
+Ichigaya,3.6
+Suehirocho (Tokyo),3.6
+Nagatacho,3.3
+Bakuroyokoyama,3.4
+Hibiya,3.4
+Shintomicho (Tokyo),3.4
+Tsukiji,3.6
+Hatchobori (Tokyo),3.4
+Kachidoki,3.3
+Kyobashi (Tokyo),3.7
+Takaracho (Tokyo),3.2
+Tokyo,4.3
+Ginza,4.0
+Ginza 1-chome,3.6
+Shiodome,3.7
+Shinbashi,3.7
+Tsukijishijo,3.7
+Higashiginza,3.6
+Kayabacho,3.4
+Tsukishima,3.7
+Nihonbashi (Tokyo),3.5
+Suitengumae,3.8
+Ningyocho,3.6
+Mitsukoshimae,3.5
+Hamacho,3.4
+Higashinihonbashi,3.5
+Aoyama 1-chome,3.6
+Akasaka (Tokyo),3.8
+Akasakamitsuke,3.7
+Nogizaka,4.0
+Roppongi,3.7
+Azabujuban,3.7
+Kamiyacho,3.6
+Roppongi 1-chome,3.7
+Shibaurafuto,3.7
+Takeshiba,3.8
+Tamachi (Tokyo),3.7
+Hamamatsucho,3.6
+Hinode,3.9
+Omotesando,3.9
+Gaienmae,3.6
+Kitashinagawa,3.3
+Shinagawa,3.9
+Tennozu Isle,3.5
+Akabanebashi,3.8
+Shibakoen,3.8
+Daimon (Tokyo),3.6
+Mita (Tokyo),3.5
+Sengakuji,3.4
+Onarimon,3.5
+Shirokanedai,3.6
+Shirokanetakanawa,3.5
+Hiroo,3.6
+Takanawadai,3.3
+Meguro,3.9
+Uchisaiwaicho,3.3
+Odaibakaihinkoen,4.0
+Toranomon,3.4
+Akebonobashi,3.6
+Yotsuya 3-chome,3.5
+Edogawabashi,3.5
+Kagurazaka,3.6
+Ushigomeyanagicho,3.6
+Kokkaigijidomae,3.4
+Ushigomekagurazaka,3.6
+Wakamatsukawada,3.5
+Waseda (Metro),3.5
+Okubo (Tokyo),3.5
+Shin-okubo,3.5
+Takadanobaba,3.4
+Nishiwaseda,3.6
+Higashishinjuku,3.5
+Shinjuku,3.8
+Shinjuku 3-chome,3.7
+Ochiai (Tokyo),3.5
+Shimoochiai,3.5
+Nakai,3.5
+Higashinakano,3.6
+Nakanosakaue,3.5
+Nishishinjuku,3.6
+Shinanomachi,3.7
+Shiinamachi,3.6
+Mejiro,3.7
+Shinjukugyoenmae,3.6
+Sendagaya,3.7
+Araiyakushimae,3.4
+Shinegota,3.7
+Higashinagasaki,3.6
+Shinjukunishiguchi,3.6
+Tochomae,3.6
+Nishishinjuku 5-chome,3.6
+Hatsudai,3.6
+Omokagebashi,3.9
+Waseda (Toden),3.5
+Seibushinjuku,3.7
+Otsuka (Tokyo),3.7
+Gokokuji,3.4
+Shin-otsuka,3.5
+Higashiikebukuro,3.5
+Myogadani,3.7
+Kasuga (Tokyo),3.5
+Korakuen,3.7
+Nezu,3.7
+Sugamo,3.7
+Sengoku,3.4
+Sendagi,3.5
+Tabata,3.6
+Todaimae,3.7
+Nishinippori,3.5
+Honkomagome,3.5
+Hakusan (Tokyo),3.6
+Gotanda,3.6
+Hongo 3-chome,3.5
+Komagome,3.6
+Zoshigaya (Tokyo Metro),3.6
+Uenohirokoji,3.5
+Okachimachi,3.7
+Asakusa (Tobu/Toei/Metro),3.9
+Asakusa (Tsukuba EXP),3.8
+Iriya (Tokyo),3.4
+Minowa,3.4
+Kuramae,3.1
+Shin-okachimachi,3.6
+Ryogoku,3.9
+Minamisenju,3.6
+Ueno,4.0
+Nakaokachimachi,3.3
+Uguisudani,3.7
+Tawaramachi (Tokyo),3.8
+Inaricho (Tokyo),3.5
+Nippori,3.7
+Uenookachimachi,3.5
+Tokyo Skytree,4.0
+Honjoazumabashi,3.5
+Kinshicho,3.7
+Oshiage,3.9
+Hikifune,3.7
+Kikukawa (Tokyo),3.2
+Morishita (Tokyo),3.7
+Omurai,3.3
+Keiseihikifune,3.6
+Sumiyoshi (Tokyo),3.4
+Kanegafuchi,3.5
+Higashimukojima,3.4
+Yahiro,3.5
+Kameido,3.7
+Higashiazuma,3.4
+Hirai (Tokyo),3.4
+Tokyo Teleport,4.0
+Ariake Tennis Nomori,3.8
+Kokusaitenjijo,3.7
+Kiyosumishirakawa,3.6
+Monzennakacho,3.5
+Keiseiueno,4.0
+Toyosu,3.5
+Etchujima,3.3
+Ojima (Tokyo),3.7
+Nishiojima,3.4
+Kameidosuijin,3.6
+Kiba,3.2
+Toyocho,3.6
+Minamisunamachi,3.5
+Shinonome (Tokyo),3.6
+Tatsumi,3.6
+Shinkiba,3.5
+Shintoyosu,3.7
+Senzoku,3.6
+Nishikoyama,3.5
+Fudomae,3.6
+Musashikoyama,3.9
+Oimachi,3.6
+Omori (Tokyo),3.8
+Shimoshinmei,3.8
+Tachiaigawa,3.6
+Nishioi,3.3
+Osaki,3.7
+Osakihirokoji,3.5
+Togoshi,3.6
+Oikeibajomae,3.7
+Samezu,3.6
+Ebisu,3.8
+Aomonoyokocho,3.6
+Shinbanba,3.4
+Togoshikoen,3.4
+Nakanobu,3.5
+Ebaramachi,3.7
+Yurakucho,3.7
+Magome,3.2
+Hatanodai,3.7
+Kitasenzoku,3.8
+Nagahara (Tokyo),3.5
+Shinagawa Sea Side,3.7
+Omorikaigan,3.4
+Ikejiriohashi,3.4
+Shibuya,3.8
+Shinsen,3.8
+Daikan-yama,3.8
+Nakameguro,3.9
+Ookayama,3.8
+Toritsudaigaku,3.5
+Midorigaoka (Tokyo),3.7
+Komabatodaimae,3.8
+Gakugeidaigaku,3.7
+Yutenji,3.8
+Jiyugaoka (Tokyo),3.8
+Tamagawa,3.9
+Senzokuike,3.7
+Ikegami,3.8
+Nishikomagome,3.5
+Hasunuma,3.4
+Yaguchinowatashi,3.6
+Ishikawadai,3.5
+Unoki,3.7
+Edogawa,3.4
+Numabe,3.6
+Omorimachi,3.6
+Heiwajima,3.5
+Umeyashiki (Tokyo),3.5
+Akabane,3.7
+Kamata,3.6
+Showajima,3.3
+Anamoriinari,3.5
+Otorii,3.5
+Keikyukamata,3.5
+Zoshiki,3.5
+Ontakesan,3.9
+Chidoricho,3.8
+Shimomaruko,3.5
+Ryutsu Center,3.3
+Kuhonbutsu,3.8
+Rokugodote,3.4
+Kojiya,3.6
+Tenkubashi,3.6
+Numabukuro,3.4
+Aomi (Tokyo),3.9
+Honancho,3.6
+Kyodo,3.8
+Gotokuji,3.8
+Sakurajosui,3.3
+Shimotakaido,3.6
+Higashimatsubara,3.9
+Matsubara (Tokyo),3.9
+Ikenoue,3.9
+Sangenjaya,3.9
+Seijogakuenmae,3.8
+Futakotamagawa,3.9
+Umegaoka,3.8
+Shoinjinjamae,3.9
+Wakabayashi (Tokyo),4.1
+Soshigayaokura,3.9
+Chitosefunabashi,3.6
+Yoga,3.7
+Sasazuka,3.5
+Shimokitazawa,3.8
+Shindaita,3.5
+Daitabashi,3.5
+Okusawa,3.7
+Oyamadai,3.7
+Chitosekarasuyama,3.3
+Hachiman-yama,3.8
+Rokakoen,3.2
+Kamikitazawa,3.6
+Sengawa,3.8
+Kaminoge,3.7
+Ariake (Tokyo),3.6
+Sakurashinmachi,3.8
+Kugayama,3.7
+Fujimigaoka,3.4
+Mitakadai,3.5
+Higashikitazawa,3.9
+Izumitamagawa,3.6
+Setagaya,3.9
+Miyanosaka,3.9
+Kamimachi,3.9
+Setagayadaita,3.9
+Meidaimae,3.5
+Yoyogiuehara,3.6
+Yoyogikoen,3.6
+Yoyogihachiman,3.6
+Meijijingumae,3.7
+Hatagaya,3.3
+Kitasando,3.7
+Harajuku,3.9
+Yoyogi,3.6
+Sangubashi,3.8
+Minamishinjuku,3.6
+Nakano (Tokyo),3.6
+Nogata,3.7
+Iogi,4.1
+Saginomiya,3.6
+Shimoigusa,3.5
+Nakamurabashi,3.7
+Fujimidai,3.6
+Toritsukasei,3.5
+Asagaya,3.7
+Shinnakano,3.6
+Nakanofujimicho,3.7
+Higashikoenji,3.6
+Koenji,3.9
+Nakanoshinbashi,4.3
+Ogikubo,3.8
+Shinkoenji,3.6
+Minamiasagaya,3.6
+Kamiigusa,3.5
+Eifukucho,3.9
+Nishieifuku,3.6
+Nishiogikubo,3.7
+Takaido,3.5
+Hamadayama,3.5
+Yamashita (Tokyo),3.8
+Kamishakujii,3.5
+Musashikosugi,3.1
+Kichijoji,4.0
+Ekoda,3.7
+Ikebukuro,3.8
+Kanamecho,3.9
+Kitaikebukuro,3.5
+Itabashi,3.2
+Shimoitabashi,3.0
+Senkawa,3.1
+Sugamoshinden,3.8
+Nishisugamo,3.5
+Shinkoshinzuka,3.7
+Todenzoshigaya,3.9
+Gakushuinshita,3.7
+Koshinzuka,3.9
+Akabaneiwabuchi,3.6
+Higashijujo,3.5
+Kitaakabane,3.4
+Shimurasakaue,3.4
+Jujo (Tokyo),3.8
+Motohasunuma,3.4
+Ukimafunado,3.7
+Oji,3.5
+Ojikamiya,3.6
+Itabashihoncho,3.3
+Oku,3.7
+Kajiwara,3.5
+Kaminakazato,3.5
+Shimo,3.6
+Sakaecho (Tokyo),3.5
+Arakawashakomae,4.1
+Asukayama,4.1
+Shin-itabashi,3.6
+Takinogawa 1-chome,3.8
+Nishigahara,3.5
+Nishigahara 4-chome,3.8
+Akadoshogakkomae,3.2
+Shinmikawashima,3.5
+Arakawaitchumae,3.9
+Arakawakuyakushomae,3.9
+Arakawa 7-chome,3.9
+Arakawa 2-chome,4.0
+Machiya,3.7
+Machiya 2-chome,3.9
+Mikawashima,3.5
+Arakawayuenchimae,4.0
+Kumanomae,3.6
+Oyama (Tokyo),3.6
+Miyanomae,3.9
+Higashiogu 3-chome,3.8
+Keiseisekiya,3.4
+Senjuohashi,3.5
+Minowabashi,4.1
+Shimura 3-chome,3.4
+Hasune,3.6
+Shimoakatsuka,3.1
+Chikatetsuakatsuka,3.7
+Kishibojinmae,3.6
+Itabashikuyakushomae,3.6
+Kotakemukaihara,3.4
+Nakaitabashi,3.4
+Tokiwadai (Tokyo),3.6
+Kamiitabashi,3.5
+Tobunerima,3.3
+Takashimadaira,3.6
+Mukohara (Tokyo),3.7
+Shakujiikoen,3.9
+Toshimaen,3.8
+Nerimakasugacho,3.3
+Heiwadai (Tokyo),3.5
+Musashiseki,3.5
+Nerima,3.7
+Shinsakuradai,3.7
+Sakuradai (Tokyo),3.9
+Hikawadai,3.3
+Nerimatakanodai,3.5
+Higashifushimi,3.4
+Aoi,3.5
+Gotanno,3.6
+Kosuge,3.5
+Ayase,3.1
+Kitaayase,3.5
+Nishiarai,3.6
+Umejima,3.5
+Ogiohashi,3.7
+Koya (Tokyo),3.6
+Daishimae,3.8
+Adachiodai,3.8
+Yazaike,3.7
+Kitasenju,3.7
+Nishiaraidaishinishi,3.5
+Ushida (Tokyo),3.3
+Sakuragaoka,3.2
+Aoto,3.6
+Ohanajaya,3.6
+Keiseitateishi,3.5
+Koiwa,3.7
+Shinkoiwa,3.4
+Keiseikanamachi,3.6
+Shibamata,4.1
+Keiseikoiwa,3.2
+Keiseitakasago,3.5
+Shinshibamata,3.5
+Horikirishobuen,3.0
+Yotsugi,4.0
+Higashiikebukuro 4-chome,3.7
+Ichinoe,3.5
+Shinozaki,3.6
+Funabori,3.6
+Mizue,3.8
+Nishikasai,3.7
+Kasai,3.7
+Kasairinkaikoen,4.0
+Keiohachioji,3.6
+Toyota,3.5
+Hachioji,3.7
+Kitahachioji,3.7
+Komiya,3.3
+Takao (Tokyo),4.5
+Nishihachioji,3.4
+Katakura,3.4
+Kitano (Tokyo),3.7
+Keiokatakura,3.3
+Hachiojiminamino,3.9
+Otsuka/Teikyodaigaku,3.3
+Keiotama Center,3.8
+Chuodaigaku/Meiseidaigaku,3.5
+Matsugaya,3.6
+Mejirodai,3.5
+Higashiakiru,3.0
+Musashiitsukaichi,3.9
+Naganuma (Tokyo),3.4
+Hazama,3.6
+Yamada (Tokyo),3.5
+Keiohorinouchi,3.4
+Hirayamajoshikoen,3.3
+Takaosanguchi,4.2
+Akigawa,3.9
+Aihara,3.5
+Tamasakai,3.6
+Kunitachi,3.8
+Takamatsu (Tokyo),3.9
+Tachikawa,3.9
+Tachikawakita,3.7
+Nishikunitachi,3.6
+Hino (Tokyo),3.4
+Seibutachikawa,3.5
+Musashisunagawa,3.0
+Izumitaiikukan,3.8
+Shibasakitaiikukan,3.8
+Sunagawananaban,3.1
+Tamagawajosui,3.6
+Higashiyamatoshi,3.4
+Tachihi,3.5
+Tachikawaminami,3.6
+Haijima,3.7
+Nishitachikawa,3.5
+Takanodai,3.5
+Mitaka,3.7
+Inokashirakoen,4.0
+Musashikoganei,3.8
+Musashisakai,3.8
+Higashikoganei,3.7
+Shinkoganei,3.6
+Tama,3.7
+Chofu,3.7
+Nishichofu,3.6
+Oume,3.8
+Ozaku,3.4
+Kabe,3.3
+Miyanohira,4.0
+Higashioume,3.0
+Ikusabata,4.3
+Sawai,3.9
+Mitake,4.0
+Hinatawada,3.9
+Futamatao,3.5
+Shiraitodai,3.7
+Musashinodai,3.7
+Tobitakyu,3.7
+Fuchu (Tokyo),3.8
+Fuchuhonmachi,3.4
+Bubaigawara,3.2
+Nishikokubunji,3.5
+Yaho,3.6
+Kitafuchu,3.0
+Kyoteijomae,3.4
+Tamareien,3.2
+Koremasa,3.7
+Higashifuchu,3.5
+Kokubunji,3.8
+Nakagawara,3.8
+Nishifu,3.4
+Fuchukeibaseimonmae,3.9
+Higashinakagami,3.3
+Nakagami,3.4
+Akishima,3.5
+Keiotamagawa,3.4
+Shibasaki,3.5
+Kokuryo,3.7
+Fuda,3.6
+Komae,3.6
+Yanokuchi,3.2
+Machiyaekimae,3.7
+Sagamihara,3.4
+Hashimoto (Kanagawa),4.0
+Machida,3.5
+Kakio,3.4
+Tsurukawa,3.5
+Suzukakedai,3.5
+Naruse,3.1
+Odakyunagayama,3.8
+Karakida,3.4
+Kurokawa (Kanagawa),3.4
+Fuchinobe,3.5
+Yabe,3.2
+Tamagawagakuenmae,3.6
+Odakyutama Center,4.0
+Kodomonokuni (Kanagawa),4.5
+Seibuyagisawa,3.6
+Kurihira,3.5
+Nagatsuta,3.5
+Seisekisakuragaoka,3.9
+Kodaira,3.4
+Hamura,3.4
+Oumekaido,4.5
+Ogawa (Tokyo),3.2
+Shinkodaira,3.2
+Hagiyama,3.4
+Yasaka (Tokyo),3.3
+Hitotsubashigakuen,3.5
+Koigakubo,3.7
+Hanakoganei,3.5
+Takahatafudo,3.9
+Mogusaen,4.0
+Koshukaido,3.4
+Manganji,3.7
+Minamidaira,3.5
+Tamadobutsukoen,4.1
+Hodokubo,3.5
+Kumegawa,3.5
+Higashimurayama,3.6
+Musashiyamato,3.7
+Yagawa,3.2
+Ushihama,3.3
+Fussa,3.8
+Kumagawa,3.1
+Higashifussa,3.0
+Kamikitadai,3.8
+Sakurakaido,3.5
+Tanashi,3.7
+Tama Center,3.9
+Inagi,3.6
+Inaginaganuma,3.6
+Minamitama,3.5
+Wakabadai,3.8
+Keioyomiuri Land,3.7
+Shin-yurigaoka,3.8
+Musashimasuko,3.6
+Musashihikida,3.4
+Okutama,4.1
+Shiromaru,4.8
+Kori (Tokyo),4.3
+Hatonosu,4.0
+Asano,3.9
+Anzen,3.6
+Keikyutsurumi,3.5
+Tsurumi,3.3
+Tsurumiichiba,3.4
+Hatchonawate,3.5
+Shitte,3.3
+Yako,3.4
+Tsurumiono,4.0
+Okurayama (Kanagawa),3.7
+Tsunashima,3.6
+Kikuna,3.3
+Kagetsuenmae,3.6
+Namamugi,3.3
+Hiyoshi (Kanagawa),3.7
+Bentenbashi,3.8
+Kokudo,4.3
+Yokohama,3.8
+Oguchi,3.2
+Myorenji,3.9
+Shinkoyasu,3.1
+Kanagawa,3.3
+Tanmachi,3.5
+Keikyushinkoyasu,3.4
+Koyasu,3.1
+Kanagawashinmachi,3.4
+Katakuracho,3.6
+Kishinekoen,3.4
+Mitsuzawakamicho,3.3
+Mitsuzawashimocho,3.1
+Nakakido,3.6
+Hakuraku,3.6
+Kozukue,3.2
+Kamoi,3.4
+Nishiya,3.7
+Kamihoshikawa,3.5
+Wadamachi,3.6
+Koganecho,3.4
+Hinodecho,3.5
+Sakuragicho,4.0
+Tobe,3.4
+Hiranumabashi,3.3
+Tennocho,3.3
+Hodogaya,3.6
+Takashimacho,3.3
+Minamiota,3.4
+Minatomirai,4.1
+Kannai,3.6
+Nihon-Odori,3.9
+Bashamichi,3.9
+Isezakichojamachi,3.7
+Bandobashi,3.2
+Negishi (Kanagawa),3.4
+Yamate,3.5
+Ishikawacho,3.6
+Motomachi/Chukagai,3.9
+Idogaya,3.5
+Gumyoji (Keikyu),3.7
+Maita,3.6
+Gumyoji (Yokohamashiei),3.7
+Kamiooka,3.8
+Yoshinocho,3.4
+Musashishiraishi,3.3
+Higashitotsuka,3.6
+Futamatagawa,3.7
+Hoshikawa (Kanagawa),3.7
+Tsurugamine,3.6
+Seya,3.2
+Sugita (Kanagawa),3.6
+Keikyutomioka,3.4
+Nokendai,3.7
+Yokodai,3.5
+Shinsugita,3.5
+Byobugaura,3.3
+Kanazawabunko,3.7
+Mutsuura,3.2
+Konandai,3.7
+Nojimakoen,3.7
+Kanazawahakkei,3.8
+Uminokoenshibaguchi,3.7
+Sachiura,3.5
+Torihama,3.1
+Namikikita,3.4
+Uminokoenminamiguchi,3.6
+Shidaiigakubu,3.6
+Hakkeijima,4.0
+Nanbushijo,3.7
+Sangyoshinko Center,3.5
+Namikichuo,4.3
+Fukuura,3.4
+Oppama,4.3
+Shin-yokohama,3.7
+Nippa,3.6
+Takata (Kanagawa),2.0
+Hiyoshihoncho,3.4
+Higashiyamata,3.7
+Kitayamata (Kanagawa),3.5
+Nakamachidai,3.5
+Odoriba,3.4
+Totsuka,3.7
+Ofuna,3.8
+Zengyo,3.9
+Fujisawa,3.7
+Maioka,3.5
+Yayoidai,3.6
+Ryokuentoshi,3.7
+Tateba,3.5
+Nakada (Kanagawa),4.0
+Hongodai,3.4
+Mutsuainichidaimae,3.7
+Izumino,3.8
+Shimoiida,3.6
+Shonandai,3.7
+Shimonagaya,3.4
+Kaminagaya,3.8
+Kibogaoka,3.6
+Mitsukyo,3.5
+Tokaichiba (Kanagawa),3.6
+Nakayama (Kanagawa),3.2
+Aobadai,3.7
+Kawawacho,3.6
+Tana,3.2
+Tsukimino,3.7
+Yumegaoka,3.7
+Ichigao,3.5
+Tama Plaza,4.1
+Onda,3.7
+Azamino,3.6
+Eda (Kanagawa),4.2
+Tsuzukifureainooka,4.0
+Fujigaoka (Kanagawa),3.6
+Nakagawa (Kanagawa),3.6
+Saginuma,3.6
+Center Kita,3.9
+Center Minami,3.9
+Odasakae,3.6
+Kawasaki,3.8
+Minatocho,3.7
+Kawasakidaishi,3.8
+Keikyukawasaki,3.7
+Suzukicho,3.3
+Kojimashinden,3.5
+Sangyodoro,3.8
+Kawasakishinmachi,3.6
+Hamakawasaki,3.7
+Shinkawasaki,3.8
+Higashimonzen,3.4
+Kajigaya,3.7
+Kashimada,3.3
+Hirama,3.2
+Motosumiyoshi,4.0
+Musashishinjo,3.6
+Musashinakahara,3.6
+Mukaigawara,3.5
+Shinmaruko,4.0
+Takatsu (Kanagawa),3.7
+Tsudayama,3.3
+Mizonoguchi,3.7
+Miyazakidai,3.5
+Futakoshinchi,3.6
+Ikuta (Kanagawa),3.6
+Mukogaokayuen,3.5
+Yomiuri Land Mae,3.4
+Noborito,3.7
+Inadazutsumi,3.0
+Keioinadazutsumi,3.5
+Yurigaoka,3.5
+Miyamaedaira,3.4
+Odakyusagamihara,3.7
+Satsukidai,3.4
+Haruhino,3.9
+Sagamiko,3.8
+Kamimizo,3.4
+Minamihashimoto,3.3
+Uenohara,3.6
+Fujino,3.4
+Harataima,2.9
+Banda (Kanagawa),3.4
+Sagamiono,3.6
+Okawa,3.9
+Shimomizo,3.7
+Sobudaimae,3.5
+Sobudaishita,3.4
+Higashirinkan,3.4
+Chuorinkan,3.7
+Kamakura,4.1
+Kinugasa,2.7
+Zushi,3.6
+Higashizushi,3.3
+Misakiguchi,3.8
+Miurakaigan,4.0
+Kitakurihama,3.6
+Keikyukurihama,3.8
+YRP Nobi,3.4
+Anjinzuka,3.6
+Shioiri,3.5
+Hemi,3.5
+Keikyuotsu,3.5
+Shin-otsu,3.6
+Maborikaigan,3.4
+Kenritsudaigaku,3.5
+Yokosukachuo,3.9
+Uraga,3.6
+Keikyutaura,3.8
+Horinouchi,3.6
+Tsukuihama,3.5
+Keikyunagasawa,3.8
+Kurihama,3.4
+Yokosuka,4.0
+Taura,3.7
+Hiratsuka,3.5
+Oiso,4.0
+Tokaidaigakumae,3.4
+Samukawa,3.3
+Hon-atsugi,3.8
+Isehara,3.5
+Tsurumakionsen,3.5
+Chigasaki,3.7
+Ninomiya,3.6
+Aikoishida,3.7
+Inamuragasaki,4.0
+Kitakamakura,4.0
+Shonanfukasawa,3.7
+Shonanmachiya,3.8
+Nishikamakura,3.9
+Gokurakuji,4.3
+Enoshima,4.3
+Kataseyama,3.7
+Kamakurakokomae,4.4
+Koshigoe,4.1
+Mejiroyamashita,3.8
+Yuigahama,4.1
+Wadazuka,4.0
+Hase (Kanagawa),4.0
+Shichirigahama,4.2
+Fujimicho (Kanagawa),3.5
+Tsujido,4.0
+Fujisawahonmachi,3.7
+Chogo,3.6
+Kataseenoshima,4.2
+Kurami,3.2
+Miyayama,3.4
+Ishigami,3.9
+Kugenuma,3.8
+Shonanenoshima,4.2
+Shonankaigankoen,3.6
+Yanagikoji,3.6
+Kugenumakaigan,4.0
+Honkugenuma,3.7
+Kozashibuya,3.3
+Kadosawabashi,3.3
+Iidaoka,3.5
+Sagaminumata,3.6
+Tomizu,3.7
+Gohyakurakan,3.7
+Hotaruda,3.2
+Isaida,3.8
+Ashigara (Kanagawa),3.4
+Hayakawa,3.4
+Odawara,3.9
+Kazamatsuri,3.9
+Hakoneitabashi,2.8
+Iriuda,3.8
+Nebukawa,4.3
+Midoricho,3.1
+Kayama,2.5
+Kozu,3.7
+Shimosoga,3.5
+Tsukahara,3.6
+Kamioi,3.8
+Kaisei,3.5
+Showa,3.7
+Kagawa (Kanagawa),3.5
+Kitachigasaki,3.1
+Shinzushi,3.8
+Jinmuji,3.8
+Hadano,3.6
+Shibusawa,3.7
+Shinmatsuda,3.6
+Gora,4.0
+Ebina,3.7
+Tsuruma,3.3
+Minamirinkan,3.3
+Yamato (Kanagawa),3.6
+Atsugi,3.3
+Shake,3.2
+Kashiwadai,3.6
+Zama,3.1
+Sagamino,3.6
+Iriya (Kanagawa),3.7
+Daiyuzan,3.7
+Wadagahara,3.6
+Iwahara,3.8
+Yamakita,4.0
+Fuji Film Mae,3.9
+Sagamikaneko,3.6
+Matsuda,3.6
+Yaga,3.5
+Higashiyamakita,3.4
+Kowakidani,4.1
+Ohiradai,4.2
+Miyanoshita,4.0
+Naka-Gora,3.9
+Hakoneyumoto,4.1
+Sounzan,3.9
+Chokokunomori,3.8
+Manazuru,3.5
+Yugawara,3.7
+Ogimachi (Kanagawa),3.9
+Toyosaka,3.8
+Hayadori,3.3
+Kuroyama,3.8
+Niizaki,3.1
+Niigata,3.8
+Echigoishiyama,3.1
+Higashiniigata,3.2
+Hakusan (Niigata),3.8
+Sekiya (Niigata),2.9
+Echigosone,4.0
+Kameda,3.4
+Kyogase,3.4
+Kobari,3.2
+Ogikawa,3.5
+Niitsu,4.1
+Higashiniitsu,3.3
+Furutsu,3.7
+Shinseki,3.4
+Yashiroda,4.2
+Satsukino,3.2
+Echigoakatsuka,3.6
+Tagami,3.4
+Hanyuda,3.4
+Terao,3.3
+Maki,4.6
+Tsubame,3.7
+Tsubamesanjo,3.7
+Aoyama (Niigata),2.9
+Uchino,3.8
+Niigatadaigakumae,3.1
+Uchinonishigaoka,3.1
+Iwamuro,3.4
+Nishitsubame,3.3
+Yahiko,3.9
+Miyauchi (Niigata),3.4
+Maekawa,3.8
+Nagaoka,3.8
+Raikoji,3.5
+Oshikiri,3.6
+Mitsuke,3.7
+Kitanagaoka,3.5
+Echigoiwatsuka,3.7
+Tsukayama,3.5
+Kariwa,4.1
+Urasa,3.6
+Ojimaya,3.7
+Echigotakiya,4.0
+Kirihara (Niigata),3.4
+Echigokawaguchi,3.6
+Kitahorinouchi,4.0
+Bunsui,3.7
+Teradomari,4.0
+Uchigamaki,3.0
+Ojiya,3.5
+Kitasanjo,4.1
+Higashisanjo,3.5
+Honai,4.2
+Sanjo (Niigata),3.8
+Kamo (Niigata),3.1
+Tokoji,4.1
+Obiori,4.0
+Ibarame,3.2
+Kashiwazaki,3.3
+Yasuda (Niigata),3.6
+Arahama,4.0
+Nishinakadori,3.5
+Higashikashiwazaki,3.5
+Yoneyama,3.9
+Echigohirota,3.2
+Kasashima,3.8
+Kitajo,3.7
+Kujiranami,3.7
+Nishiyama (Niigata),4.5
+Raihai,3.6
+Nagatori,4.1
+Ishiji,3.8
+Oginojo,3.5
+Kakizaki,3.6
+Tsukioka (Niigata),3.2
+Nakaura,3.4
+Shibata,3.3
+Nishishibata,3.4
+Sasaki,3.9
+Kanazuka,3.3
+Kaji,3.0
+Kamiyama,3.4
+Echigoiwasawa,3.8
+Gejo,3.3
+Tokamachi,3.7
+Echigoshikawatari,4.2
+Echigotazawa,4.1
+Doichi,4.4
+Matsudai,3.9
+Shinza,3.3
+Uonumanakajo,3.6
+Misashima,4.6
+Echigomizusawa,4.1
+Tsunan,3.9
+Murakami (Niigata),3.9
+Sakamachi,3.5
+Iwafunemachi,3.3
+Gatsugi,3.5
+Hirabayashi,3.4
+Echigokangawa,4.5
+Fuya,3.8
+Majima,3.8
+Hirakida,3.5
+Kuwagawa,4.1
+Echigohayakawa,4.2
+Aouzu,3.6
+Minamiyoshida,4.6
+Kitayoshida,3.5
+Yoshida (Niigata),3.5
+Kajiyashiki,3.7
+Itoigawa,3.7
+Ichiburi,3.7
+Omi (Niigata),3.6
+Nechi,3.5
+Oyashirazu,3.9
+Hiraiwa,3.5
+Kubikiono,3.4
+Himekawa,3.0
+Uramoto,4.3
+Kotaki,4.1
+Tsutsuishi,4.3
+Myokokogen,3.7
+Arai (Niigata),3.6
+Nihongi,4.0
+Sekiyama,3.9
+Kitaarai,3.7
+Gosen,3.3
+Saruwada,3.6
+Kitagosen,3.8
+Sakihana,3.7
+Maoroshi,3.7
+Kubiki,3.4
+Kuroi (Niigata),3.6
+Joetsumyoko,3.8
+Takada (Niigata),3.9
+Kasugayama,3.4
+Naoetsu,3.7
+Minamitakada,3.3
+Uragawara,4.1
+Mushigawaosugi,3.9
+Saigata,3.7
+Katamachi,3.8
+Dosokohama,3.4
+Hokuhokuoshima,4.2
+Arimagawa,4.1
+Jogehama,3.4
+Oikeikoinomori,4.4
+Tanihama,3.6
+Nadachi,3.8
+Suibara,4.0
+Koide,3.8
+Uonumatanaka,3.6
+Irihirose,3.6
+Yabukami,3.9
+Yairo,3.9
+Echigohorinouchi,3.0
+Echigosuhara,4.1
+Echigohirose,3.1
+Muikamachi,3.6
+Ishiuchi,3.6
+Itsukamachi,3.6
+Shiozawa,3.7
+Osawa (Niigata),3.7
+Joetsukokusai Ski Jomae,3.6
+Nakajo,3.6
+Echigooshima,4.0
+Yahagi,4.1
+Mikawa (Niigata),3.5
+Igashima,3.3
+Tsugawa,3.8
+Kanose,4.0
+Izumozaki,3.2
+Echigoyuzawa,4.2
+Iwappara Ski Jomae,3.9
+Echigonakazato,3.7
+Echigotanaka,3.8
+Ashidaki,4.1
+Echigoshimoseki,3.5
+Myohoji (Niigata),3.9
+Imagawa (Niigata),4.3
+Kamijo (Niigata),3.9
+Uonumakyuryo,4.1
+Echigokatakai,4.2
+Toyomi,3.6
+Tsuchitaru,4.1
+Oshirakawa,4.1
+Higashigejo,4.0
+Hideya,4.0
+Morimiyanohara,4.2
+Gala Yuzawa,4.3
+Toyama,4.0
+Inarimachi (Toyama),4.1
+Kaihotsu,3.8
+Tsukioka (Toyama),3.7
+Asanamachi,3.3
+Kamihori,4.1
+Kosugi (Chitetsu),3.1
+Minamitoyama,3.7
+Nunoichi,2.3
+Oizumi (Toyama),3.9
+Fujikoshi,2.8
+Okudachugakkomae,3.9
+Etchuebara,3.5
+Higashishinjo,5.0
+Etchunakajima,4.1
+Higashitoyama,3.9
+Nishitoyama,3.6
+Fuchuusaka,3.1
+Awajima,4.3
+Shimookui,3.8
+Jogawara,3.6
+Hayahoshi,3.1
+Toyotatoyopethonshamae,3.5
+Yasunoya,3.5
+Sasazu,3.6
+Inujimashinmachi,2.8
+Ohirota,3.4
+Hasumachi,3.4
+Higashiiwase,3.7
+Iwasehama,4.0
+Keirinjomae (Toyama),3.2
+Osho,3.2
+Intec Honshamae,3.3
+Arimineguchi,3.7
+Kamidaki,3.8
+Daisenji,3.7
+Daigakumae (Toyama),3.4
+Kurobeunazukionsen,4.0
+Chisato (Toyama),3.4
+Higashiyatsuo,3.7
+Kosugi (Ainokaze),3.0
+Nirehara,3.5
+Mizuhashi,3.8
+Inotani,3.9
+Aramachi (Toyama),3.6
+Etchuyatsuo,3.6
+Hongu (Toyama),3.5
+Etchusango,3.3
+Etchufunahashi,3.6
+Kenchomae (Toyama),4.0
+Takaoka,3.8
+Toide,3.3
+Nishitakaoka,3.4
+Hirokoji (Toyama),4.0
+Etchunakagawa,3.8
+Nomachi,3.6
+Futatsuka,3.3
+Asahigaoka (Toyama),3.0
+Shiminbyoinmae,3.7
+Takaoka-Yabunami,3.5
+Amaharashi,4.2
+Sakashitamachi,4.0
+Nakashinminato,3.6
+Shin-takaoka,3.7
+Shogawaguchi,3.0
+Shinmachiguchi,4.1
+Nishi Shinminato,3.8
+Rokudoji,3.5
+Kataharamachi (Toyama),4.5
+Hayashi,2.9
+Shikinochugakkomae,2.9
+Fukuoka(Toyama),4.0
+Fushiki,3.8
+Aburaden,3.7
+Shin-yoshihisa,3.4
+Nomachiguchi,3.3
+Etchudaimon,3.5
+Etchukokubu,3.8
+Himi,3.8
+Yoshihisa,4.0
+Yonejimaguchi,3.8
+Uozu,3.6
+Kyoden,4.0
+Dentetsuuozu,3.7
+Nishiuozu,4.3
+Shin-uozu,3.6
+Etchunakamura,3.7
+Shimao,3.1
+Nakakazumi,3.2
+Namerikawa,3.2
+Nakanamerikawa,2.8
+Nishinamerikawa,3.2
+Hayatsukikazumi,4.0
+Higashinamerikawa,4.0
+Nishikazumi,3.7
+Hamakazumi,3.3
+Ikuji,3.9
+Kurobe,3.7
+Dentetsuishida,3.9
+Dentetsukurobe,4.3
+Higashimikkaichi,3.7
+Unazukionsen,4.0
+Aimoto,4.0
+Tochiya,2.0
+Oritate,2.5
+Uchiyama,4.0
+Otozawa,3.8
+Urayama,2.5
+Oritateguchi,3.0
+Ogyu,3.7
+Shitayama,2.9
+Shin-kurobe,3.9
+Nagaya,3.3
+Wakaguri,3.8
+Tonami,3.6
+Higashinojiri,2.0
+Fukuno (Toyama),3.6
+Takagi,3.4
+Isurugi,3.9
+Fukumitsu,3.4
+Johana,4.1
+Etchuyamada,3.5
+Kaiomaru,4.5
+Nakafushiki,3.4
+Higashishinminato,4.5
+Koshinokata,4.1
+Chigozuka,2.3
+Terada (Toyama),3.9
+Ainoki,2.0
+Shinainoki,3.4
+Kamiichi,4.0
+Shinmiyakawa,3.6
+Shitadan,3.3
+Iwakuraji,4.1
+Etchuizumi,3.0
+Sawanakayama,2.8
+Gohyakkoku,3.8
+Enokimachi,3.3
+Tazoe,2.0
+Kamagafuchi,2.8
+Yokoe,3.9
+Nyuzen,3.5
+Tomari (Toyama),3.8
+Etchumiyazaki,3.7
+Minamitoyamaekimae,3.8
+Shinnomachi,3.6
+Kyukaniryo Center Mae,3.8
+Dentetsutoyama,4.0
+Chigaki,3.7
+Kanazawa,4.3
+Morimoto,3.3
+Awagasaki,3.8
+Nishikanazawa,3.5
+Nishiizumi,3.6
+Higashikanazawa,3.7
+Nukajutakumae,3.6
+Okobata,3.3
+Matto,3.6
+Uchinada,3.8
+Nominegami,3.5
+Kurikara,3.6
+Yokoyama (Ishikawa),3.2
+Iburihashi,3.4
+Oshino,3.1
+Nanao,3.7
+Tokuda (Ishikawa),4.1
+Tazuruhama,3.3
+Wakuraonsen,3.8
+Kasashiho,4.2
+Nishigishi,4.5
+Notonakajima,4.1
+Komatsu,3.4
+Awazu (Ishikawa),3.3
+Meiho,3.4
+Anamizu,4.1
+Notokashima,4.5
+Kagaonsen,3.6
+Daishoji,3.4
+Hakui,3.7
+Minamihakui,3.1
+Kanemaru,3.3
+Chiji,4.1
+Unoke,3.3
+Takamatsu (Ishikawa),3.9
+Nose,2.9
+Tsurugi,3.9
+Hinomiko,3.0
+Nonoichi (JR),3.5
+Kagakasama,3.8
+Sodani,3.0
+Dohoji,3.5
+Shijima,3.9
+Hibari,3.8
+Mikawa,3.4
+Inokuchi (Ishikawa),3.0
+Oyanagi (Ishikawa),3.4
+Komaiko,3.4
+Otomaru,3.9
+Nonoichikodaimae,3.6
+Magae,3.5
+Nonoichi (Hokuriku),2.9
+Tsubata,3.1
+Nakatsubata,3.3
+Hontsubata,3.4
+Hodatsu,3.9
+Shikinami,3.5
+Notobe,3.9
+Notoninomiya,3.6
+Mitsuya,3.1
+Shinnishikanazawa,3.6
+Mitsukuchi,2.4
+Waridashi,3.6
+Kagatsume,2.7
+Isobe (Ishikawa),3.1
+Fukui (Fukui),3.8
+Miyama,4.2
+Taichonosato,4.5
+Asozu,3.8
+Morita,3.3
+Harue,2.8
+Sekijyujimae,3.5
+Ichinami,3.0
+Harmony Hall,3.7
+Sanjuhassha,4.1
+Echizenhanando,3.2
+Ebata,3.8
+Bell Mae,3.6
+Echizenkaihotsu,2.9
+Tawaramachi (Fukui),4.0
+Nishibetsuin,3.1
+Nikkakagakumae,3.9
+Fukudaimaenishifukui,3.7
+Matsumotomachiya,2.6
+Echizenshinbo,3.4
+Kowashozu,3.4
+Shokokaigishomae,4.0
+Odoro,3.5
+Oiwakeguchi,4.2
+Higashifujishima,1.0
+Echizentogo,4.1
+Washizukaharibara,4.3
+Hanando,3.5
+Echizenshimabashi,3.9
+Yatsushima,3.5
+Asuwayamakoenguchi,4.0
+Fukuiguchi,4.0
+Ichijodani,3.6
+Seimei,3.0
+Asuwa,4.5
+Rokujo,3.7
+Nittazuka,3.5
+Nakatsuno,3.8
+Kannonmachi (Fukui),3.1
+Echizen-yakushi,3.5
+Echizenomiya,4.0
+Shinfukui,3.9
+Tsuruga,3.9
+Nishitsuruga,3.2
+Awano,3.0
+Shinhikida,4.3
+Obama,3.5
+Shinhirano,3.3
+Higashiobama,3.5
+Kato,3.7
+Echizenono,3.9
+Kuzuryuko,4.0
+Echizentomida,3.3
+Echizentano,4.0
+Ushigahara,4.3
+Kitaono,3.7
+Shimoyuino,3.8
+Kakigashima,4.2
+Katsuyama,4.1
+Hossaka,4.0
+Hishima,3.8
+Echizentakewara,4.2
+Kobunato,4.4
+Hota (Fukui),3.0
+Sabae,3.7
+Nishiyamakoen,4.2
+Nishisabae,4.2
+Tobanaka,3.3
+Mizuochi,3.0
+Sundomenishi,2.8
+Kitasabae,3.4
+Hosorogi,3.5
+Awarayunomachi,3.9
+Awaraonsen,3.4
+Ushinoya,3.6
+Maruoka,3.4
+Banden (Fukui),3.8
+Ozeki,3.5
+Mizui,5.0
+Takefu,3.4
+Iehisa,4.3
+Sports Kouen,3.3
+Oshio,3.2
+Kitago,4.2
+Shimohyogo-Kofuku,4.4
+Nishinagata-Yurinosato,3.5
+Nishiharue-Heartpia,3.8
+Taromaru-Angelland,3.6
+Matsuoka,4.3
+Eiheijiguchi,3.9
+Mikuniminato,4.1
+Mikuni (Fukui),4.2
+Mikunijinja,4.3
+Domeki,3.8
+Sanno (Fukui),4.5
+Komyoji,3.0
+Shimoshii,4.0
+Shiizakai,4.5
+Imajo,3.8
+Nanjo,2.8
+Yunoo,3.7
+Mihama,3.7
+Higashimihama,4.2
+Kiyama,3.7
+Aonogo,3.0
+Wakasawada,3.4
+Wakasatakahama,3.5
+Mitsumatsu,3.6
+Wakasahongo,3.7
+Otoba,3.6
+Mikata,3.7
+Tomura,4.0
+Kaminaka,2.8
+Wakasaarita,3.8
+Fujii,4.0
+Hakariishi,2.3
+Echizennonaka,3.4
+Jinaijyoshikoukou,3.8
+Seihama,3.7
+Echizentakefu,3.8
+Kofu,3.8
+Kanente,3.4
+Minamikofu,3.6
+Zenkoji,3.9
+Ryuo,3.6
+Kaisumiyoshi,3.4
+Kokubo,3.4
+Higashihanawa,3.7
+Sakaori,3.3
+Isawaonsen,4.0
+Kaiueno,3.2
+Gekkoji,4.2
+Shimoyoshida,4.2
+Fujikyu Highland,4.3
+Fujisan,4.0
+Kotobuki,3.8
+Mitsutoge,3.8
+Yoshiikeonsenmae,4.0
+Kasei,3.8
+Tsurushi,3.4
+Yamuramachi,4.1
+Tanokura,3.9
+Higashikatsura,4.0
+Tsurubunkadaigakumae,3.8
+Akasaka (Yamanashi),3.7
+Tokaichiba (Yamanashi),4.3
+Higashiyamanashi,3.3
+Kasugaicho,3.8
+Enzan,3.8
+Shiozaki,3.3
+Otsuki,3.8
+Kamiotsuki,3.9
+Hatsukari,3.4
+Saruhashi,3.6
+Sasago,3.6
+Torisawa,3.6
+Yanagawa (Yamanashi),3.6
+Nirasaki,3.7
+Anayama,3.8
+Shinpu,3.9
+Hinoharu,4.3
+Ichikawadaimon,3.9
+Joei,3.7
+Kaioizumi,3.8
+Kaikoizumi,4.1
+Nagasaka,3.7
+Kobuchizawa,4.0
+Kiyosato,3.9
+Shinanosakai,4.4
+Katsunumabudokyo,4.0
+Shiotsu,3.8
+Kaiyamato,3.7
+Ashigawa,4.0
+Ichikawahonmachi,3.8
+Kaiiwama,4.0
+Ochii,4.0
+Kajikazawaguchi,3.7
+Hadakajima,3.7
+Ichinose,3.9
+Minobu,4.0
+Kaioshima,3.7
+Shionosawa,4.3
+Kunado,3.8
+Shimobeonsen,3.9
+Kaitokiwa,3.8
+Utsubuna,3.7
+Ide,3.7
+Toshima,3.1
+Kawaguchiko,4.2
+Yorihata,4.0
+Nagano (JR/Shinano),4.1
+Kawanakajima,3.3
+Imai,3.2
+Toyono,3.5
+Zenkojishita,3.4
+Kirihara (Nagano),3.6
+Shinanoyoshida,4.0
+Hongo (Nagano),3.4
+Amori,2.9
+Asahi,3.4
+Fuzokuchugakumae,3.3
+Shinonoi,3.5
+Kitanagano,3.5
+Gondo,3.6
+Shiyakushomae (Nagano),3.3
+Sansai,4.1
+Inariyama,3.6
+Obasute,4.6
+Hijirikogen,3.6
+Yashiro,3.3
+Yanagihara (Nagano),3.6
+Shinanoasano,3.9
+Tategahana,3.5
+Suzaka,3.9
+Murayama (Nagano),3.9
+Akashina,3.3
+Matsumoto,4.0
+Tazawa,4.2
+Kitamatsumoto,3.7
+Samizo,3.9
+Shimojima (Matsumotodentetsu),4.3
+Niimura,4.0
+Hata,3.5
+Hitoichiba,3.6
+Moriguchi,3.4
+Azusabashi,3.3
+Shimonii,3.6
+Shinshimashima,4.1
+Nishimatsumoto,3.6
+Minamimatsumoto,3.4
+Hirata (Nagano),4.1
+Hirooka,3.8
+Murai,3.2
+Shimauchi,3.0
+Nagisa (Nagano),4.1
+Kitanii/Matsumotodaigakumae,3.2
+Shinanoarai,3.8
+Oniwa,3.2
+Shimatakamatsu,3.4
+Nishijo (Nagano),4.1
+Endo,3.9
+Oya,3.7
+Shinanooiwake,4.0
+Shinanokokubunji,3.1
+Ueda,3.9
+Nishiueda,3.3
+Shiroshita (Nagano),3.8
+Akasakaue,4.3
+Uedahara,4.0
+Terashita,4.4
+Miyoshicho,4.3
+Kabatake,3.7
+Shiodamachi,3.9
+Shimonogo,4.2
+Nakashioda,4.4
+Besshoonsen,4.3
+Yagisawa,4.1
+Daigakumae (Nagano),4.0
+Tanaka,3.5
+Nakano (Nagano),3.6
+Okaya,3.5
+Shimosuwa,3.7
+Kawagishi,3.3
+Kamisuwa,4.0
+Iida,3.6
+Kanae,3.2
+Sakuramachi (Nagano),4.1
+Kiriishi,3.4
+Kawaji,4.3
+Tenryukyo,3.8
+Inakamisato,3.9
+Shimoyamamura,3.8
+Chiyo,4.0
+Inayawata,3.4
+Tokimata,3.7
+Motozenkoji,4.0
+Dashina,3.8
+Hiraoka,3.7
+Kega,4.3
+Chino,3.6
+Kitasuzaka,2.5
+Hino (Nagano),3.1
+Komoro,3.7
+Misato,3.5
+Mitsuoka,3.5
+Shigeno,3.2
+Otome,3.7
+Higashikomoro,2.8
+Hirahara,3.5
+Sakudaira,3.6
+Nakasato,4.4
+Inashi,3.6
+Inakita,3.6
+Kitatono,3.3
+Sawando,3.8
+Shimojima (JR),4.3
+Komagane,3.6
+Komachiya,4.0
+Inafukuoka,3.9
+Otagiri,3.4
+Tagiri,4.3
+Kaesa,3.0
+Shinshunakano,3.6
+Nakanomatsukawa,3.8
+Shinanotakehara,4.1
+Iiyama,4.1
+Entoku,3.6
+Kamiimai,3.3
+Hachisu,3.4
+Sakurasawa (Nagano),3.4
+Inao,3.9
+Kitaomachi,3.3
+Kitahosono,3.8
+Shinanoomachi,3.9
+Shinanotokiwa,3.5
+Minamiomachi,3.9
+Uminokuchi,4.2
+Shinanokizaki,3.3
+Yanaba,3.9
+Azumikutsukake,4.4
+Minamikamishiro,3.5
+Kitaiiyama,3.3
+Shinanotaira,3.8
+Kamisakai,4.2
+Kamikuwanagawa,4.0
+Kuwanagawa,3.9
+Nishiotaki,3.8
+Togarinozawaonsen,3.7
+Aoyagi,3.5
+Shiojiri,3.7
+Midoriko,4.0
+Kisohirasawa,3.8
+Ono (Nagano),4.1
+Seba,3.3
+Hideshio,4.0
+Narai,4.1
+Miyanokoshi,3.5
+Niekawa,3.5
+Nakagomi,3.7
+Kitanakagomi,4.1
+Aonuma,4.2
+Usuda,3.8
+Tatsuokajo,4.3
+Otabe,3.8
+Miyota,3.7
+Namezu,3.4
+Karuizawa,4.1
+Koumi,3.7
+Yashirokokomae,3.3
+Sakaki,3.6
+Togura,3.5
+Chikuma,3.7
+Ariake (Nagano),3.1
+Toyoshina,3.4
+Nakagaya,3.6
+Minamitoyoshina,3.5
+Hakuyacho,4.0
+Hotaka,3.9
+Azumioiwake,4.1
+Hosono,4.3
+Matsubarako,3.8
+Takaiwa (Nagano),4.4
+Managashi,3.7
+Yachiho,4.0
+Umijiri,3.6
+Shinanokawakami,3.9
+Nobeyama,4.0
+Sakuuminokuchi,4.3
+Sakuhirose,4.4
+Kaize,3.4
+Haguroshita,4.1
+Nakakaruizawa,4.3
+Fujimi,4.8
+Suzurannosato,3.2
+Inashinmachi,3.7
+Miyaki,3.5
+Shinanokawashima,3.8
+Tatsuno,3.2
+Haba (Nagano),4.1
+Kinoshita,3.0
+Inamatsushima,3.6
+Iijima,3.3
+Inahongo,4.3
+Nanakubo,4.1
+Inaoshima,3.1
+Inatajima,4.2
+Kamikatagiri,4.4
+Takatobara,3.9
+Miyada,4.2
+Yamabuki,4.6
+Shimodaira,3.8
+Ichida,3.9
+Shimoichida,3.5
+Nukuta,3.7
+Kadoshima,4.0
+Inakozawa,4.1
+Shiteguri,4.2
+Karakasa,4.2
+Ugusu,4.1
+Kinno,4.3
+Tamoto,4.4
+Agematsu,4.0
+Kuramoto,3.5
+Nagiso,3.7
+Tadachi,3.4
+Yabuhara,3.9
+Kisofukushima,4.1
+Okuwa (Nagano),3.4
+Suhara,3.6
+Nojiri,3.8
+Harano,3.8
+Sakakita,3.6
+Shinanomatsukawa,3.6
+Kamuriki,3.7
+Iimori,3.6
+Kamishiro,3.7
+Shinanomoriue,4.2
+Hakuba,4.1
+Hakubaoike,3.7
+Kitaotari,3.6
+Chikuni,3.6
+Minamiotari,3.9
+Nakatsuchi,3.3
+Tekunosakaki,3.6
+Obuse,4.1
+Tsusumi,3.5
+Yudanaka,4.1
+Kamijo (Nagano),4.1
+Yomase,4.1
+Shinanoshiratori,3.6
+Furuma,3.6
+Kurohime,3.8
+Mure,3.6
+Yokokura (Nagano),4.1
+Hirataki,3.7
+Junikane,3.8
+Gifu,3.8
+Nishigifu,3.4
+Kisogawa,3.4
+Hosobata,3.3
+Meitetsugifu,3.8
+Hozumi,3.2
+Yanaizu (Gifu),3.8
+Nishikasamatsu,3.5
+Ogaki,3.7
+Tarui,3.7
+Sekigahara,3.7
+Higashiogaki,3.3
+Takayama,4.0
+Hozue,3.8
+Kuguno,4.3
+Nagisa (Gifu),3.8
+Hidaosaka,3.7
+Hidaichinomiya,4.0
+Hidakokufu,3.7
+Hokuno,4.2
+Tajimi,3.7
+Koizumi,3.6
+Nemoto,3.3
+Kokokei,3.7
+Hime,4.0
+Shimogiri,3.4
+Hamonokaikanmae,3.4
+Seki (Gifu),3.8
+Sekiguchi,3.4
+Sekishiyakushomae,3.8
+Sekitomioka,3.3
+Sekishimouchi,4.3
+Matsumori,3.5
+Agi,4.0
+Minosakamoto,3.1
+Iinuma,4.0
+Sakashita,3.5
+Nakatsugawa,3.7
+Ena,3.7
+Ochiaigawa,3.8
+Minoshi,3.9
+Yunohoraonsenguchi,4.0
+Mizunami,3.6
+Kamado,3.9
+Suka,3.7
+Takehana,3.2
+Fuwaishiki,3.5
+Minamijuku,3.6
+Egira,3.4
+Shinhashima,3.5
+Hashimashiyakushomae,3.9
+Gifuhashima,3.5
+Akechi (Akechi),4.1
+Noshi,3.5
+Takenami,3.3
+Iwamura,4.0
+Iibama,3.5
+Gokuraku,3.9
+Tokishi,3.4
+Higashino (Gifu),3.2
+Yamaoka,3.9
+Hanashiroonsen,3.6
+Maehirakoen,4.1
+Minoota,3.7
+Tomika,3.5
+Kamono,3.6
+Kobi,3.3
+Minokawai,4.2
+Nakakawabe,4.1
+Ogase,3.6
+Nijikken,3.6
+Meidenkakamigahara,3.5
+Kagamigahara,3.5
+Mikakino,3.5
+Unumajuku,3.8
+Unuma,3.7
+Shin-unuma,3.6
+Haba (Gifu),3.6
+Shinkano,3.6
+Shinnaka,3.5
+Takadabashi,3.9
+Kakamigaharashiyakushomae,3.8
+Shiminkoenmae,3.8
+Sohara,3.2
+Konan (Aichi),3.5
+Rokken (Gifu),3.1
+Naka,3.4
+Nishikani,3.8
+Kanigawa,3.2
+Shinkani,3.2
+Akechi (Meitetsu),3.4
+Nihon Line Imawatari,3.7
+Kani,3.5
+Sugisaki,2.9
+Hidahosoe,3.2
+Tsunogawa,3.9
+Hidafurukawa,4.1
+Utsubo,3.6
+Sugihara,3.1
+Sakakami,3.7
+Kitagatamakuwa,3.3
+Itonuki,3.8
+Motosu,3.8
+Komi,4.3
+Mieji,3.3
+Kochibora,4.5
+Tanigumiguchi,4.1
+Malera Gifu,3.9
+Tarumi,3.8
+Oshima (Gifu),3.8
+Onaka,3.5
+Minoshirotori,4.4
+Hakusannagataki,3.9
+Shirotorikogen,4.3
+Gujohachiman,4.1
+Akaike (Gifu),4.0
+Aioi (Gifu),3.8
+Fukuno (Gifu),2.5
+Yasaka (Gifu),3.9
+Minamikariyasu,3.5
+Yamada (Gifu),3.7
+Gujoyamato,3.8
+Tokunaga,3.5
+Manba,3.3
+Hidakanayama,3.6
+Gero,3.9
+Zenshoji,4.0
+Hidahagiwara,3.8
+Hidamiyada,4.1
+Joro,3.9
+Yakeishi,3.5
+Ishizu (Gifu),3.2
+Komano,3.6
+Minoyamazaki,2.8
+Minomatsuyama,3.1
+Minotsuya,3.3
+Kasamatsu,3.5
+Ginan,3.5
+Kiridoshi,4.2
+Tejikara,3.3
+Yoro,3.9
+Tomoe,3.4
+Minotakada,3.8
+Karasue,3.5
+Kitaogaki,3.5
+Hirogodo,3.3
+Kitagodo,2.4
+Higashiakasaka,3.7
+Ibi,3.8
+Ikeno,3.5
+Kitaikeno,3.7
+Minohongo,3.1
+Sakahogi,3.5
+Shimoaso,3.3
+Kamiaso,3.5
+Shirakawaguchi,3.8
+Shimoyui,3.9
+Mitakeguchi,3.0
+Nagamori,3.4
+Shizenenmae,4.3
+Konno,3.9
+Fukado,4.6
+Kamimanba,3.5
+Nabera,4.0
+Chajo,2.8
+Takashina,4.3
+Takao (Gifu),3.2
+Minoakasaka,4.2
+Umeyama,3.6
+Shizuoka,3.7
+Shimizu (Shizuoka),3.7
+Kusanagi (JR),3.6
+Higashishizuoka,3.6
+Ikawa,4.1
+Abekawa,3.6
+Shinshizuoka,3.8
+Kasugacho,3.8
+Furusho,3.4
+Nishiyaizu,3.4
+Naganuma (Shizuoka),3.7
+Fujieda,3.8
+Hiyoshicho,3.5
+Yunoki (Shizuokatetsudo),3.5
+Mochimune,3.7
+Kensogoundojo,3.5
+Kenritsubijutsukanmae,3.8
+Irieoka,3.2
+Okitsu,3.6
+Sakurabashi (Shizuoka),3.4
+Kanbara,3.5
+Shinkanbara,3.5
+Fujikawa,3.7
+Shinshimizu,3.8
+Kitsunegasaki,3.7
+Hamamatsu,3.9
+Tenryugawa,3.5
+Hikuma,4.1
+Sukenobu,3.6
+Hachiman (Shizuoka),3.7
+Takatsuka,3.4
+Enshukomatsu,3.6
+Sekishi,3.7
+Jidoshagakkomae,3.5
+Enshunishigasaki,3.6
+Maisaka,3.8
+Bentenjima,3.8
+Kanasashi,3.8
+Kiga,4.9
+Okaji,3.3
+Tsuzuki,3.8
+Mikkabi,3.8
+Higashitsuzuki,3.7
+Okuhamanako,3.2
+Ona,3.2
+Enshukobayashi,3.5
+Misonochuokoen,3.5
+Hamakita,3.7
+Miyaguchi,3.9
+Enshugansuiji,3.6
+Enshushibamoto,3.3
+Gansuiji,4.1
+Nishikajima,3.8
+Futamatahonmachi,3.3
+Tenryufutamata,4.2
+Aizuki,3.8
+Kamiichiba,3.7
+Sakuma,4.0
+Shironishi,3.8
+Chubutenryu,3.7
+Ozore,4.2
+Misakubo,3.9
+Mukaichiba,3.9
+Numazu,3.7
+Hara (Shizuoka),3.6
+Katahama,3.6
+Izunagaoka,3.8
+Mishima,3.6
+Ooka (Shizuoka),3.7
+Shimotogari,3.5
+Kannami,3.4
+Takyo,3.2
+Shuzenji,3.9
+Atami,3.9
+Kinomiya,3.6
+Ajiro,3.5
+Izutaga,3.7
+Mishimafutsukamachi,3.5
+Mishimahirokoji,3.7
+Daiba,4.3
+Mishimatamachi,3.8
+Nagaizuminameri,3.5
+Izunitta,3.5
+Nishifujinomiya,3.5
+Fujinomiya,3.4
+Shibakawa,3.8
+Gendoji,3.4
+Numakubo,4.2
+Izuokawa,3.7
+Izukogen,3.9
+Ito,3.8
+Kawana,4.1
+Izuhokkawa,4.1
+Jogasakikaigan,4.0
+Futo,3.7
+Usami,3.7
+Minamiito,3.4
+Shimada (Shizuoka),3.6
+Rokugo,3.5
+Goka,3.8
+Kanaya,3.7
+Higiri,3.6
+Shinkanaya,4.2
+Daikancho,3.7
+Ieyama,4.1
+Kawaneonsensasamado,4.1
+Fukuyo,4.2
+Fuji,4.0
+Iriyamase,3.6
+Yoshiwara,3.7
+Hon-yoshiwara,3.7
+Tatebori,3.8
+Gakunan-eno,4.1
+Higashitagonoura,3.5
+Jatco Mae (Jatco 1-chiku Mae),3.8
+Yunoki (JR),3.5
+Sudo,3.6
+Gakunanfujioka,4.2
+Kamiya,3.6
+Yoshiwarahoncho,3.6
+Toyodacho,3.6
+Iwata,3.6
+Kakegawa,3.6
+Fukuroi,3.8
+Kikugawa (Shizuoka),3.3
+Yaizu,3.4
+Aino (Shizuoka),3.8
+Haranoya,3.8
+Gotenba,3.9
+Minamigotenba,3.7
+Iwanami,3.4
+Ashigara (Shizuoka),3.8
+Totoumiichinomiya,3.8
+Inazusa,3.3
+Izukyushimoda,3.9
+Rendaiji,3.4
+Enshubyoin,3.6
+Susono,3.4
+Araimachi,3.4
+Washizu,3.5
+Shinjohara,3.8
+Ohito,3.6
+Makinoko,3.4
+Miyakoda,4.3
+Nirayama,3.3
+Baraki,3.7
+Izuinatori,3.6
+Izuatagawa,3.9
+Kataseshirata,3.9
+Kawazu,3.9
+Imaihamakaigan,3.8
+Tokohadaigakumae,3.7
+Surugaoyama,3.5
+Aobe,4.2
+Shimoizumi,4.1
+Tanokuchi,4.0
+Shiogo,4.4
+Kawanekoyama,3.4
+Sawama,4.2
+Jina,4.3
+Okuizumi,3.9
+Senzu,4.3
+Surugatokuyama,3.9
+Enshumori,4.2
+Towata,3.6
+Enden,3.4
+Morimachibyoinmae,3.3
+Otowacho,3.9
+Inako,3.4
+Gakunanharada,4.1
+Toyooka (Shizuoka),3.9
+Hina,3.9
+Chibata,3.6
+Sunza,4.2
+Shikiji,3.7
+Nukuri,4.0
+Omori (Shizuoka),3.8
+Hiranda,3.4
+Shimokawai,3.3
+Kaminobe,3.6
+Kawaneryogoku,3.9
+Fukiage (Aichi),3.7
+Chayagasaka,3.2
+Motoyama (Aichi),3.6
+Jiyugaoka (Aichi),3.4
+Ikeshita,3.6
+Hoshigaoka (Aichi),3.6
+Imaike (Aichi),4.0
+Kurumamichi,3.8
+Chikusa,3.5
+Sunadabashi,3.4
+Kakuozan,3.8
+Obata,4.0
+Nagoya Dome Maeyada,3.6
+Higashiyamakoen (Aichi),3.9
+Issha,3.1
+Nagoyadaigaku,4.2
+Ozone,3.5
+Nakamurakoen,3.4
+Tsurumai,3.6
+Amagasaka,3.1
+Shinsakaemachi (Aichi),3.9
+Hisayaodori,3.7
+Shiyakusho,3.8
+Higashiote,3.4
+Shimizu (Aichi),3.3
+Yada (Aichi),3.0
+Sakae (Nagoya),3.8
+Shigahondori,2.7
+Heiandori,3.4
+Ajiyoshi (Meitetsu),3.1
+Kamiotai,3.6
+Shonairyokuchikoen,3.3
+Kurokawa (Aichi),4.2
+Ajima,3.1
+Kamiiida,3.4
+Meijokoen,3.0
+Joshin,3.3
+Shonaidori,3.8
+Hira (Aichi),3.4
+Shimootai,3.2
+Nakaotai,3.3
+Nagoya,3.9
+Sengencho,3.1
+Kamejima,3.4
+Marunouchi (Aichi),2.9
+Higashibiwajima,3.4
+Sako,3.8
+Meitetsunagoya,3.9
+Biwajima,3.6
+Kokusai Center (Aichi),3.5
+Nakamuranisseki,3.3
+Honjin,2.9
+Iwatsuka,3.6
+Hatta (JR),3.1
+Hatta (Nagoyashiei),3.1
+Kasumori,3.0
+Kogane (Aichi),3.3
+Nakamurakuyakusho,3.3
+Komeno,3.6
+Osukannon,3.5
+Fushimi (Aichi),3.4
+Sanno (Aichi),3.4
+Fushiya,3.5
+Kanayama (Aichi),3.8
+Higashibetsuin,3.3
+Kamimaezu,3.6
+Yabacho,3.8
+Tenmacho,3.6
+Otobashi,3.3
+Gokiso,3.5
+Sakurayama,3.0
+Arahata,4.3
+Irinaka,3.5
+Yagotonisseki,3.4
+Yagoto,3.8
+Sogo Rehabilitation Center,3.5
+Horita (Nagoyashiei),3.4
+Yobitsugi,3.0
+Mizuhoshiyakusho,3.4
+Aratamabashi,3.5
+Mizuhoundojohigashi,3.5
+Toyodahonmachi,3.4
+Atsuta,3.4
+Jingumae,3.7
+Mizuhoundojonishi,3.8
+Horita (Meitetsu),3.4
+Hibino (Nagoyashiei),3.7
+Jingunishi,3.5
+Rokubancho,3.3
+Nishitakakura,3.6
+Sasashima Live,3.6
+Arako,3.6
+Takabata,3.5
+Minamiarako,4.0
+Nakajima (Aichi),4.0
+Toda (Aichi),3.2
+Komoto (Aichi),3.4
+Haruta,2.9
+Nagoyakeibajomae,3.5
+Kintetsukanie,3.5
+Kintetsuhatta,3.2
+Arakogawakoen,3.8
+Inaei,3.4
+Noseki,3.5
+Tsukijiguchi,2.9
+Nagoyako,3.9
+Minatokuyakusho,3.3
+Higashinagoyako,3.7
+Dotoku,3.0
+Tsurusato,3.6
+Motokasadera,3.4
+Motohoshizaki,3.4
+Kasadera,3.3
+Sakura (Aichi),2.8
+Sakurahonmachi,3.6
+Oe (Aichi),3.3
+Daidocho,3.1
+Jinryo,3.5
+Inba,3.5
+Omori/Kinjogakuinmae,3.5
+Fujigaoka (Aichi),3.6
+Moriyamajieitaimae,3.4
+Kitayama (Aichi),3.3
+Hyotan-yama (Aichi),3.3
+Shinmoriyama,3.2
+Kasugai (JR),3.6
+Kozoji,3.5
+Kawamiya,3.3
+Asahimae,3.7
+Obataryokuchi,4.0
+Aioiyama,3.8
+Narukokita,3.8
+Arimatsu,3.5
+Sakyoyama,3.1
+Tokushige,3.5
+Kamisawa,3.5
+Narumi,3.6
+Chukyokeibajomae,3.5
+Minamioodaka,3.4
+Nonami,3.5
+Kyowa,3.4
+Nawa (Aichi),3.5
+Akaike (Aichi),3.2
+Zengo,3.6
+Kamiyashiro,4.1
+Hongo (Aichi),3.6
+Hirabari,3.5
+Hara (Aichi),3.6
+Ueda (Nagoyashiei),3.9
+Shiogamaguchi,3.7
+Toyohashi,3.8
+Takashi,4.7
+Minamisakae,3.6
+Ashihara,3.7
+Futagawa,3.7
+Oshimizu,3.4
+Ueta (Toyohashitetsudo),3.7
+Mukogaoka,3.5
+Nishikozakai,3.7
+Shimoji,3.5
+Oitsu,3.4
+Aichidaigakumae,4.0
+Yagyubashi,3.5
+Koike,3.4
+Funamachi,3.8
+Sugiyama,3.4
+Yagumadai,3.7
+Undokoenmae (Aichi),3.9
+Toyohashikoenmae,3.8
+Kozakai,3.4
+Kitaokazaki,3.8
+Higashiokazaki,3.6
+Okazaki,3.5
+Motojuku (Aichi),3.5
+Meiden-yamanaka,3.1
+Daimon (Aichi),3.1
+Aimi,3.9
+Uto,3.6
+Miai,3.0
+Meiden-akasaka,3.5
+Otogawa,3.2
+Nishiokazaki,3.0
+Kitanomasuzuka,3.4
+Yahagibashi,3.7
+Nakaokazaki,3.4
+Koda,3.4
+Okazakikoenmae,3.5
+Mutsuna,3.2
+Owariichinomiya,3.7
+Myokoji,3.7
+Imaise,3.0
+Iwato,2.6
+Shinkisogawa,3.7
+Hotei,3.9
+Nishiichinomiya,3.2
+Meitetsuichinomiya,3.7
+Kaimei,3.8
+Shimaujinaka,3.0
+Okucho,3.7
+Tamanoi,3.5
+Tamano,3.1
+Hagiwara (Aichi),3.9
+Kannonji (Aichi),3.3
+Kuroda (Aichi),3.4
+Futago,3.9
+Ishibotoke,3.1
+Kisogawazutsumi,3.9
+Inazawa,3.6
+Iwakura (Aichi),3.7
+Kariyasuka,3.2
+Konomiya,3.6
+Setoguchi,3.6
+Owariseto,3.9
+Shinseto,3.1
+Setoshiyakushomae,3.5
+Nakamizuno,3.3
+Yamaguchi (Aichi),3.5
+Mizuno,3.4
+Sango (Aichi),3.1
+Yakusa (Aichikanjotetsudo),3.8
+Jokoji,4.1
+Setoshi,3.3
+Aoyama (Aichi),3.9
+Kamezaki,3.6
+Higashinarawa,3.6
+Okkawa,3.1
+Handa,3.6
+Higashiura,3.2
+Chitahanda,3.5
+Narawa,2.8
+Handaguchi,3.1
+Taketoyo,3.5
+Sumiyoshicho,3.6
+Tokoname,3.8
+Taya,3.1
+Kachigawa (JR),3.6
+Kasugai (Meitetsu),3.2
+Ushiyama,3.1
+Manai,3.4
+Komaki,3.5
+Komakiguchi,3.0
+Kanie,3.6
+Ajiyoshi (Tokaikotsu),2.7
+Suwacho,3.2
+Toyokawa (Aichi),3.6
+Ushikubo,3.3
+Mikawaichinomiya,3.5
+Yawata (Aichi),3.9
+Ina,3.8
+Odabuchi,3.3
+Inariguchi,4.0
+Ejima,3.9
+Toyokawainari,3.9
+Ko (Aichi),3.9
+Goyu,3.5
+Aichimito,3.3
+Meidennagasawa,4.2
+Tojo,3.9
+Aotsuka,3.2
+Tsushima,3.4
+Hibino (Meitetsu),3.7
+Shobata,4.1
+Machikata,2.9
+Eiwa,2.9
+Kida,3.4
+Fujinami,3.7
+Kitashinkawa,3.1
+Shinkawamachi (Aichi),4.3
+Hekinanchuo,3.5
+Hekinan,4.0
+Takahamaminato,3.3
+Kariya,3.5
+Hitotsugi,3.7
+Ogakie,3.3
+Toyoake,3.5
+Fujimatsu,3.5
+Aizuma,3.4
+Shigehara,3.4
+Higashikariya,3.4
+Kariyashi,2.9
+Chiryu,3.3
+Josui,3.4
+Sanage,3.5
+Hiratobashi,3.4
+Uwagoromo,3.7
+Toyotashi,3.5
+Mikawatoyota,3.3
+Tsuchihashi (Aichi),3.1
+Shin-uwagoromo,3.5
+Shintoyota,3.6
+Koshido,3.0
+Mikawayatsuhashi,3.4
+Shigo,3.6
+Kaizu,3.7
+Kamitoyota,3.0
+Mikawakamigo,3.6
+Aikan-umetsubo,3.7
+Umetsubo,3.3
+Ekaku,3.1
+Suenohara,3.7
+Sasabara (Aichi),3.4
+Homi,3.6
+Takemura,3.4
+Yakusa (Linimo),3.8
+Anjo,3.5
+Minamianjo,3.3
+Hekikaifurui,2.9
+Horiuchikoen,3.6
+Mikawaanjo,3.4
+Kitaanjo,3.0
+Shin-anjo,3.5
+Sakurai (Aichi),3.5
+Minamisakurai (Aichi),2.6
+Yonezu,3.3
+Mikawatakahama,3.3
+Yoshihama (Aichi),3.7
+Nishio,3.8
+Fukuchi,3.4
+Kamiyokosuka,3.4
+Kirayoshida,3.8
+Sakuramachimae,3.4
+Nishioguchi,3.1
+Mikawatoba,3.6
+Nishihazu,3.9
+Higashihazu,3.8
+Kodomonokuni (Aichi),3.1
+Gamagori,3.6
+Mikawakashima,3.3
+Mikawaotsuka,3.3
+Katahara,3.4
+Nishiura,3.5
+Gamagorikyoteijo,3.6
+Mikawashiotsu,2.9
+Mikawamiya,3.6
+Inuyama,3.6
+Inuyamaguchi,3.2
+Inuyamayuen,3.7
+Tagatajinjamae,3.3
+Kotsuyosui,3.7
+Haguro (Aichi),3.4
+Zenjino,3.9
+Tomiokamae,4.0
+Enokido (Aichi),3.2
+Kabaike (Aichi),2.9
+Kaminoma,3.7
+Onomachi,3.7
+Age,3.4
+Nishinokuchi,3.5
+Rinkutokoname,3.8
+Agui,3.8
+Uedai,3.1
+Sakabe,3.8
+Kashiwamori,3.5
+Fuso,3.7
+Ajioka,3.3
+Komakihara,3.2
+Taisanji,3.3
+Tokushige/Nagoyageidai,3.4
+Yamazaki (Aichi),3.9
+Morikami,4.0
+Kamimarubuchi,4.2
+Okuda,3.2
+Marubuchi,3.0
+Osato,3.1
+Kiyosu,3.6
+Fuchidaka,3.8
+Rokuwa,3.3
+Omi,3.9
+Torii,4.3
+Shinshiro,3.5
+Yuyaonsen,3.8
+Nodajo,3.3
+Honnagashino,3.6
+Mikawaono,4.3
+Mikawakawai,3.3
+Mikawatogo,4.0
+Chausuyama,4.2
+Nagashinojo,3.7
+Mikawamakihara,3.6
+Kakidaira,3.8
+Otagawa,3.8
+Shurakuen,3.5
+Shinnittetsumae,3.1
+Takayokosuka,3.6
+Owariyokosuka,3.9
+Minamikagiya,3.6
+Yawatashinden,3.9
+Obu,3.4
+Teramoto,3.4
+Owariasahi,3.5
+Asakura (Aichi),3.3
+Shinmaiko,3.6
+Komi (Aichi),3.6
+Nagaura (Aichi),3.6
+Shirasawa (Aichi),3.0
+Hinaga,3.8
+Shirasawakeikoku,3.6
+Tatsumigaoka,4.0
+Ushida (Aichi),3.6
+Mikawachiryu,3.2
+Nisshin (Aichi),2.9
+Irigaikekoen,3.7
+Komenoki,3.4
+Nagakutekosenjo,3.8
+Geidaidori,3.9
+Kurozasa,3.1
+Mikawatahara,3.9
+Kanbe (Aichi),4.1
+Saya,2.9
+Tomiyoshi,4.0
+Sakogi,3.6
+Gonosan,3.1
+Yatomi,3.3
+Shinkiyosu,3.0
+Marunouchi,4.3
+Sukaguchi,3.4
+Shinkawabashi,3.0
+Futatsuiri,3.3
+Nishibiwajima,3.6
+Nishiharu,3.5
+Kintetsuyatomi,3.7
+Miyoshigaoka,3.1
+Akaiwaguchi,3.7
+Shippo,2.7
+Jimokuji,3.4
+Shinkawa (Aichi),3.0
+Koennishi,3.8
+Hanamizukidori,3.9
+Ishihama,3.6
+Ogawa,3.2
+Owarimorioka,2.5
+Utsumi (Aichi),3.3
+Kowa,4.1
+Chitaokuda,3.5
+Mihamaryokuen,3.3
+Noma,3.3
+Kowaguchi,3.5
+Chitataketoyo,3.3
+Fuki,3.9
+Sangane,3.6
+Toei,4.0
+Kachigawa (Tokaikotsu),3.7
+Owarihoshinomiya,3.4
+Aichikyuhakukinenkoen,3.8
+Chubukokusaikuko,4.0
+Tsu,3.6
+Kawaitakaoka,3.3
+Hisai,3.4
+Ishinden,3.3
+Tsushinmachi,3.5
+Iseoi,3.2
+Isegi,3.0
+Ichishi,3.4
+Isehata,3.5
+Isenakagawa,3.6
+Higashiishinden,3.1
+Takadahonzan,3.1
+Edobashi,3.7
+Iseishibashi,3.6
+Akogi,2.9
+Takachaya,3.3
+Momozono,3.2
+Toyotsuueno,3.3
+Iseueno,3.8
+Chisato (Mie),3.5
+Kawage,3.8
+Shiratsuka,3.5
+Nakaseko,4.0
+Shimonosho,2.7
+Kameyama (Mie),3.5
+Seki (Mie),3.5
+Sakakibaraonsenguchi,3.5
+Minamigaoka,3.5
+Nishiaoyama,3.7
+Sekinomiya,3.6
+Omitsu,3.4
+Higashiaoyama,3.4
+Isekawaguchi,3.4
+Ieki,4.2
+Iseokitsu,4.1
+Hitsu,3.5
+Isetakehara,3.8
+Isekamakura,3.9
+Iseyachi,3.8
+Yokkaichi,3.2
+Isematsumoto,3.5
+Yamajo,3.6
+Akatsukigakuenmae,3.7
+Akahori,3.6
+Akuragawa,3.4
+Shinsho,3.2
+Sakura (Mie),3.4
+Kawagoetomisuhara,3.3
+Tomida (Mie),3.2
+Kawaramachi,3.9
+Heizu,3.4
+Hokuseichuokoenguchi,3.7
+Isekawashima,3.8
+Takatsuno,2.6
+Kawarada,3.3
+Shiohama,3.7
+Utsube,4.1
+Nishihino,3.7
+Oiwake (Mie),2.9
+Miyamado,3.6
+Kasumigaura,3.4
+Kintetsutomida,3.5
+Ogoso,3.9
+Kitakusu,3.1
+Kusu,3.7
+Komono,3.1
+Obaneen,2.9
+Nakakomono,3.1
+Yunoyamaonsen,3.7
+Minamiyokkaichi,3.2
+Tomari (Mie),4.0
+Tomidahama,2.8
+Minamihinaga,3.3
+Ujiyamada,4.1
+Asama,3.5
+Ikenoura,3.2
+Futaminoura,3.6
+Obata (Mie),3.2
+Iseshi,3.8
+Miyagawa,2.8
+Yamadakamiguchi,3.2
+Miyamachi,3.4
+Isuzugaoka,3.0
+Tamaru,3.4
+Akeno,3.1
+Isuzugawa,3.5
+Myojo,3.5
+Matsushita,3.3
+Matsusaka,3.5
+Tokuwa,3.3
+Misedani,3.5
+Tochihara,3.6
+Koishiro,3.9
+Kaminosho,3.0
+Matsugasaki (Mie),3.4
+Kushida,3.7
+Higashimatsusaka,2.9
+Gongenmae,2.9
+Isenakahara,3.6
+Rokken (Mie),2.8
+Kawazoe,3.0
+Taki,3.1
+Kuwana,3.6
+Hoshikawa (Mie),3.8
+Iseasahi,3.4
+Shimonoshiro,3.5
+Umamichi,3.2
+Nishibessho,3.0
+Ano (Mie),3.3
+Nanawa,4.3
+Shimofukaya,4.3
+Harima,3.9
+Rengeji,4.1
+Tado,3.8
+Kintetsunagashima,3.3
+Nagashima,3.4
+Ariyoshi,2.8
+Isoyama,3.4
+Hiratacho,3.5
+Suzuka,3.5
+Suzukashi,3.4
+Nagonoura,2.9
+Shiroko,3.5
+Tamagaki,3.1
+Kasado,3.1
+Kawano,3.4
+Idagawa,3.5
+Tsuzumigaura,3.4
+Suzuka Circuit Ino,3.1
+Tokuda (Mie),3.9
+Chiyozaki,3.3
+Mikkaichi,3.5
+Isewakamatsu,3.4
+Mida,3.8
+Yanagi,3.6
+Akameguchi,3.5
+Nabari,3.5
+Kikyogaoka,3.0
+Mihata,3.5
+Owase,3.5
+Osoneura,3.6
+Kata,3.6
+Mikisato,4.4
+Aiga,3.8
+Funatsu (JR),4.2
+Kabuto (Mie),4.2
+Matsuo (Mie),3.3
+Shimaakasaki,3.5
+Toba,3.7
+Nakanogo,3.3
+Kamo (Mie),3.4
+Funatsu (Kintetsu),4.2
+Shiraki,3.7
+Atashika,4.3
+Odomari,3.1
+Arii,3.7
+Koshiyama,4.0
+Kumanoshi,3.5
+Kiiichigi,3.9
+Atawa,4.2
+Nigishima,4.3
+Hadasu,4.4
+Oda,4.5
+Oizumi (Mie),2.8
+Nyugawa,3.6
+Umedoi,4.0
+Daian,3.2
+Nishifujiwara,4.0
+Nishinojiri,3.6
+Higashifujiwara,4.1
+Ageki,4.0
+Isehatta,3.8
+Ugata,3.9
+Kashikojima,3.9
+Shimayokoyama,4.1
+Shimashinmei,3.9
+Anagawa (Mie),3.4
+Shimaisobe,3.9
+Kaminogo,3.6
+Shindo,3.4
+Aoyamacho,3.0
+Igakozu,3.0
+Igakanbe,3.3
+Sanagu,4.0
+Kayamachi,3.7
+Hirokoji (Mie),3.5
+Igaueno,3.4
+Idamichi,3.9
+Ichibe,3.6
+Nii,3.0
+Uenoshi,3.7
+Kuwamachi,3.3
+Nishiote,3.8
+Tsuge,3.6
+Uebayashi,3.0
+Maruyama (Mie),2.9
+Shimagahara,3.8
+Toin,3.7
+Tokida,3.0
+Sana,3.3
+Saiku,3.3
+Takihara,3.5
+Aso,4.3
+Umegadani,3.7
+Ouchiyama,3.7
+Isekashiwazaki,3.1
+Kiinagashima,3.6
+Minose,3.8
+Kiiida,3.7
+Udono,3.9
+Shingu,3.7
+Kutsukake,4.4
+Hido,3.0
+Minamikusatsu,3.7
+Ishiyama,4.0
+Otsukyo,3.5
+Karasaki,3.5
+Ishibe,3.3
+Zeze,3.9
+Otsu,3.5
+Shiga,4.0
+Katata,3.9
+Wani,3.9
+Ishiyamadera,3.7
+Seta (Shiga),3.5
+Oiwake (Shiga),3.4
+Yamashina,3.6
+Kamisakaemachi,4.1
+Kusatsu (Shiga),3.8
+Ogotoonsen,3.7
+Karahashimae,3.3
+Omimaiko,3.9
+Kitakomatsu,3.9
+Horai,3.9
+Zesehonmachi,3.8
+Hieizansakamoto,3.5
+Kawaragahama,4.1
+Shimanoseki,3.2
+Biwako-hamaotsu,4.0
+Nakanosho,4.0
+Miidera,3.7
+Awazu (Shiga),3.0
+Shigasato,3.2
+Minamishiga,3.4
+Ano (Shiga),4.0
+Hikone,3.6
+Kawase,3.2
+Inae,3.5
+Minamihikone,3.9
+Takamiya (Shiga),3.5
+Hikoneguchi,3.5
+Toriimoto,4.2
+Notogawa,3.8
+Gokasho,4.1
+Screen,3.8
+Amago,3.3
+Fujitec Mae,3.8
+Nagahama,3.8
+Kawake,3.7
+Torahime,3.6
+Tamura,3.4
+Kinomoto,3.7
+Takatsuki,3.8
+Nagahara,3.3
+Omishiotsu,3.6
+Yogo,3.7
+Azuchi,3.7
+Omihachiman,3.5
+Hirata (Shiga),5.0
+Shinohara (Shiga),3.6
+Musa (Shiga),3.4
+Ritto,3.5
+Moriyama (Shiga),3.7
+Yasu,3.5
+Tehara,3.5
+Aburahi,3.9
+Koka,3.7
+Konan,3.5
+Terasho,3.3
+Kibukawa,3.6
+Shigaraki,4.1
+Shigarakigushi,4.0
+Gyokukeijimae,4.3
+Chokushi,4.6
+Kumoi,4.2
+Minakuchi,3.8
+Minakuchiishibashi,3.4
+Mikumo,3.6
+Minakuchimatsuo,3.8
+Kosei,3.7
+Adogawa,3.6
+Shin-asahi,3.2
+Omitakashima,3.8
+Omiimazu,3.8
+Ominakasho,4.2
+Makino,3.7
+Yokaichi,3.8
+Shin-yokaichi,4.1
+Sakuragara (Shiga),3.9
+Nagatanino,4.8
+Kyocera Mae,3.8
+Tarobogumae,3.9
+Daigakumae (Shiga),4.7
+Asahino,3.6
+Kawabenomori,3.7
+Asahiotsuka,3.3
+Ichinobe,4.3
+Maibara,3.5
+Ominagaoka,3.6
+Kashiwabara (Shiga),3.5
+Samegai,3.6
+Hino (Shiga),4.0
+Echigawa,3.9
+Toyosato (Shiga),3.9
+Tagataishamae,3.9
+Hikoneserikawa,3.8
+Ishiba,3.4
+Demachiyanagi,4.0
+Kuramaguchi,3.2
+Kitaoji,3.6
+Enmachi,5.0
+Hanazono (Kyoto),3.8
+Kitayama (Kyoto),3.5
+Matsugasaki (Kyoto),3.4
+Nikenchaya (Kyoto),3.3
+Ichihara,3.2
+Kokusaikaikan,3.4
+Kyotoseikadaimae,4.3
+Tojiin,4.1
+Kitanohakubaicho,3.9
+Nijo,3.7
+Utano,4.0
+Imadegawa,3.5
+Jingumarutamachi,3.6
+Marutamachi (Kyotoshiei),3.4
+Nijojomae,4.2
+Keage,3.6
+Higashiyama (Kyoto),3.7
+Ichijoji,3.9
+Chayama (Kyoto),3.7
+Shugakuin,3.8
+Iwakura (Kyoto),3.8
+Kino,3.4
+Hachimanmae (Kyoto),4.0
+Gionshijou,3.8
+Sanjo (Kyoto),3.5
+Sanjokeihan,3.5
+Yasehieizanguchi,4.2
+Takaragaike,3.9
+Miyakehachiman,3.6
+Mototanaka,4.0
+Kibuneguchi,4.1
+Ninose,4.4
+Kurama,4.2
+Nishiojioike,3.6
+Yamanouchi (Kyoto),3.6
+Omiya (Kyoto),3.6
+Tanbaguchi,3.8
+Saiin (Hankyu),4.2
+Nishikyogoku,3.7
+Nishiojisanjo,3.3
+Karasumaoike,3.8
+Kawaramachi (Kyoto),3.9
+Kyotoshiyakushomae,3.6
+Shijo (Kyotoshiei),3.6
+Karasuma,3.7
+Gojo (Kyotoshiei),3.5
+Kiyomizugojou,3.6
+Tofukuji,3.4
+Shichijo,3.5
+Tobakaido,3.6
+Umekoji-Kyotonishi,4.0
+Nishioji,3.2
+Kyoto,4.3
+Kamitobaguchi,3.1
+Katsuragawa (Kyoto),3.6
+Jujo (Kintetsu),2.9
+Jujo (Kyotoshiei),3.8
+Takeda (Kyoto),3.5
+Toji,3.6
+Mukomachi,3.4
+Rakusaiguchi,3.8
+Chushojima,3.7
+Nishimuko,3.5
+Kujo (Kyoto),3.7
+Uzumasa (JR),3.2
+Tokiwa (Kyoto),3.7
+Satsueisho-mae,3.6
+Uzumasakoryuji,3.8
+Katabiranotsuji,3.9
+Uzumasatenjingawa,3.8
+Kaikonoyashiro,3.7
+Arisugawa,3.8
+Narutaki,4.0
+Omuroninnaji,4.1
+Matsuotaisha,4.0
+Kamikatsura,3.6
+Myoshinji,3.8
+Sagaarashiyama,4.1
+Yagi,3.7
+Randentenjingawa,3.9
+Kurumazakijinja,4.2
+Randensaga,4.2
+Rokuoin,4.0
+Arashiyama (Keifuku),4.3
+Katsura,3.8
+Hozukyo,4.1
+Ryoanji,4.0
+Ishida (Kyotoshiei),3.3
+Rokujizo (JR),3.6
+Rokujizo (Kyotoshiei),3.6
+Daigo (Kyoto),3.7
+Fushimi (Kyoto),3.4
+Nagaokakyo,3.5
+Fushimimomoyama,3.5
+Tanbabashi,3.6
+Kintetsutanbabashi,3.8
+Ono (Kyoto),3.5
+Kuinabashi,3.1
+Fukakusa,3.6
+Fujinomori,3.4
+Sumizome,2.7
+Fushimiinari,4.6
+Inari,4.6
+JR Fujinomori,3.2
+Momoyamaminamiguchi,3.5
+Momoyama,3.5
+Mukaijima,3.3
+Kangetsukyo,3.5
+Rokujizo (Keihan),3.6
+Kowata (Keihan),3.6
+Momoyamagoryomae,3.7
+Higashino (Kyoto),2.8
+Nagitsuji,3.5
+Shinomiya,3.2
+Misasagi,3.2
+Arashiyama (Hankyu),4.2
+Higashimuko,3.4
+Fukuchiyama,3.9
+Fukuchiyamashiminbyoinguchi,4.4
+Aragakashinokidai,3.6
+Isa (Kyoto),4.3
+Oekokomae,3.4
+Oe (Kyoto),4.3
+Gujo,3.8
+Shimoamazu,4.3
+Oeyamaguchinaiku,3.8
+Kamikawaguchi,3.7
+Maki (Kyoto),4.3
+Ayabe,3.7
+Shimoyakuno,4.0
+Kamiyakuno,3.6
+Nishimaizuru,3.7
+Higashimaizuru,3.5
+Magura,3.7
+Shisho,3.6
+Tangokanzaki,4.5
+Matsunoodera,3.8
+Shinonome (Kyoto),4.3
+Yamaga,3.8
+Umezako,3.0
+Takatsu (Kyoto),4.3
+Fuchigaki,3.4
+Iseda,3.3
+Ogura (Kyoto),3.3
+JR Ogura,3.7
+Uji (JR),4.2
+Uji (Keihan),4.2
+Okubo (Kyoto),3.6
+Shinden (Kyoto),3.6
+Kutsukawa,3.3
+Obaku (JR),3.6
+Obaku (Keihan),3.6
+Kohata (JR),3.6
+Mimurodo,3.3
+Joyo,3.3
+Terada (Kyoto),3.7
+Miyazu,3.9
+Iwatakiguchi,4.3
+Kita,3.8
+Kunda,4.4
+Miyamura,3.7
+Amanohashidate,4.3
+Tangoyura,4.3
+Kameoka,3.6
+Namikawa,3.9
+Chiyokawa,3.8
+Umahori,3.8
+Yamashiroaodani,3.4
+Yamashirotaga,3.5
+Nagaike,3.2
+Tonosho,3.3
+Nagaokatenjin,3.5
+Nishiyamatennozan,3.7
+Osumi,3.3
+Yawatashi,3.8
+Matsuiyamate,3.6
+Kuzuha,4.0
+Hashimoto (Kyoto),3.6
+Kodo,3.4
+Miyamaki,3.5
+JR Mikiyma,3.3
+Shintanabe,3.0
+Kyotanabe,3.3
+Doshishamae,3.5
+Kintetsumiyazu,2.7
+Amino,3.4
+Yuhigaurakitsuonsen,4.3
+Kyotangoomiya,3.8
+Mineyama,3.3
+Kumihama,3.7
+Kabutoyama,4.0
+Shotenkyo,3.9
+Sonobe,3.8
+Funaoka (Kyoto),4.3
+Yoshitomi (Kyoto),3.3
+Goma,3.9
+Shinkyudaigakumae,3.4
+Hiyoshi (Kyoto),3.8
+Wachi,3.4
+Kizu (Kyoto),3.6
+Takanohara,3.6
+Yamadagawa,3.5
+Kamo (Kyoto),4.2
+Nishikizu,3.1
+Kizugawadai,3.2
+Narayama,3.2
+Tanakura,3.4
+Tamamizu,3.8
+Kamikoma,4.1
+Oyamazaki,3.7
+Yamazaki (Kyoto),3.8
+Okawara (Kyoto),4.1
+Kasagi,3.9
+Shinhosono,3.7
+Gakkennaratomigaoka,3.8
+Komada,3.1
+Shimokoma,3.2
+Tsukigaseguchi,3.6
+Aseri,3.0
+Shimoyama (Kyoto),4.3
+Tachiki,3.4
+Yosano,4.2
+Shijoomiya,3.9
+Keihan-yamashina,3.3
+Sai (Keifuku),4.3
+Osakajokitazume,3.2
+Kyobashi (Osaka),3.7
+Noeuchindai,3.2
+Miyakojima,3.5
+Shirokitakoendori,3.9
+Sakuranomiya,3.5
+Morinomiya,3.9
+Ebie,3.2
+Noda (JR),3.5
+Noda (Hanshin),3.6
+Nodahanshin,3.6
+Yodogawa,3.3
+Tamagawa (Osaka),3.0
+Chidoribashi,3.6
+Nishikujo,3.8
+Fukushima (Osaka),3.5
+Shinfukushima,3.5
+Osaka,4.1
+Tenma,3.6
+Denpo,3.7
+Ajikawaguchi,3.4
+Sakurajima,3.5
+Universal City,4.0
+Kujou  (Osaka Metro),3.6
+Awaza,3.5
+Honmachi,3.5
+Sakaisujihonmachi,3.5
+Nanba (Osaka Metro),3.9
+Nishiohashi,3.9
+Nishinagahori,3.4
+Yotsubashi,3.5
+Higobashi,3.6
+Kujou (Hanshin),3.5
+Dome Maechiyozaki,4.0
+Bentencho,3.6
+Domemae,4.0
+Sakuragawa (Osaka),3.7
+Asashiobashi,3.8
+Taisho (Osaka),3.5
+Osakako,4.0
+Kizugawa,3.6
+Teradacho,3.8
+Tsuruhashi,3.6
+Osakauehonnmachi,3.9
+Tanimachi 9-chome,3.6
+Kintetsunipponbashi,3.8
+Nipponbashi (Osaka),3.8
+Shitennojimaeyuhigaoka,3.6
+Osakanannba,4.1
+Tanimachi 6-chome,3.7
+Ebisucho,3.8
+Tennoji,3.9
+Momodani,3.6
+Tamatsukuri (JR),3.6
+Nagahoribashi,3.5
+Ashiharacho,3.6
+Ashiharabashi,3.2
+JR Nanba,3.7
+Imamiyaebisu,3.4
+Shin-imamiya,2.9
+Dobutsuenmae,3.5
+Daikokucho,3.8
+Shiomibashi,3.9
+Imamiya,3.4
+Nanba (Nankai),4.0
+Tsukamoto,3.8
+Mitejima,3.4
+Dekijima,3.5
+Fuku,3.7
+Chibune,3.7
+Awaji,3.6
+Shimoshinjo,3.6
+Juso,3.9
+Sozenji,3.4
+Higashiyodogawa,3.6
+Itakano,3.5
+Kamishinjo,3.7
+Zuiko 4-chome,3.3
+Daido Toyosato,3.6
+Kunijima,3.5
+Minamikata (Osaka),3.3
+JR Awaji,3.9
+Shin-osaka,4.0
+Nishinakajimaminamigata,3.6
+Imazato (Osaka Metro),3.6
+Shinfukae,3.4
+Midoribashi,3.2
+Imazato (Kintetsu),3.2
+Fukaebashi,3.1
+Osakajokoen,3.8
+Tobushijomae,3.4
+Kitatatsumi,3.2
+Shoji (Osaka Metro),3.4
+Hirano (JR),3.5
+Sekimetakadono,3.3
+Senbayashiomiya,3.6
+Morishoji,3.5
+Senbayashi,3.7
+Takii,3.4
+Shimizu (Osaka Metro),3.6
+Shinmorifuruichi,3.4
+Sekime,3.5
+Moriguchishi,3.7
+Noe,3.1
+Shigino,3.7
+Osaka Business Park,3.8
+Hanaten,3.4
+JR Noe,3.8
+Sekimeseiiku,3.5
+Kishinosatotamade,3.3
+Kitabatake,3.6
+Shotenzaka,4.1
+Tenjinnomori,3.8
+Higashitengachaya,3.7
+Abeno,3.9
+Osakaabenobashi,3.9
+Fuminosato,3.6
+Matsumushi,3.4
+Showacho (Osaka),3.6
+Nishitanabe,3.6
+Koboreguchi,3.2
+Bishoen,3.6
+Minamitanabe,3.7
+Tsukanishi,2.6
+Tezukayama,3.2
+Higashitamade,3.6
+Tsurugaoka,3.7
+Kitatengachaya,4.2
+Nishiumeda,3.6
+Sugimotocho,3.2
+Abikocho,3.5
+Sawanocho,3.2
+Sumiyoshihigashi,3.4
+Abikomae,3.3
+Abikomichi,3.8
+Anryumachi,3.8
+Suminoie,3.4
+Sumiyoshitaisha,3.9
+Hosoigawa,3.4
+Sumiyoshi (Osaka),3.9
+Tezukayama 3-chome,4.0
+Tezukayama 4-chome,4.0
+Kaminoki,3.5
+Kohama,3.6
+Higashikohama,3.6
+Yata (Osaka),2.9
+Tamade,3.3
+Imagawa (Osaka),3.7
+Kitatanabe,3.5
+Komagawanakano,3.4
+Hirano (Osaka Metro),3.8
+Tanabe,3.1
+Hanazonocho,3.4
+Kami,3.2
+Harinakano,3.7
+Kireuriwari,3.3
+Kishinosato,3.6
+Tengachaya,3.8
+Tsumori,3.6
+Imaike (Osaka),3.1
+Matsudacho,3.5
+Nishitengachaya,3.9
+Haginochaya,3.1
+Imafune,3.5
+Kitakagaya,3.3
+Kanzakigawa,3.4
+Higashimikuni,3.2
+Mikuni (Osaka),3.7
+Esaka,3.4
+Tokuan,3.1
+Yokozutsumi,3.3
+Konoikeshinden,3.5
+Tsurumiryokuchi,3.7
+Kadomaminami,3.7
+Suminoekoen,3.7
+Hirabayashi (Osaka),3.4
+Cosmo Square,3.6
+Trade Center Mae,3.7
+Nakafuto,3.3
+Port Town Nishi,3.2
+Port Town Higashi,3.8
+Nankoguchi,3.3
+Ferry Terminal,3.5
+Nagahara (Osaka),3.3
+Deto,3.5
+Kizuri-Kamikita,3.7
+Shinkami,3.8
+Kyuhoji,3.6
+Yaominami,3.5
+Tenjinbashisuji 6-chome,3.8
+Nakazakicho,3.8
+Kitashinchi,3.7
+Umeda (Osaka Metro),3.9
+Nakatsu (Hankyu),3.5
+Nakatsu (Osaka Metro),3.5
+Ogimachi (Osaka),3.4
+Osakatenmangu,3.7
+Minamimorimachi,3.7
+Naniwabashi,3.9
+Umeda (Hankyu),3.9
+Tenmabashi,3.8
+Yodoyabashi,3.6
+Watanabebashi,3.8
+Oebashi,3.7
+Kitahama (Osaka),3.5
+Matsuyamachi,3.7
+Tanimachi 4-chome,3.6
+Shinsaibashi,3.9
+Uenoshiba,3.3
+Sakaihigashi,3.5
+Mozu,3.3
+Minato,3.6
+Shichido,3.3
+Ishizugawa,3.2
+Tsukuno,3.1
+Sakai,3.7
+Asakayama,3.2
+Sakaishi,3.6
+Mikunigaoka,3.6
+Otori,3.6
+Mozuhachiman,3.4
+Izumigaoka,3.8
+Fukai,3.3
+Hagiharatenjin,3.3
+Hatsushiba,3.6
+Shirasagi,3.6
+Kitanoda,3.6
+Sayama,3.5
+Nakamozu (Osaka Metro),3.2
+Shinkanaoka,3.0
+Kitanoshida,3.7
+Hagoromo,3.4
+Hamaderakoen,3.8
+Higashihagoromo,3.6
+Tonoki,3.1
+Toga/Mikita,3.3
+Takaishi,2.8
+Takashinohama,3.7
+Ishizu (Osaka),3.9
+Ishizukita,3.1
+Suwanomori,3.7
+Funao (Osaka),3.9
+Komyoike,3.9
+Kitahanada,3.6
+Nunose,3.4
+Fuse,3.4
+Kawachimatsubara,3.7
+Takaminosato,3.7
+Eganosho,3.3
+Osakasayamashi,3.7
+Tondabayashi,3.5
+Higashikishiwada,3.8
+Kumeda,3.4
+Haruki,3.6
+Shimomatsu (Osaka),4.0
+Tadaoka,3.4
+Kishiwada,3.7
+Takojizo,3.7
+Izumiomiya,3.6
+Higashikaizuka,2.9
+Sechigo,3.4
+Mizumakannnon,3.6
+Toyonaka,3.7
+Okamachi,3.9
+Shonai (Osaka),3.4
+Hattoritenjin,3.6
+Sonoda,3.5
+Shoji (Osaka Monorail),3.6
+Shibahara,3.8
+Momoyamadai,3.5
+Sakurai (Osaka),3.7
+Senrichuo,3.6
+Makiochi,3.8
+Sone (Osaka),4.0
+Minamisenri,4.0
+Ryokuchikoen,3.7
+Ishibashi (Osaka),3.7
+Hotarugaike,3.6
+Osakakuko,4.1
+Ikeda (Osaka),4.5
+Kinunobebashi,3.4
+Minoo,4.0
+Unobe,3.3
+Kitasenri,4.0
+Suita (JR),3.6
+Toyotsu (Osaka),3.5
+Suita (Hankyu),3.1
+Kandaimae,3.4
+Kishibe,3.7
+Senrioka,3.3
+Banpakukinenkoen (Osaka),4.1
+Yamada (Osaka),3.8
+Senriyama,4.0
+Shojaku,3.5
+Koenhigashiguchi,3.8
+Ibaraki,3.6
+Izumiotsu,3.7
+Izumifuchu,3.6
+Matsunohama,3.7
+Kitasukematsu,3.4
+Shinodayama,3.2
+Settsutonda,3.6
+Sojiji,3.7
+Tonda (Osaka),4.1
+Takatsukishi,3.8
+Kawachiamami,3.7
+Hirakatakoen,3.7
+Shimamoto,3.9
+Ibarakishi,3.6
+Umeda (Osaka),4.1
+Minamiibaraki,3.6
+Ishizai,3.3
+Izumihashimoto,2.6
+Kaizukashiyakushomae,3.6
+Koginosato,3.1
+Kaizuka (Osaka),3.7
+Nishikinohama,3.6
+Tsuruhara,2.8
+Mikayamaguchi,3.4
+Nagose,3.5
+Mori (Osaka),4.1
+Doi,4.4
+Nishisanso,3.5
+Kayashima,3.6
+Dainichi,3.6
+Furukawabashi,3.4
+Kadomashi,3.5
+Hirakatashi,3.8
+Kozenji,3.2
+Hoshigaoka (Osaka),3.5
+Goten-yama,3.6
+Murano,3.7
+Tsuda,3.5
+Fujisaka,3.8
+Nagao (Osaka),3.6
+Katanoshi,3.5
+Korien,3.8
+Hoshida,3.7
+Neyagawashi,3.8
+Saitonishi,3.7
+Toyokawa (Osaka),3.7
+JR Sojiji,3.7
+Handaibyoinmae,3.7
+Sawaragi,3.3
+Settsu,3.3
+Yao,3.5
+Kawachiyamamoto,3.9
+Kintetsuyao,3.6
+Takayasu,3.6
+Onji,3.7
+Hattorigawa,3.2
+Shigisanguchi,3.7
+Hyotan-yama (Osaka),3.8
+Kyuhojiguchi,3.5
+Takaida (JR),3.6
+Kashiwara (Osaka),3.7
+Kawachihanazono,3.6
+Izumisano,3.6
+Hineno,3.6
+Higashisano,3.3
+Rinku Town,4.0
+Iharanosato,3.0
+Kumatori,3.5
+Nagataki,3.5
+Hagurazaki,3.7
+Shinge,3.5
+Yoshiminosato,3.9
+Kongo,3.5
+Kishi,4.2
+Kawachinagano,3.7
+Shionomiya,3.7
+Takidanifudo,3.8
+Kawanishi (Osaka),4.0
+Tondabayashinishiguchi,3.9
+Takidani (Osaka),4.1
+Neyagawakoen,2.7
+Shijonawate,3.7
+Shinobugaoka,3.6
+Chiyoda,3.4
+Mikanodai,3.4
+Mikkaichicho,3.9
+Hajinosato,3.9
+Suminodo,3.7
+Nozaki (Osaka),3.3
+Daimotsu,3.5
+Kawachikatakami,3.9
+Osakakyoikudaimae,4.1
+Kawachikokubu,3.5
+Ando,3.7
+Domyoji,3.6
+Katashimo,3.1
+Hozenji,3.2
+Kaminotaishi,3.5
+Takawashi,3.3
+Fujiidera,3.8
+Komagatani,3.1
+Tsuzumigataki,3.6
+Settsushi,3.6
+Kyarabashi,3.4
+Kawachieiwa,3.6
+Shuntokumichi,3.4
+Aramoto,3.1
+Nagata (Osaka),3.3
+Higashihanazono,3.8
+Shin-ishikiri,3.5
+Takaidachuo,3.6
+Wakaeiwata,3.5
+Yoshita (Osaka),2.7
+Yaenosato,3.4
+Kawachikosaka,3.5
+JR Kawachieiwa,3.5
+JR Shuntokumichi,3.5
+Nagase,3.4
+JR Nagase,3.4
+Ishikiri,3.8
+Nukata (Osaka),4.1
+Nisseichuo,4.0
+Okadaura,3.3
+Ozaki,3.6
+Izumisunagawa,3.6
+Izumitottori,3.1
+Ikoma,3.7
+Kawachiiwafune,3.3
+Kawachimori,3.4
+Kisaichi,3.7
+Tottorinosho,3.9
+Hakotsukuri,3.3
+Tannowa,3.5
+Yamanakadani,4.3
+Minase,3.7
+Kofudai (Osaka),3.0
+Tokiwadai (Osaka),3.5
+Yamashita (Hyogo),3.8
+Myokenguchi,4.1
+Kyoshi,3.8
+Tanagawa,3.6
+Misakikoen,3.6
+Fukeko,4.1
+Fukecho,3.9
+Chihayaguchi,3.3
+Amami,4.2
+Kashiwaraminamiguchi,3.4
+Shiraniwadai,3.2
+Higashiminato,3.8
+Hanataguchi,3.1
+Ayanocho,3.9
+Uozaki,3.9
+Ogi,3.7
+Sumiyoshi (JR/Rokko Liner),3.7
+Settsumotoyama,3.7
+Mikage (Hankyu),3.8
+Rokko,3.9
+Fukae (Hyogo),3.8
+Okamoto (Hyogo),4.1
+Konan-yamate,3.5
+Island Kitaguchi,3.7
+Island Center,4.0
+Marine Park,4.4
+Sumiyoshi (Hanshin),3.9
+Mikage (Hanshin),3.6
+Kobe (Hyogo),4.0
+Ashiya (Hanshin),3.9
+Kasuganomichi (Hanshin),3.4
+Ishiyagawa,3.7
+Shinzaike,3.6
+Ojikoen,3.8
+Oishi,3.9
+Maya,3.8
+Iwaya (Hyogo),3.7
+Nada,3.7
+Nishinada,3.6
+Rokkomichi,3.9
+Shintetsurokko,3.5
+Hyogo,3.6
+Okurayama (Hyogo),3.9
+Minatogawakoen,3.4
+Chuoichibamae,3.8
+Wadamisaki,4.1
+Shinkaichi,3.6
+Daikai,3.6
+Nagata (Kobedentetsu),3.1
+Hiyodorigoe,3.6
+Kosokukobe,3.9
+Kosokunagata,3.5
+Maruyama (Hyogo),3.4
+Komagabayashi,3.6
+Shinnagata,3.5
+Takatori,3.8
+Karumo,3.0
+Itayado,3.5
+Sumakaihinkoen,3.6
+Suma,4.0
+Sumaurakoen,4.0
+Higashisuma,3.6
+Myodani,4.1
+Tsukimiyama,3.8
+Sumadera,3.2
+Shioya (Hyogo),3.3
+Takinochaya,4.4
+Maiko,3.8
+Higashitarumi,3.6
+Kasumigaoka (Hyogo),3.7
+Asagiri,3.6
+Nishimaiko,3.2
+Gakuentoshi,4.0
+Okubo (Hyogo),3.5
+San-yoshioya,3.7
+Maikokoen,3.7
+Minotani,3.5
+Flower Town,3.7
+Yokoyama (Hyogo),3.2
+Okaba,2.6
+Gosha,3.0
+Arimaonsen,4.0
+Arimaguchi,4.0
+Oike,3.8
+Karatodai,3.4
+Taoji,3.6
+Dojominamiguchi,4.0
+Niro,4.3
+Kitasuzurandai,3.6
+Suzurandai,3.7
+Nishisuzurandai,3.4
+Yamanomichi,3.6
+Tanigami,3.3
+Shintetsudojo,3.4
+Suzurandainishiguchi,4.0
+Dojo,4.5
+Nishinomiyanajio,3.7
+Nishimotomachi,3.2
+Sannomiya (JR),3.8
+Shinkobe,3.8
+Port Terminal,4.1
+Hanakuma,3.1
+Motomachi (JR),3.9
+Kasuganomichi (Hankyu),3.2
+Kobekuko,4.0
+Kenchomae (Hyogo),3.7
+Nakakoen,3.6
+Minatojima,4.0
+Iryo Center Mae,4.3
+Kitafuto,3.1
+Shiminhiroba,3.7
+Kei Computer Mae,4.1
+Kobata (Hyogo),4.5
+Sakae (Hyogo),3.1
+Nishiakashi,3.6
+Akashi,3.8
+Ikawadani,3.2
+Okuradani,3.5
+Hitomarumae,3.8
+Seishinchuo,3.7
+Uozumi,3.6
+Tsuchiyama,4.0
+Oshibedani,3.5
+Kizu (Hyogo),2.8
+Shijimi,4.7
+Midorigaoka (hyogo),3.7
+Oichi,4.0
+Yobe,3.0
+Harimatakaoka,3.0
+Himeji,4.0
+Higashi-Himeji,3.6
+Aboshi,3.6
+San-yoaboshi,3.8
+Harimakatsuhara,3.5
+Hiramatsu,3.8
+Kameyama (Hyogo),3.7
+Kyoguchi,3.3
+Nozato,3.5
+Agaho,3.7
+San-yohimeji,3.8
+San-yotenma,3.8
+Tegara,3.6
+Shirahamanomiya,3.6
+Shikama,3.5
+Gochaku,3.5
+Yaka,3.7
+Matogata,3.6
+Koro,3.4
+Fukusaki,3.7
+Mizoguchi,3.9
+Nishishikama,3.1
+Yumesakigawa,4.1
+Tohori,3.5
+Himejibessho,3.2
+Harimashingu,3.6
+Higashihashisaki,3.3
+Hirohata,3.3
+Sone (Hyogo),3.1
+Inadera,3.2
+Tsukaguchi (JR),3.2
+Amagasaki Center Pool Mae,3.3
+Koshienguchi,3.7
+Tachibana,3.5
+Mukogawa,3.8
+Kuise,3.6
+Deyashiki,3.6
+Amagasaki (Hanshin),3.8
+Tsukaguchi (Hankyu),3.7
+Amagasaki (JR),3.7
+Mukonoso,3.9
+Nishinomiya (Hanshin),3.8
+Inano,3.1
+Kotoen,3.7
+Nishinomiya (JR),3.5
+Higashinaruo,3.6
+Shukugawa,4.0
+Eigashima,3.4
+San-youozumi,3.3
+Nishieigashima,3.5
+Higashifutami,3.4
+Nakayagi,3.3
+Fujie,4.0
+Hayashisakimatsuekaigan,3.8
+San-yoakashi,3.7
+Nishifutami,3.2
+Nishinomiyakitaguchi,4.1
+Namaze,3.7
+Koshien,4.1
+Naruo,3.8
+Mondoyakujin,3.8
+Koroen,3.9
+Kurakuenguchi,4.0
+Imazu (Hanshin),3.8
+Koyoen,3.8
+Nigawa,3.6
+Imazu (Hankyu),3.7
+Kusugawa,3.5
+Suzaki,3.6
+Mukogawadanchimae,4.0
+Sakurashukugawa,3.9
+Hanshinkokudo,3.5
+Uchide,3.7
+Ashiya (JR),3.7
+Takarazuka,4.2
+Ashiyagawa,3.5
+Nakayamadera,3.4
+Yamamoto (Hyogo),3.7
+Itami (Hankyu),3.8
+Nakayamakannon,3.5
+Shin-itami,3.2
+Itami (JR),3.5
+Kitaitami,3.5
+Obayashi (Hyogo),3.6
+Aioi (Hyogo),3.8
+Sakoshi,3.6
+Nishiaioi,4.0
+Une,3.0
+Toyooka (Hyogo),3.9
+Kokufu (Hyogo),3.5
+Ebara,3.0
+Kinosakionsen,4.1
+Konotorinosato,4.1
+Genbudo,3.3
+Nagata (Kobeshiei),3.5
+Takeno,3.6
+Onoenomatsu,3.2
+Kakogawa,3.7
+Hamanomiya,3.5
+San-yosuma,3.7
+Befu (Hyogo),2.5
+Hioka,3.2
+Higashikakogawa,3.5
+Kanno,3.4
+Yakujin,3.5
+Hoden,3.6
+Harimacho,3.5
+Ichiba (Kobedentetsu),3.5
+Banshuako,3.7
+Tenwa,4.0
+Kamigori,3.7
+Bizenfukukawa,3.8
+Nishiwakishi,3.7
+Kurodasho,3.3
+Shinnishiwaki,2.8
+Nihonhesokoen,3.8
+Hie,2.9
+Honkuroda,3.4
+Funamachiguchi,3.3
+San-yotarumi,3.7
+Sakasegawa,3.5
+Takarazukaminamiguchi,3.4
+Mefujinja,3.4
+Kiyoshikojin,3.6
+Takedao,4.1
+Hibarigaokahanayashiki,3.8
+Kawanishiikeda,3.8
+Sanda (Hyogo),3.7
+Kawanishinoseguchi,3.7
+Miki (Kobedentetsu),3.7
+Mikiuenomaru,3.8
+Omura (Hyogo),3.6
+Hirono Golf Jomae,3.4
+Ao,3.8
+Shinsanda,3.3
+Hirono (Hyogo),3.5
+Woody Town Chuo,3.7
+Aino,3.8
+Minami Woody Town,3.7
+Arai (Hyogo),3.2
+Takasago (Hyogo),3.8
+Iho,3.2
+San-yosone,3.2
+Uguisunomori,3.5
+Takiyama,4.0
+Sasabe,3.7
+Tada (Hyogo),3.7
+Uneno,4.0
+Ichinotorii,3.0
+Kawainishi,2.8
+Kashiyama,3.4
+Aonogahara,3.9
+Ono (Hyogo),3.3
+Ichiba (JR),3.0
+Takino,3.1
+Sandahonmachi,2.9
+Kaibara (Hyogo),3.7
+Kusano (Hyogo),5.0
+Minamiyashiro,4.0
+Hojomachi,3.8
+Yashirocho,3.5
+Hokkeguchi,4.2
+Abiki,4.0
+Harimashimosato,4.0
+Osa,4.1
+Tahara,3.9
+Harimayokota,3.6
+Sasayamaguchi,3.6
+Tanbaoyama,4.0
+Ichijima,3.1
+Furuichi (Hyogo),3.5
+Yabu,5.0
+Yoka,3.4
+Iso,3.5
+Kuroi (Hyogo),3.7
+Tanbatakeda,4.0
+Tanikawa,3.6
+Shimotaki,3.3
+Kugemura,3.4
+Ikuno (Hyogo),3.7
+Aokura,2.0
+Nii (Hyogo),3.0
+Yanase,3.6
+Wadayama,3.7
+Takeda (Hyogo),4.1
+Amaji,3.4
+Harimatokusa,4.2
+Mikazuki,4.1
+Taki (Hyogo),2.8
+Hontatsuno,3.7
+Nishikurisu,3.4
+Senbon,3.4
+Tsurui,3.4
+Niino (Hyogo),3.6
+Teramae,3.7
+Hase (Hyogo),3.7
+Konoharaenshin,4.1
+Kokenawa,3.8
+Kozuki,4.0
+Kuzaki,2.9
+Sayo,3.4
+Ishii (Hyogo),4.3
+Hirafuku,4.1
+Kasumi,3.8
+Hamasaka,4.1
+Shibayama,3.1
+Amarube,4.4
+Satsu,3.5
+Yoroi,4.4
+Igumi,4.4
+Iwami,3.8
+Kutani,3.6
+Moroyose,4.1
+Aina,3.0
+Boeki Center,3.6
+Gakuenmae (Nara),3.8
+Nishinokyo,3.8
+Kintetsunara,4.0
+Nara,4.0
+Heijo,3.6
+Ayameike,3.6
+Amagatsuji,3.4
+Tenri,3.9
+Haibara,3.5
+Obitoke,3.8
+Kujo (Nara),3.8
+Tomio,3.5
+Sanbonmatsu (Nara),1.0
+Murouguchiono,3.5
+Kyobate,3.8
+Koriyama (Nara),3.6
+Gakkenkitaikoma,3.8
+Higashiikoma,3.7
+Bojo,3.5
+Kanahashi,3.7
+Takada (Nara),3.4
+Takadashi,3.8
+Tsukiyama,2.5
+Yamatotakada,3.9
+Shakudo,3.9
+Ukiana,2.9
+Goido,4.0
+JR Goido,2.9
+Yamatoshinjo,3.8
+Matsuzuka,3.4
+Kintetsukoriyama,3.4
+Tsutsui (Nara),3.4
+Hirahata,3.7
+Yamatokoizumi,3.2
+Ichinomoto,4.1
+Family Koenmae,3.5
+Nikaido,3.6
+Yuzaki,3.5
+Yanagimoto,3.5
+Nagara,3.3
+Senzai,3.2
+Makimuku,3.5
+Kashiharajingumae,3.9
+Miminashi,3.3
+Kashiharajingunishiguchi,3.7
+Yaginishiguchi,3.8
+Yamatoyagi,3.7
+Unebigoryomae,3.8
+Unebi,3.7
+Masuga,3.5
+Ninokuchi,3.7
+Okadera,3.8
+Kasanui,3.7
+Kaguyama,3.3
+Yamatoasakura,3.1
+Sakurai (Nara),3.6
+Daifuku,4.7
+Hasedera,3.8
+Miwa,3.7
+Kitauchi,3.8
+Yamatofutami,3.7
+Gojo (Nara),3.5
+Kusurimizu,3.9
+Yoshinoguchi,3.4
+Kuzu,3.5
+Wakigami,3.9
+Kintetsugose,3.6
+Gose,3.2
+Fukugami,3.4
+Oshimi,3.5
+Minamiikoma,3.4
+Ichibu,3.2
+Nabata,3.8
+Haginodai,3.4
+Higashiyama (Nara),4.0
+Hozanji,3.8
+Shizumi,3.1
+Sekiya (Nara),3.3
+Nijozan,3.4
+Kintetsushimoda,3.5
+Nijojinjaguchi,3.2
+Kashiba,3.3
+Hatakeda,4.1
+Taimadera,3.3
+Kintetsushinjo,2.8
+Tatsutagawa,3.7
+Motosanjoguchi,3.4
+Seyatakiguchi,3.4
+Heguri,3.9
+Shigisanshita,3.8
+Sango (Nara),3.3
+Horyuji,3.8
+Ikebe,3.6
+Kuroda (Nara),2.8
+Tawaramoto,3.6
+Nishitawaramoto,3.7
+Ichio,3.3
+Tsubosakayama,3.7
+Asuka,3.8
+Owada,3.5
+Samitagawa,3.7
+Hashio,3.4
+Yamatokamiichi,3.8
+Yoshinojingu,4.0
+Muda,3.5
+Koshibe,3.4
+Shimoichiguchi,3.7
+Yoshino (Nara),4.1
+Oada,3.4
+Wakayamashi,3.8
+Nichizengu,3.3
+Wakayama,3.4
+Kimiidera,3.4
+Miyamae,3.3
+Okazakimae,3.2
+Kamayama,3.5
+Kotsu Center Mae,3.6
+Kii,2.8
+Tainose,3.3
+Kozaki (Wakayama),3.3
+Kiinakanoshima,3.7
+Musota,3.4
+Kinokawa,3.4
+Kiwa,3.6
+Isonoura,4.4
+Kada (Wakayama),4.2
+Idakiso,4.2
+Senda,2.5
+Kuroe,3.5
+Nakamatsue,3.9
+Higashimatsue (Wakayama),3.7
+Wakayamadaigaku-mae,3.8
+Hachimanmae (Wakayama),4.1
+Kiiogura,3.7
+Hoshiya,2.6
+Sando,4.9
+Tanakaguchi,3.2
+Funato,4.0
+Kire,3.5
+Kainan,3.8
+Wakayamako,3.8
+Nirigahama,4.4
+Nishinosho,3.9
+Shimizuura,4.0
+Kamogo,3.6
+Shimotsu,3.5
+Oikeyuen,3.5
+Nishiyamaguchi,3.0
+Suda,3.8
+Rinkanden-entoshi,3.3
+Kiiyamada,3.0
+Kiishimizu,4.1
+Hashimoto (Wakayama),3.7
+Miyukitsuji,3.6
+Kamuro,4.1
+Kimitoge,3.8
+Koyaguchi,3.7
+Shimohyogo (Wakayama),2.5
+Kiimiyahara,3.4
+Minoshima,3.6
+Hatsushima,3.4
+Kiigobo,4.0
+Shiyakushomae (Wakayama),4.1
+Wasa,3.4
+Gobo,3.8
+Nishigobo,4.3
+Gakumon,4.2
+Inami,4.1
+Dojoji,3.9
+Inahara,3.0
+Kiiuchihara,3.1
+Kiitanabe,3.8
+Haya,3.5
+Kiishinjo,3.2
+Asso,3.2
+Minabe,3.8
+Shirahama,3.8
+Kiisano,3.4
+Miwasaki,3.3
+Uchita,3.6
+Nate,2.9
+Kokawa,3.7
+Nishikaseda,3.4
+Shimoisaka,3.2
+Kanrojimae,3.7
+Kiinagata,4.0
+Kaseda,3.4
+Iwade,3.6
+Otani (Wakayama),2.1
+Myoji,3.6
+Kiihosokawa,3.8
+Nakaiburi,3.0
+Koyasan,4.1
+Koyashita,4.1
+Kudoyama,4.1
+Shimokosawa,4.0
+Yuasa,3.8
+Hirokawa Beach,3.6
+Kiiyura,3.3
+Iwashiro,3.9
+Kirime,3.7
+Kiihiki,3.3
+Kiitonda,4.0
+Tsubaki,3.5
+Esumi,3.8
+Susami,4.2
+Wabuka,4.0
+Mirozu,4.0
+Kiikatsuura,3.8
+Nachi,3.8
+Taiji,3.5
+Ukui,3.9
+Kiiuragami,3.2
+Shimosato,3.4
+Kiitenma,3.0
+Yukawa,4.5
+Koza,4.3
+Kiiarita,4.4
+Kiihime,4.3
+Kushimoto,3.8
+Tanami,4.0
+Kiitahara,3.7
+Tako,4.5
+Tottori,3.8
+Aoya,4.1
+Tsunoi,3.4
+Koyama,3.5
+Tottoridaigakumae,3.5
+Kawahara,3.3
+Kunifusa,5.0
+Hogashikoge,3.9
+Hamamura,3.8
+Hogi,4.1
+Mochigase,4.3
+Fukube,3.5
+Suetsune,3.3
+Takagari,4.0
+Inabayashiro,4.7
+Yonago,3.7
+Kawasakiguchi,3.3
+Sanbonmatsuguchi,3.2
+Hokidaisen,3.7
+Yodoe,4.3
+Yumigahama,3.5
+Wadahama,3.6
+Oshinozucho,3.3
+Higashiyamakoen (Tottori),3.7
+Fujimicho (Tottori),3.7
+Goto,3.6
+Kishimoto,3.7
+Sakaiminato,4.1
+Bakuromachi,3.2
+Kurayoshi,3.9
+Yura,4.0
+Agarimichi (Tottori),3.8
+Babasakicho,3.3
+Nakahama,3.6
+Yonagokuko (JR),3.8
+Takamatsucho,3.8
+Amariko,3.6
+Oiwa,4.2
+Higashihama,4.1
+Wakasa,4.3
+Koiyamagata,4.2
+Chizu,3.9
+Yamasato,3.7
+Haji,3.3
+Inabafunaoka,4.6
+Tanbi,4.3
+Yazukokomae,4.5
+Hatto,4.7
+Tokumaru,4.5
+Hayabusa,4.4
+Abe,4.5
+Matsuzaki (Tottori),3.3
+Tomari (Tottori),4.0
+Akasaki,3.3
+Urayasu (Tottori),3.5
+Yabase,3.0
+Shimohojo,4.1
+Nakayamaguchi,3.2
+Daisenguchi,3.9
+Nawa (Tottori),3.8
+Mikuriya,3.7
+Shimoichi,3.7
+Hokimizoguchi,3.9
+Shoyama,3.9
+Kamiiwami,4.0
+Neu,3.9
+Kurosaka,3.4
+Ebi,3.9
+Muko,3.2
+Nagi,4.4
+Aikamachi,3.8
+Matsue,3.8
+Higashimatsue (Shimane),3.3
+Matsueshinjikoonsen,4.0
+Matsue Vogel Park,4.4
+Tsunomori,3.7
+Yasugi,3.9
+Asahigaoka,3.7
+Matsue English Garden Mae,4.1
+Shobara,3.5
+Shinji,3.8
+Minamishinji,4.1
+Kimachi,3.3
+Tamatsukurionsen,3.6
+Iya,3.5
+Nagae,4.6
+Hamada,3.9
+Nishihamada,3.7
+Shimoko,4.1
+Orii,4.6
+Hashi,4.1
+Sufu,4.5
+Mihomisumi,3.9
+Okami,4.2
+Izumoshi,4.0
+Nishiizumo,3.9
+Izumojinzai,3.7
+Kawato,4.0
+Takeshi,4.6
+Unshuhirata,4.1
+Yokan,3.9
+Otsumachi,4.5
+Nunozaki,3.9
+Tabushi,3.8
+Ichibataguchi,4.3
+Konan (Shimane),4.0
+Sono,3.4
+Oda (Shimane),3.7
+Takahama (Shimane),3.3
+Izumotaishamae,4.2
+Hamayamakoenkitaguchi,3.3
+Tagi,4.3
+Otera,3.3
+Naoe,3.5
+Midami,3.6
+Inonada,4.8
+Masuda,3.8
+Iinoura,4.0
+Iwamiyokota,4.0
+Iwamitsuda,4.3
+Kamate,3.9
+Todakohama,3.7
+Honmataga,4.0
+Hane,4.3
+Isotake,3.8
+Odashi,3.7
+Kute,4.6
+Shizuma,4.1
+Nima,4.0
+Maji,4.4
+Yunotsu,3.7
+Iwamifukumitsu,3.8
+Arashima,3.6
+Shimokuno,3.8
+Kamedake,4.2
+Tsunozu,3.6
+Uyagawa,3.6
+Gotsu,3.6
+Kuromatsu (Shimane),3.7
+Kamonaka,4.5
+Kisuki,4.2
+Hinobori,4.2
+Izumoyashiro,4.5
+Izumodaito,4.5
+Hataya,4.6
+Izumoyokota,4.1
+Yakawa,3.9
+Izumominari,3.7
+Izumosakane,4.3
+Miinohara,4.2
+Higashiaohara,3.7
+Aohara,4.5
+Nichihara,3.8
+Tsuwano,4.2
+Izumokagakukan Park Town Mae,3.7
+Koyukan Shin-eki,4.0
+Okayama,4.0
+Bizenmikado,3.0
+Omoto,3.5
+Bizennishiichi,3.1
+Ashimori,3.3
+Hokaiin,3.7
+Bizen-ichinomiya,3.7
+Kitanagase,3.7
+Niwase,3.5
+Daianji,3.2
+Kumayama,3.6
+Bitchutakamatsu,3.9
+Makiyama,3.8
+Bizenhara,3.5
+Takebe,3.8
+Fukuwatari,3.8
+Kome,3.4
+Tamagashi,3.5
+Nonokuchi,3.8
+Takashima (Okayama),4.0
+Higashiokayama,3.5
+Nishigawara,3.5
+Odara,3.5
+Osafune,3.5
+Joto (Okayama),3.2
+Seto,3.6
+Saidaiji,4.0
+Mantomi,3.6
+Odomi,3.3
+Uematsu,2.7
+Seno,3.9
+Bitchumishima,3.0
+Hazakawa,3.1
+Bizenkataoka,3.8
+Tsuneyama,3.4
+Hachihama,3.5
+Chayamachi,3.8
+Hikosaki,2.9
+Bizenkatakami,3.3
+Uno,3.8
+Hayashima,3.5
+Kurashiki,3.9
+Nakasho,3.7
+Kojima,3.6
+Kyujomae (Okayama),3.7
+Kurashikishi,3.8
+Kimi,3.2
+Nishiachi,3.7
+Nishitomii,3.0
+Sakae (Okayama),4.0
+Tokiwa (Okayama),3.3
+Mizushima,3.1
+Yayoi,3.5
+Urada (Okayama),4.0
+Kaminocho,2.9
+Shinkurashiki,3.5
+Konko,3.5
+Kuguhara,2.6
+Fukui (Okayama),3.8
+Kawabejuku,3.8
+Soja,3.8
+Kibinomakibi,3.6
+Bitchukurese,3.3
+Kiyone,3.7
+Mitsubishijikomae,3.4
+Mimasakakamo,4.1
+Mimasakakawai,4.5
+Mimasakatakio,4.5
+Tsuyama,3.7
+Tsuyamaguchi,3.0
+Innosho,3.3
+Higashitsuyama,3.5
+Mimasakaosaki,3.3
+Takano (Okayama),4.0
+Chiwa,4.6
+Miura,4.5
+Mimasakasendai,4.6
+Sarayama,2.8
+Tsuboi,3.9
+Mimasakaoiwake,3.3
+Kamenoko,4.0
+Tomihara,3.6
+Bizentai,3.5
+Kasaoka,3.6
+Satosho,3.3
+Daimon (Hiroshima),3.3
+Oda (Okayama),4.0
+Kamogata,3.4
+Ibara (Okayama),3.5
+Komoriutanosatotakaya,3.0
+Izue,3.2
+Sounnosatoebara,3.9
+Yakage,3.7
+Higashisoja,3.6
+Hattori,3.3
+Gokei,3.1
+Minagi,4.4
+Bitchuhirose,3.3
+Hiwa,3.0
+Bitchutakahashi,4.1
+Kinoyama,3.5
+Bitchukawamo,3.2
+Hokoku,3.6
+Ikura,4.1
+Ishiga,3.7
+Niimi,3.5
+Osakabe,3.0
+Tajibe,3.6
+Iwayama,4.7
+Niizato (Okayama),4.0
+Bitchukojiro,4.0
+Ashidachi,4.1
+Nochi,4.2
+Yagami,5.0
+Iri,3.2
+Inbe,3.7
+Kagato,3.6
+Nishikatakami,3.3
+Mitsuishi,3.4
+Hinase,3.7
+Sogo,3.6
+Yoshinaga,3.4
+Wake,3.6
+Hayashino,3.6
+Yuge,3.9
+Chugokukatsuyama,4.1
+Mimasakaochiai,4.1
+Komi (Okayama),3.4
+Kuse,4.2
+Tsukida,4.1
+Miyamotomusashi,3.8
+Mimasakaemi,4.1
+Narahara,4.0
+Ohara (Okayama),4.0
+Mimasakadoi,4.1
+Nishiawakura,3.5
+Mitani (Okayama),4.0
+Katsumada,3.9
+Nishikatsumada,3.4
+Awakuraonsen,3.8
+Tanjoji,3.7
+Obara,2.5
+Sakane,3.1
+Hiroshima,4.0
+Shin-hakushima (JR),3.8
+Nishihiroshima,3.6
+Hirodenhonshamae,3.8
+Teramachi,4.0
+Takanobashi,4.2
+Johoku,3.9
+Yokogawa (Hiroshima),4.1
+Miyukibashi,3.8
+Kamiyachohigashi,3.7
+Hesaka,3.4
+Hatsukaichi,4.0
+Itsukaichi,3.9
+Tenjingawa,3.4
+Mukainada,3.3
+Danbara 1-chome,3.5
+Shin-inokuchi,3.7
+Kusatsu (Hiroshima),3.9
+Takasu (Hiroshima),3.7
+Higashitakasu,4.2
+Furue,3.4
+Kan-onmachi (Hiroshima),4.3
+Funairisaiwaicho,3.9
+Funairi-minami,4.2
+Bishamondai,3.9
+Ozuka (Hiroshima),4.0
+Koikikoenmae,3.5
+Tomochuo,4.0
+Omachi (Hiroshima),3.6
+Furuichibashi,3.1
+Shichikenjaya,3.5
+Nakasuji,3.0
+Furuichi (Hiroshima),3.8
+Midorii,3.2
+Akinagatsuka,3.5
+Shimogion,3.3
+Chorakuji,3.9
+Tomo,3.3
+Obara (Hiroshima),3.0
+Gionshinbashikita,3.4
+Nishihara (Hiroshima),3.4
+Bairin (Hiroshima),3.3
+Kamiyagi,3.9
+Nakashima (Hiroshima),3.0
+Kamifukawa,3.9
+Akiyaguchi,3.5
+Kumura,3.2
+Nakafukawa,3.3
+Kodo-Homachigawa,4.0
+Aki-Kameyama,4.0
+Shimofukawa,3.0
+Karuga,4.1
+Ibaraichi,3.9
+Kamimita,3.6
+Shirakiyama,4.2
+Shiwaguchi,4.0
+Nakamita,2.8
+Akinakano,4.3
+Nakanohigashi,3.1
+Kaitaichi,3.6
+Yano,3.5
+Saekikuyakushomae,4.1
+Rakurakuen,3.9
+Sanyo-jogakuen-mae,4.3
+Kure,3.6
+Akiaga,3.5
+Shinhiro,3.0
+Kawaraishi,3.3
+Nigata,3.3
+Karugahama,3.5
+Akikawajiri,3.2
+Hiro,4.5
+Yoshiura,3.8
+Kure Portpia,3.9
+Koyaura,3.2
+Ato,3.1
+Yasuura,3.9
+Kazahaya,3.5
+Takehara,3.2
+Shiraichi,2.5
+Onori,2.8
+Tadanoumi,3.8
+Akinagahama,3.1
+Yoshina,4.6
+Mihara,3.7
+Itozaki,3.5
+Hongo (Hiroshima),3.3
+Kochi,4.0
+Akisaizaki,4.0
+Onomichi,4.0
+Matsunaga,3.5
+Higashionomichi,3.3
+Fukuyama,3.8
+Higashifukuyama,3.6
+Shimokawabe,4.3
+Shin-onomichi,3.3
+Bingoakasaka,3.3
+Kamitode,4.2
+Takagi (Hiroshima),4.0
+Tode,3.7
+Ekiya,4.0
+Chikata,3.5
+Managura,3.7
+Michinoue,3.8
+Yudamura,3.8
+Kannabe,3.5
+Goryo (Hiroshima),4.0
+Yuno,3.7
+Yokoo,3.7
+Shin-ichi,3.6
+Bingohonjo,3.3
+Kawasa,3.8
+Ukai,4.0
+Fuchu (Hiroshima),3.8
+Joge,3.8
+Bingoyano,4.2
+Shiwachi,3.3
+Nishimiyoshi,3.9
+Miyoshi,3.9
+Mirasaka,3.9
+Shiomachi,4.3
+Kisa,4.0
+Bingoyasuda,4.1
+Kajita,5.0
+Konu,3.6
+Yatsugi,3.7
+Bingoshobara,4.1
+Kotachi,4.0
+Shimowachi,4.2
+Nanatsuka,3.8
+Bingomikkaichi,4.2
+Bingosaijo,4.3
+Hibayama,4.4
+Hirako,3.6
+Onuka,3.6
+Bingoyawata,4.0
+Yamanouchi (Hiroshima),4.1
+Otake,3.1
+Kuba,3.7
+Saijo (Hiroshima),3.3
+Nishitakaya,3.2
+Nyuno (Hiroshima),4.0
+Jike,4.1
+Hachihonmatsu,3.3
+Miyauchikushido,3.1
+Ajina,3.4
+Miyajimaguchi,3.9
+Onoura,3.8
+Maezora,3.9
+Yoshidaguchi,3.8
+Saka,3.6
+Mizushiri,3.7
+Bingomikawa,3.3
+Mitaki,3.5
+Fudoinmae,3.8
+Taka,4.0
+Kamikawatachi,4.0
+Hijiyamashita,4.1
+Dogoyama,4.1
+Higashihiroshima,3.4
+Hiroshimaeki,4.0
+Ayaragi,3.6
+Hatabu,3.5
+Shimonoseki,3.9
+Shinshimonoseki,3.4
+Kajikurigodaichi,3.4
+Ozuki,3.2
+Yasuoka,3.3
+Kogushi,3.7
+Kawatanaonsen,3.9
+Habu,3.6
+Umegato,3.3
+Kuroimura,3.7
+Ukahongo,4.2
+Yutama,3.6
+Takibe,3.6
+Ofuku,4.0
+Minamiomine,4.0
+Yoshimi,3.8
+Fukue,4.0
+Agawa,4.1
+Nagatoawano,3.6
+Kottoi,4.2
+Nagatofutami,4.1
+Ubeshinkawa,4.4
+Iwahana,3.3
+Tokonami,3.6
+Koto,3.6
+Kotoshiba,3.2
+Higashishinkawa (Yamaguchi),3.9
+Ubemisaki,3.8
+Tokiwa (Yamaguchi),3.8
+Ube,3.1
+Asa,3.4
+Kusae,3.7
+Onoda,3.5
+Tsumazaki,4.0
+Nagatonagasawa,4.3
+Maruo,3.0
+Mine,3.7
+Onodako,3.4
+Suzumeda,3.7
+Minaminakagawa,3.3
+Hon-yura,3.5
+Suosayama,3.5
+Daido,3.6
+Yotsutsuji,3.4
+Yabara,3.5
+Yudaonsen,3.7
+Miyano,3.8
+Otoshi,3.4
+Nihozu,3.9
+Yamaguchi (Yamaguchi),3.8
+Ajisu,3.6
+Iwakura (Yamaguchi),3.2
+Mitani (Yamaguchi),3.7
+Tokusa,4.2
+Chomonkyo,4.0
+Jifuku,4.5
+Nabekura,4.1
+Kamiyamaguchi,3.6
+Hofu,2.6
+Kagawa,3.5
+Fukamizo,3.0
+Kamigo,3.4
+Shin-yamaguchi,3.8
+Suoshimogo,3.4
+Tonomi,3.7
+Kamikagawa,3.4
+Niho,3.8
+Tokuyama,3.8
+Heta (Yamaguchi),3.8
+Fukugawa,3.3
+Nagusa,4.3
+Hagi,4.3
+Higashihagi,3.9
+Esaki,4.1
+Tamae,3.5
+Nagatooi,4.0
+Susa,3.9
+Nago,4.2
+Koshigahama,3.8
+Kudamatsu (Yamaguchi),4.7
+Ikunoya,3.6
+Suohanaoka,3.3
+Suokubo,4.1
+Kushigahama,3.2
+Iwakuni,3.7
+Minamiiwakuni,3.0
+Minamigochi,3.8
+Kawanishi (Yamaguchi),3.3
+Nishiiwakuni,4.2
+Fuju,3.0
+Waki,3.5
+Shuchikasagami,3.0
+Kinmeiji,3.9
+Kuga,3.5
+Suotakamori,4.0
+Yukaba,3.6
+Yonekawa,3.4
+Shin-iwakuni,3.4
+Seiryu-shin-iwakuni,3.8
+Tsuzu,3.0
+Kitagochi (Yamaguchi),3.9
+Nishikicho,3.9
+Kawayama,3.5
+Hashirano,3.5
+Yanaze,3.7
+Mukuno,3.5
+Yu,4.7
+Kojiro (Yamaguchi),3.8
+Hikari,3.6
+Shimata (Yamaguchi),2.7
+Tabuse,3.0
+Senzaki,4.0
+Nagatoshi,3.6
+Nagatoyumoto,3.9
+Hitomaru,3.8
+Itamochi,3.3
+Kiwado,4.2
+Nagatofuruichi,4.1
+Nagatomisumi,3.6
+Ii,4.4
+Igami,4.3
+Yanai,3.4
+Obatake,3.9
+Yanaiminato,3.2
+Shigeyasu,3.9
+Shirogahara,4.3
+Atsu,3.6
+Okawachi,3.8
+Katsuma,2.8
+Shinnan-yo,3.3
+Takamizu,3.4
+Yunoto,4.1
+Mede,4.0
+Nagatomotoyama,4.2
+Hamagochi,3.7
+Minamionoda,3.8
+Utago,4.2
+Kiyo,4.2
+Shinome,4.5
+Sanmi,4.7
+Naguwa,4.3
+Negasa,3.7
+Tokushima,3.8
+Awatomida,3.7
+Niken-ya,4.0
+Akui,4.2
+Jizobashi,4.0
+Ko (Tokushima),3.8
+Bunkanomori,3.9
+Shozui,3.7
+Yoshinari,3.7
+Chuden (Tokushima),3.8
+Minamikomatsushima,3.7
+Ishii (Tokushima),3.9
+Ikenotani,3.6
+Tatsumichi,2.7
+Awaotani,3.3
+Bando,4.0
+Awakawabata,4.1
+Kyokaimae,3.4
+Konpiramae,3.3
+Muya,3.3
+Sanukiaioi,3.9
+Awaakaishi,4.0
+Tatsue,3.9
+Hanoura,3.5
+Kuwano,3.9
+Aratano (Tokushima),3.9
+Awatachibana,3.9
+Anan,4.1
+Minobayashi,4.2
+Awafukui,3.6
+Awanakashima,4.5
+Nishibara (Tokushima),3.8
+Kamojima,3.3
+Ushinoshima,3.4
+Oezuka,3.8
+Nishioe,3.8
+Gaku,4.1
+Awakawashima,3.9
+Awayamakawa,3.5
+Oshima,3.9
+Kawata,3.8
+Yamase,2.2
+Anabuki,3.4
+Awahanda,5.0
+Eguchi,3.9
+Sadamitsu,3.7
+Tsuji,3.0
+Awaikeda,3.9
+Iyaguchi,3.6
+Hashikura,3.7
+Minawa,3.6
+Tsubojiri,4.4
+Oboke,4.2
+Mikamo,3.5
+Koboke,4.4
+Awakawaguchi,3.6
+Shimoura,4.3
+Kitagawachi (Tokushima),3.3
+Mugi,3.9
+Hegawa,4.5
+Yuki,4.3
+Hiwasa,3.9
+Kiki,4.0
+Awakainan,4.0
+Asakawa,3.8
+Kaifu,3.9
+Shishikui,3.4
+Itano,3.3
+Awaomiya,3.9
+Awakamo,3.3
+Tainohama,4.7
+Showacho (Kagawa),3.2
+Imabashi,3.5
+Kataharamachi (Takamatsu),3.9
+Okimatsushima,3.6
+Shioya (Takamatsu),3.3
+Yakuri,3.8
+Kinashi,3.9
+Kozai,3.6
+Ota (Takamatsu),3.7
+Nogakubumae,3.8
+Busshozan,3.8
+Mizuta,4.0
+Kukodori,3.4
+Sanjo (Takamatsu),3.5
+Hanazono (Takamatsu),3.4
+Hayashimichi,4.1
+Ritsurin,3.7
+Ritsurinkoen,3.8
+Enza,3.8
+Okamoto (Takamatsu),3.7
+Takamatsu (Kagawa),3.9
+Takata (Takamatsu),3.8
+Nishimaeda,4.0
+Takamatsuchikko,3.9
+Kasugagawa,3.2
+Katamoto,3.9
+Kitacho,3.2
+Kitahigashiguchi,3.8
+Motoyama (Takamatsu),4.4
+Ritsurinkoenkitaguchi,3.3
+Ikenobe,4.0
+Kazashigaoka,4.4
+Kokubu (Kagawa),3.7
+Hashioka,3.4
+Utazu,3.8
+Sue,3.7
+Kotoden-yashima,3.9
+Furutakamatsu,3.7
+Furutakamatsuminami,3.0
+Omachi (Takamatsu),3.8
+Sanukimure,3.0
+Yakuriguchi,2.8
+Yakurishinmichi,4.3
+Hara (Takamatsu),3.2
+Fusazaki,4.7
+Rokumanji,3.5
+Okada (Takamatsu),3.2
+Kurikuma,4.0
+Marugame,2.9
+Sanukishioya,3.5
+Konzoji,3.4
+Zentsuji,3.6
+Tadotsu,3.7
+Yasoba,4.6
+Sakaide,3.6
+Sanukifuchu,3.8
+Hayuka,4.3
+Kamogawa,3.5
+Kotodenkotohira,4.0
+Kotohira,4.0
+Kaiganji,3.9
+Kan-onji (Kagawa),3.6
+Toyohama,3.8
+Minoura,3.8
+Motoyama (Kagawa),4.4
+Mino,4.0
+Sanukitsuda,4.1
+Shido,3.1
+Kotodenshido,4.0
+Nagao (Takamatsu),3.9
+Orange Town,3.8
+Zoda,3.8
+Tsuruwa,3.1
+Sanukishirotori,3.3
+Hiketa,3.6
+Nibu,3.4
+Kurokawa (Kagawa),3.6
+Sanukisaida,4.0
+Takase (Kagawa),3.9
+Takuma,3.8
+Hijidai,3.6
+Hiragi,4.3
+Ido,3.5
+Kumonmyo,3.0
+Gakuendori,4.0
+Shirayama (Takamatsu),4.3
+Takinomiya,4.6
+Ayagawa,3.8
+Hatada,4.0
+Enai,3.7
+Tsushimanomiya,4.0
+Kinuyama,3.1
+Komachi,4.0
+Miyatacho,3.5
+Mitsuhama,3.6
+Asanami,4.2
+Katsuyamacho,3.7
+Matsuyama (Ehime),4.0
+Ishitegawakoen,4.2
+Iyotachibana,3.6
+Fukuonji,3.3
+Awai,3.9
+Iyowake,3.9
+Ichitsubo,3.7
+Doida,3.2
+Dogoonsen,4.2
+Mitsu,3.6
+Minatoyama,3.7
+Matsuyamashi,4.0
+Koyodai,3.4
+Kenchomae (Ehime),3.6
+Dobashi (Ehime),3.4
+Iyohojo,3.7
+Kitakume,3.6
+Kume,3.5
+Kamiichiman,3.5
+Sekijujibyoinmae,3.1
+Heiwadori 1-chome,3.3
+Minamimachi,4.1
+Takanoko,3.2
+Horie,3.2
+Matsuyamashieki,4.1
+Oura,3.3
+Yamanishi,3.2
+Otemachi (Ehime),3.8
+Nishihoribata,4.0
+Yanagihara (Ehime),2.8
+Keisatsushomae,3.5
+Kayamachi 6-chome,3.7
+Honmachi 6-chome,3.5
+Honmachi 3-chome,3.5
+Honmachi 4-chome,5.0
+Ushibuchidanchimae,4.2
+Umenomoto,3.1
+Hirai (Ehime),4.0
+Nishikinuyama,3.7
+Takahama (Ehime),4.2
+Kiyacho,4.0
+Shimizumachi,4.2
+Honmachi 5-chome,3.5
+Shiyakushomae (Ehime),3.9
+Baishinji,4.3
+Ushibuchi,3.5
+Teppocho,4.5
+Masaki,4.3
+Yokogawara,3.9
+Imabari,3.7
+Iyosakurai,3.1
+Iyotomita,3.0
+Onishi,3.7
+Namikata,4.4
+Hashihama,3.6
+Iyokameoka,2.9
+Kikuma,3.0
+Uwajima,4.7
+Kitauwajima,3.5
+Takamitsu,3.7
+Ouchi,4.0
+Iyomiyanoshita,4.1
+Muden,3.8
+Futana,4.5
+Iyoyoshida,3.7
+Tachima,3.0
+Yawatahama,3.8
+Futaiwa,3.0
+Senjo,4.3
+Takihama,3.3
+Niihama,3.6
+Nakahagi,4.0
+Sekigawa,4.3
+Iyosaijo,3.8
+Ishizuchiyama,3.3
+Tamanoe,2.3
+Iyomiyoshi,4.1
+Iyokomatsu,3.4
+Iyohimi,3.6
+Iyoozu,3.8
+Nishiozu,3.0
+Uchiko,3.8
+Ikazaki,3.6
+Goro,4.3
+Iyoshirataki,3.7
+Iyoizushi,4.0
+Niiya,3.7
+Haruka,3.5
+Iyonagahama,3.9
+Iyohirano,4.6
+Hataki,3.5
+Mukaibara,3.1
+Iyoshi,3.5
+Iyoyokota,3.0
+Kitaiyo,3.5
+Iyoohira,2.8
+Gunchuko,4.3
+Gunchu,4.3
+Torinoki,3.0
+Jizomachi,4.0
+Shinkawa (Ehime),1.8
+Iyonakayama,3.1
+Iyokaminada,4.5
+Kushi,4.1
+Shimonada,4.4
+Konokawa,3.2
+Kawanoe,3.3
+Iyomishima,3.0
+Iyosangawa,4.1
+Iyodoi,3.3
+Akaboshi,3.6
+Unomachi,3.8
+Shimouwa,3.0
+Kamiuwa,3.5
+Iyoiwaki,4.4
+Minara,2.9
+Aidaiigakubuminamiguchi,3.8
+Tanokubo,3.7
+Okada (Ehime),3.5
+Iyotachikawa,3.5
+Matsumaru,4.5
+Yoshinobu,4.3
+Matsuchi,4.4
+Fukata,3.6
+Izume,4.5
+Chikanaga,3.2
+Asahi (Kochi),3.2
+Asakura (JR),3.4
+Kochishogyomae,3.9
+Iriake,3.5
+Tosaotsu,3.1
+Nunoshida,3.3
+Tosaikku,2.9
+Engyojiguchi,3.7
+Kamimachi 2-chome,3.5
+Sanbashidori 5-chome,3.0
+Saenbacho,3.4
+Ino (JR),3.6
+Chiyoricho 1-chome,3.6
+Nahari,3.9
+Akano,4.6
+Ananai,4.3
+Ioki,4.1
+Aki,4.0
+Kyujomae (Kochi),3.7
+Shimoyama (Kochi),3.9
+Gomen,3.8
+Tosanagaoka,3.6
+Yamadanishimachi,3.9
+Gomenmachi (Kuroshio),3.9
+Gomenmachi (Tosaden),3.9
+Tateda,3.6
+Hakawa,3.8
+Onogo,3.4
+Susaki,3.7
+Awa,4.6
+Tosashinjo,3.7
+Sukumo,3.7
+Higashisukumo,4.0
+Hirata (Kochi),3.3
+Kogyodanchi,2.5
+Nakamura,3.9
+Kotsuka,3.5
+Gudo,4.0
+Arioka,5.0
+Kunimi (Kochi),5.0
+Ekawasaki,4.2
+Akaoka,4.0
+Kagami,3.6
+Noichi,3.6
+Tosayamada,3.6
+Shigeto,3.9
+Tano (Kochi),3.8
+Yasuda (Kochi),4.8
+Tonohama,4.8
+Wajiki,4.4
+Nishibun,4.3
+Osugi,3.7
+Toyonaga,3.8
+Kakumodani,4.0
+Otaguchi,4.4
+Edagawa (JR),3.3
+Sakawa,3.6
+Kageno,3.5
+Tosakure,4.0
+Niida (Kochi),3.5
+Togano,4.5
+Tosakamo,3.5
+Erinono,2.5
+Okabana,3.4
+Kusaka,3.7
+Omurajinjamae,3.7
+Kubokawa,3.8
+Iejigawa,4.2
+Tosashowa,4.8
+Tosairino,4.1
+Tokawa (Kochi),4.3
+Rokutanji,2.7
+Utsuigawa,4.4
+Tosataisho,4.3
+Wakai,3.2
+Ariigawa,4.3
+Iyoki,2.8
+Ukibuchi,4.0
+Uminoomukae,4.7
+Tosakamikawaguchi,4.0
+Nishiogata,3.5
+Kaina,4.6
+Tosasaga,3.8
+Nishigaho,4.3
+Asahiekimaedori,3.4
+Tosaiwahara,3.6
+Tosakitagawa,4.4
+Kako,3.7
+Gomennakamachi,3.0
+Gomenhigashimachi,3.8
+Shinohara (Kochi),4.0
+Nagaski (Kochi),2.8
+Higashikogyomae,3.6
+Asakuraekimae,3.4
+Kenritsubijutsukandori,3.0
+Kamimachi 5-chome,2.3
+Hoeicho,5.0
+Chiyoricho 2-chome,3.6
+Tosaananai,4.0
+Inoshogyomae,3.0
+Asahimachi 1-chome,2.0
+Sanbashidori 3-chome,3.0
+Sanbashishakomae,3.7
+Chiyoricho 3-chome,3.7
+Harimayabashi,3.6
+Moji,3.7
+Komorie,3.2
+Mojiko,4.4
+Shimosone,3.5
+Kokura (Fukuoka),4.0
+Idemitsubijutsukan,3.9
+Kannmonkaikyomekari,3.4
+Orio,3.1
+Fujinoki,3.6
+Futajima,3.0
+Okudokai,3.1
+Jinnoharu,3.2
+Tobata,3.7
+Kyushukodaimae,3.4
+Edamitsu,3.6
+Nishikokura,3.7
+Kawaraguchimihagino,3.9
+Jono (JR),3.7
+Minamikokura,3.7
+Jono (Kitakyushu-monorail),4.0
+Heiwadori,3.3
+Tanga,3.9
+Abeyamakoen,3.1
+Kitagata (Fukuoka),4.2
+Ishida (Fukuoka),3.1
+Keibajomae (Fukuoka),4.0
+Kikugaoka,3.7
+Shiikoen,3.5
+Ishiharamachi,4.0
+Yobuno,4.5
+Shii (JR),3.0
+Tokurikiarashiyamaguchi,5.0
+Kusami,3.6
+Shii (Kitakyushu-monorail),3.9
+Tokurikikodanmae,3.2
+Space World,3.8
+Yahata (Fukuoka),3.5
+Kurosaki,3.9
+Ano,3.9
+Morishita (Fukuoka),4.0
+Kumanishi,3.7
+Hagiwara (Fukuoka),4.2
+Kusubashi,3.3
+Chikuhokatsuki,3.9
+Imaike (Fukuoka),3.3
+Einomaru,3.5
+Sangamori,3.5
+Higashimizumaki,3.4
+Kibougaokakoukoumae,3.4
+Nishiyama (Fukuoka),4.3
+Toritani,3.2
+Chikuhonakama,3.1
+Shinkoyanose,3.0
+Koyanose,4.3
+Ongano,2.5
+Maimatsubara,3.4
+Saitozaki,3.6
+Kaizuka (Fukuoka),3.6
+Kashii,3.6
+Kashiijingu,3.4
+Kashiimiyamae,3.3
+Chihaya,3.9
+Nishitetsukashii,3.8
+Kashiikaenmae,3.3
+Chidori,3.1
+Nishitetsuchihaya,3.7
+Kyusandaimae,2.9
+Tonoharu,3.4
+Iga,3.4
+Kadomatsu,3.3
+Gannosu,3.5
+Nata,4.7
+Hakozaki,3.6
+Yoshizuka,3.6
+Mitoma,3.7
+Wajiro (JR),3.5
+Najima,3.7
+Fukkodaimae,3.6
+Wajiro (Nishitetsu),3.5
+Yusu,3.0
+Kyoikudaimae,3.0
+Hakozakikyudaimae,3.7
+Hakozakimiyamae,3.6
+Maidashikyudaibyoinmae,3.8
+Shinguchuo,3.6
+Zasshonokuma,3.6
+Minamifukuoka,3.7
+Fukuokakuko,3.4
+Sasabaru,3.4
+Ijiri,3.5
+Takeshita,3.6
+Suechuo,3.8
+Higashihie,3.5
+Hakata,4.2
+Nakasukawabata,3.8
+Gofukumachi (Fukuoka),3.5
+Chiyokenchoguchi,3.8
+Gion (Fukuoka),3.7
+Kasuga (Fukuoka),3.7
+Tenjinminami,3.7
+Yakuin,3.8
+Watanabedori,3.9
+Nishitetsuhirao,3.7
+Akasaka (Fukuoka),3.6
+Sakurazaka,3.5
+Ropponmatsu,3.8
+Ohorikoen,4.0
+Tojinmachi,3.6
+Nishitetsufukuoka (Tenjin),4.0
+Yakuin-odori,3.8
+Nishijin,3.9
+Chayama (Fukuoka),5.0
+Befu (Fukuoka),3.5
+Tenjin,3.9
+Ohashi (Fukuoka),3.9
+Takamiya (Fukuoka),3.8
+Hakataminami,4.1
+Fukudaimae,3.2
+Muromi,3.5
+Meinohama,3.7
+Shimoyamato,3.5
+Susenji,3.8
+Jiromaru,4.0
+Hashimoto (Fukuoka),3.7
+Imajuku,3.6
+Kyudaigakkentoshi,3.9
+Nanakuma,4.0
+Itoshimakoko-Mae,4.1
+Hatae,3.7
+Kanayama (Fukuoka),3.9
+Umebayashi (Fukuoka),3.7
+Noke,3.6
+Fujisaki (Fukuoka),3.7
+Kamo,3.6
+Omuta,3.8
+Shinsakaemachi (Fukuoka),3.3
+Higashiamagi,4.0
+Ginsui,3.5
+Nishitetsuginsui,3.6
+Yoshino (Fukuoka),3.5
+Arao (Kumamoto),2.9
+Kuranaga,4.2
+Nishitetsuwataze,3.2
+Kushiwara,3.4
+Kurumedaigakumae,3.6
+Nishitetsukurume,3.9
+Araki,3.2
+Daizenji,3.2
+Tsubuku,3.7
+Nishimuta,3.6
+Kurume,3.8
+Shikenjomae,3.4
+Hanabatake,3.9
+Kurumekoukoumae,4.0
+Kaneshima (Fukuoka),4.0
+Chikugokusano,3.0
+Minamikurume,3.9
+Oki,3.3
+Koganchaya,3.5
+Kitano (Fukuoka),3.3
+Zendoji,4.0
+Miyanojin,3.3
+Omizo,3.8
+Inuzuka,3.9
+Mizuma,3.6
+Yasutake,3.6
+Mii,3.8
+Tanushimaru,4.0
+Chikugoyoshii,3.6
+Goromaru,3.7
+Gakkomae,4.1
+Akaji,3.3
+Shinnyu,3.2
+Chikuzen-ueki,3.6
+Nakaizumi,3.7
+Minaminogatagotenguchi,4.2
+Ganda,4.3
+Chikuhonogata,3.4
+Fujitana,4.2
+Urata (Fukuoka),4.2
+Shin-iizuka,4.0
+Namazuta,5.0
+Kamihonami,3.5
+Shimokamoo,3.4
+Chikuzenshonai,3.0
+Iizuka,3.2
+Kamimio,3.3
+Kotake,3.4
+Keisen (Fukuoka),4.5
+Chikuzendaibu,3.8
+Haruda (Fukuoka),3.6
+Kidonanzoinmae,4.1
+Ikejiri,3.7
+Tagawaita,3.8
+Tagawagotoji,3.8
+Kamiita,3.9
+Shimoita,3.5
+Magarikane,4.6
+Buzenkawasaki,3.5
+Oyabu,3.2
+Ipponmatsu (Fukuoka),4.2
+Kamikanada,3.7
+Hoshii,4.0
+Tagawashiritsubyoin,3.3
+Fuano (Fukuoka),3.7
+Shiotsuka,4.5
+Nishitetsunakashima,4.0
+Nishitetsuyanagawa,4.0
+Yakabe,3.6
+Kamachi (Fukuoka),4.2
+Setaka,3.9
+Tokumasu,3.6
+Hatchomuta,3.2
+Hainuzuka,3.6
+Chikugofunagoya,3.7
+Imagawakappa,4.5
+Toyotsu (Fukuoka),3.0
+Yukuhashi,3.4
+Minamiyukuhashi,3.5
+Shindenbaru,4.0
+Obasenishikodaimae,2.6
+Miyakoizumi,3.5
+Unoshima,3.1
+Buzenshoe,4.0
+Higashinakama,4.5
+Nakama,3.4
+Chikuzenhabu,4.0
+Nishitetsuogori,3.6
+Matsuzaki (Fukuoka),3.6
+Oitai,3.5
+Oho,3.8
+Hatama,3.0
+Ogori (Fukuoka),4.0
+Tsuko,3.6
+Imaguma,3.2
+Keyakidai,3.5
+Tachiarai,3.8
+Nishitachiarai,3.5
+Mitsusawa (Fukuoka),3.6
+Ajisaka,3.9
+Yamaguma,4.0
+Asakuragaido,3.9
+Dazaifu,4.1
+Murasaki,4.2
+Sakuradai (Fukuoka),3.8
+Chikuzen-yamae,4.0
+Tenpaizan,3.0
+Futsukaichi,3.7
+Chikushi,3.5
+Tofuromae,3.9
+Tofurominami,3.6
+Nishitetsufutsukaichi,3.7
+Onojo,3.6
+Shiragibaru,4.0
+Kasugabaru,3.5
+Shimoori,4.0
+Mizuki,4.4
+Umi,3.5
+Akama,3.5
+Togo,3.7
+Fukuma,3.5
+Higashifukuma,3.4
+Nishitetsugojo,3.7
+Shishibu,3.6
+Ebitsu,3.8
+Ukiha,4.3
+Chikugooishi,3.7
+Katsuno,3.9
+Chikuzen-uchino,4.0
+Amagi (Nishitetsu),4.0
+Kamiura,3.3
+Hongo (Fukuoka),4.2
+Mada,4.0
+Daigyoji,4.2
+Takata (Fukuoka),4.2
+Minamisetaka,3.9
+Wataze (Fukuoka),4.2
+Hiraki,3.6
+Enoura,3.8
+Chikuzenmaebaru,3.7
+Kafuri,3.6
+Misakigaoka,3.5
+Ikisan,4.0
+Chikuzenfukae,3.7
+Shikaka,4.0
+Dainyu,3.8
+Fukuyoshi,3.6
+Shinbaru,3.3
+Sasaguri,3.6
+Chikuzen-yamate,3.8
+Sakado,3.5
+Nishitetsushingu,3.6
+Harumachi,3.7
+Chojabaru,3.9
+Ongagawa,3.7
+Kurate,3.0
+Chikuzeniwaya,4.2
+Kawara,3.9
+Saidosho,4.3
+Kakishitaonsenguchi,3.8
+Soeda,4.0
+Hikosan,4.2
+Buzenmasuda,3.6
+Nishisoeda,3.7
+Kan-yushahikosan,3.5
+Itoda,4.3
+Matsuyama (Fukuoka),3.3
+Aka,4.0
+Yusubaru,4.5
+Uchida,4.1
+Akaike (Fukuoka),3.8
+Fureaishoriki,3.7
+Ichiba (Fukuoka),4.2
+Kanada,3.6
+Buzenokuma,3.5
+Hitomi,3.0
+Kanda,3.6
+Saigawa,4.3
+Shintoyotsu,3.0
+Yoshitomi (Fukuoka),4.2
+Nakatsu (Oita),3.6
+Tsuiki,3.8
+Shiida,3.8
+Hoshayama,3.8
+Tateno (Saga),4.5
+Kurobaru,3.7
+Sakiyama,3.9
+Genjiinomori,3.6
+Higashisaigawasanshiro,4.2
+Saga,3.7
+Igaya,3.6
+Nabeshima,3.3
+Kubota (Saga),3.5
+Kanzaki,3.7
+Karatsu,3.8
+Nishikaratsu,3.5
+Yamamoto (Saga),3.9
+Higashikaratsu,3.2
+Ochi,3.8
+Nishiochi,3.1
+Hizenkubo,3.7
+Honmutabe,4.3
+Iwaya (Saga),3.5
+Onizuka,3.7
+Nijinomatsubara,4.0
+Kyuragi,4.3
+Watada,3.6
+Hamasaki,4.1
+Tosu,3.9
+Hizen-asahi,3.6
+Tashiro,3.3
+Yayoigaoka,3.5
+Hizenfumoto,3.4
+Nakabaru,3.8
+Taku,3.8
+Nakataku,2.9
+Ushizu,3.6
+Higashitaku,3.3
+Imari,3.5
+Kamiimari,3.2
+Okawano,4.0
+Komanaki,3.9
+Hizennagano,4.6
+Kanaishihara,3.8
+Kanatake,3.8
+Kawahigashi (Saga),4.0
+Meotoishi,3.9
+Kusuku,3.0
+Sato,2.7
+Higashiyamashiro,3.2
+Momonokawa,4.0
+Uranosaki,4.6
+Kubara,4.5
+Naruishi,3.7
+Takahashi,4.7
+Takeoonsen,3.8
+Kitagata (Saga),3.7
+Mimasaka,3.2
+Nagao,3.6
+Hizen-iida,3.0
+Hizennanaura,4.6
+Hizenkashima,3.7
+Hizenhama,3.9
+Hizen-yamaguchi,3.5
+Yoshinogarikoen,3.5
+Kamiarita,3.9
+Arita,3.8
+Midaibashi,2.6
+Kurogo (Saga),4.0
+Nishiarita,4.0
+Zoshuku,3.8
+Yamadani,3.8
+Omachi (Saga),3.7
+Hizenshiroishi,3.8
+Hizen-ryuo,3.6
+Tara,3.9
+Hizen-oura,3.9
+Haze,3.3
+Nagasaki (Nagasaki),3.8
+Urakami,3.1
+Nishiurakami,3.8
+Akasako,3.6
+Michinoo,3.9
+Utsutsugawa,3.6
+Hizenkoga,3.0
+Suwajinja,3.8
+Nagayo,4.0
+Shiminkaikan,3.6
+Honkawachi,3.8
+Koda (Nagasaki),3.4
+Shinnakagawamachi,3.3
+Ouratenshudo,3.7
+Hotarujaya,3.8
+Shianbashi,4.1
+Sumiyoshi (Nagasaki),3.8
+Sasebo,3.9
+Ainoura,3.6
+Kamiainoura,3.4
+Koura,4.0
+Daigaku,3.9
+Daito,4.1
+Haiki,3.7
+Sasebochuo,3.9
+Kitasasebo,3.7
+Yamanota,3.5
+Huis Ten Bosch,3.8
+Haenosaki,4.2
+Mikawachi,3.6
+Takaiwa (Nagasaki),3.8
+Inotsuki,3.5
+Senryugataki,4.2
+Suetachibana,4.1
+Emukaeshikamachi,3.5
+Hiu,3.6
+Senpukuji,3.0
+Hidariishi,4.2
+Nakasasebo,3.0
+Nakazato,3.5
+Nonaka,4.3
+Saza,3.8
+Motoyama (Nagasaki),3.8
+Yoshii (Nagasaki),3.8
+Tanagata,3.8
+Masaru,4.0
+Shimabara,4.1
+Matsuomachi,3.6
+Mie,3.5
+Omisaki,4.5
+Shimatetsuyue,2.6
+Minamishimabara,4.4
+Shimatetsuhonshamae,3.8
+Shimabaragaiko,3.7
+Kikitsu,3.7
+Moriyama,3.7
+Isahaya,3.7
+Higashiisahaya,2.5
+Hizennagata,3.0
+Hon-isahaya,3.7
+Nishiisahaya,3.4
+Saiwai,3.0
+Kantakunosato,4.2
+Onohonmachi,3.9
+Iwamatsu,3.4
+Konagai,3.9
+Nagasato,3.6
+Ichinuno,3.6
+Oe,3.6
+Yue,3.5
+Okusa,3.7
+Higashisono,3.9
+Isahayahigashikokomae,4.4
+Kamanohana,3.8
+Omura (Nagasaki),3.0
+Takematsu,3.2
+Suwa,2.9
+Matsubara (Nagasaki),3.4
+Tabirahiradoguchi,4.2
+Nishitabira,4.2
+Higashitabira,4.0
+Nakatabira,4.7
+Imabuku,3.6
+Takashimaguchi,4.8
+Tsukinokawa,3.0
+Matsuura,3.6
+Matsuurahatsudenshomae,4.7
+Maehama,3.3
+Nishikoba,4.3
+Aino (Nagasaki),3.7
+Abozaki,3.8
+Azuma,3.6
+Kobe,4.0
+Kojiromachi,4.0
+Tairamachi,4.0
+Taisho (Nagasaki),3.8
+Saigo,3.9
+Kawatana,3.7
+Sonogi,2.7
+Chiwata,4.5
+Ogushigo,4.0
+Seihokokomae,3.6
+Ohato,3.5
+Shindaikumachi,3.8
+Meganebashi,4.0
+Showamachidori,3.7
+Zenzamachi,3.0
+Kumamoto,4.1
+Fujisakigumae,3.5
+Shinsuizenji,3.8
+Suizenji,3.7
+Minamikumamoto,3.5
+Tokaigakuenmae,3.6
+Tatsutaguchi,3.8
+Gofukumachi (Kumamoto),3.0
+Sojodaigakumae,3.4
+Kurokamimachi,3.8
+Tsuboigawakoen,3.4
+Shiritsutaiikukanmae,3.4
+Hatchobaba,3.4
+Kuwamizu/Shiminbyoinmae,2.6
+Kokubu (Kumamoto),4.1
+Heisei,3.5
+Ueki,3.1
+Hanabatacho,3.5
+Urusanmachi,3.9
+Keitokukomae,4.0
+Nishikarashimacho,3.0
+Musashizuka,3.1
+Hikarinomori,3.7
+Kengunkomae,3.5
+Kengunmachi,3.9
+Doshokubutsueniriguchi,3.2
+Ikeda (Kumamoto),3.1
+Kankanzaka,3.7
+Kawashiri,3.5
+Nishi-Kumamoto,3.7
+Tomiai,3.4
+Midorikawa,3.5
+Matsubase,3.3
+Shinsuya,3.7
+Suya,4.2
+Nishisato,3.2
+Tabaruzaka,3.5
+Konoha,4.2
+Kamei,3.5
+Uchigoshi,4.2
+Hakenomiya,4.0
+Horikawa,4.0
+Kuroishi (Kumamoto),4.5
+Sanrigi,3.6
+Yatsushiro,3.5
+Shin-yatsushiro,3.8
+Arisa,3.8
+Higokoda,3.6
+Sencho,3.5
+Sakamoto (Kumamoto),4.1
+Kamase,4.5
+Haki,4.0
+Dan,4.0
+Hinaguonsen,3.9
+Higofutami,4.0
+Hitoyoshi,4.3
+Sagarahanganjoji,4.3
+Okoba,4.5
+Nishihitoyoshi,4.3
+Higonishinomura,4.0
+Yatake,4.6
+Minamiarao,3.5
+Onoshimo,3.6
+Tamana,3.8
+Nagasu,3.5
+Minamata,4.0
+Shinminamata,3.6
+Fukuro,3.4
+Higoikura,3.2
+Higoozu,3.9
+Haramizu,3.5
+Akase,4.6
+Sumiyoshi (Kumamoto),3.5
+Higonagahama,3.4
+Misumi,4.0
+Hataura,3.0
+Ishiuchi Dam,3.3
+Akamizu,3.4
+Miyaji,4.0
+Ikoinomura,3.8
+Uchinomaki,4.0
+Ichinokawa,3.9
+Namino,4.1
+Kumamotokosenmae,4.0
+Saishunsomae,4.4
+Seta (Kumamoto),4.1
+Takamori,4.3
+Asoshirakawa,4.5
+Nakamatsu,4.2
+Asoshimodajofureaionsen,4.3
+Choyo,4.0
+Minamiasomizunoumarerusatohakusuikogen,3.6
+Minami-Aso-Shirakawasuigen,4.2
+Tateno (Kumamoto),3.9
+Miharashidai,4.5
+Sashiki,4.0
+Uminoura,3.5
+Higotanoura,3.0
+Yunoura,2.7
+Tanouraotachimisakikoen,2.5
+Kyusendo,3.8
+Yoshio,3.8
+Tsunagi,3.2
+Kinoe,3.9
+Taragi,4.3
+Higashitaragi,3.7
+Yunomae,4.4
+Koritsubyoinmae,3.0
+Shintsuruba,4.0
+Kawamura (Kumamoto),4.4
+Isshochi,4.3
+Naraguchi,3.8
+Okadomekofuku,4.3
+Higashimenda,3.0
+Suidocho,3.7
+Kengunkobanmae,3.3
+Tasakibashi,3.4
+Hitoyoshionsen,4.3
+Torichosuji,4.0
+Takimizu,4.2
+Shiroishi (Kumamoto),4.3
+Kamitanoura,3.8
+Ozai,3.7
+Oita,4.1
+Nishioita,4.0
+Sakanoichi,2.9
+Tsurusaki,3.4
+Takajo,3.2
+Maki (Oita),3.4
+Takio,3.6
+Kaku,3.1
+Bungokokubu,3.6
+Minamioita,3.4
+Sashiu,3.1
+Mukainoharu,4.0
+Furugo,3.5
+Kozaki,3.9
+Shikido,2.9
+Takenaka,4.1
+Oitadaigakumae,3.1
+Nakahanda,4.1
+Higashibeppu,4.4
+Miemachi,3.8
+Beppu (Oita),4.0
+Beppudaigaku,3.5
+Kamegawa,4.1
+Onoya,4.3
+Imazu (Oita),3.4
+Higashinakatsu,4.1
+Hita,4.1
+Amagase,3.8
+Bungomiyoshi,4.5
+Bungonakagawa,4.1
+Teruoka,3.5
+Imayama,3.6
+Otsuru,4.1
+Yoake,4.2
+Saiki,3.3
+Shigeoka,4.3
+Sotaro,4.4
+Kaizaki,4.2
+Azamui,4.3
+Kariu,3.6
+Naokawa,4.1
+Naomi,3.9
+Kamiusuki,4.0
+Usuki,3.8
+Kumasaki,3.7
+Shitanoe,4.3
+Inukai,3.8
+Sugao,3.6
+Tsukumi,3.8
+Hishiro,4.0
+Bungotaketa,4.0
+Tamarai,3.6
+Bungoogi,3.8
+Usa,3.6
+Nakayamaga,4.0
+Tateishi,3.5
+Kitsuki,3.6
+Amatsu,3.8
+Yanagigaura,3.5
+Buzenzenkoji,3.8
+Nishiyashiki,3.8
+Buzennagasu,3.7
+Asaji,4.2
+Bungokiyokawa,4.7
+Tenjin-yama,3.5
+Shonai (Oita),3.8
+Onigase,3.3
+Yufuin,4.1
+Minamiyufu,4.1
+Yunohira,4.0
+Hiji,3.5
+Yokoku,3.9
+Bungotoyooka,4.1
+Era,3.8
+Hikiji,3.5
+Noya,4.3
+Bungonakamura,3.9
+Bungomori,3.9
+Kitayamada (Oita),4.2
+Sugikawachi,4.2
+Aoshima,4.0
+Oryuzako,3.4
+Kodomonokuni,4.5
+Miyazaki,3.7
+Tayoshi,3.6
+Minamimiyazaki,3.9
+Miyazakikuko,3.7
+Miyazakijingu,3.3
+Hasugaike,2.5
+Kano (Miyazaki),3.4
+Uchiumi (Miyazaki),3.6
+Kochiumi,4.0
+Sadowara,3.6
+Hyugasumiyoshi,3.9
+Undokoen (Miyazaki),3.3
+Kibana,3.6
+Sosanji,3.8
+Minamikata (Miyazaki),3.6
+Kiyotake,3.2
+Hyugakutsukake,3.0
+Tano (Miyazaki),3.7
+Miyakonojo,3.4
+Nishimiyakonojo,3.4
+Mimata,3.6
+Isoichi,3.7
+Higashitakasaki,3.3
+Hyugashonai,4.0
+Tanigashira,3.3
+Mangatsuka,4.4
+Yamanokuchi,3.7
+Mochibaru,4.0
+Takasakishinden,3.7
+Hyugamaeda,3.6
+Takaharu,3.5
+Nobeoka,3.9
+Minaminobeoka,3.1
+Asahigaoka (Miyazaki),3.6
+Kitanobeoka,3.0
+Ichitana,3.4
+Kitagawa,3.2
+Hyuganagai,3.3
+Totoro,3.7
+Nichinan,4.0
+Aburazu,3.2
+Odotsu,3.7
+Obi,4.1
+Ibii,3.3
+Uchinoda,3.8
+Nango,3.8
+Taninokuchi,3.0
+Yowara,3.8
+Kobayashi (Miyazaki),3.9
+Nishikobayashi,3.4
+Hirowara,3.4
+Zaikoji,3.2
+Hyugashi,4.1
+Kadogawa,3.3
+Mainamihyuga,3.6
+Mimitsu,4.2
+Hyugakitakata,3.3
+Hyugaotsuka,3.5
+Kushima,3.7
+Fukushimatakamatsu,4.2
+Fukushimaimamachi,3.6
+Hyugashintomi,3.7
+Takanabe,3.6
+Kyomachionsen,3.6
+Ebinoiino,3.7
+Ebinouwae,3.3
+Ebino,4.0
+Tsurumaru,3.4
+Kawaminami,3.7
+Tsuno,4.0
+Higashitsuno,3.2
+Aoidake,4.0
+Kagoshimachuo,4.1
+Kamiijuin,3.9
+Korimoto (JR),3.7
+Kagoshima,3.7
+Satsumamatsumoto,3.5
+Taniyama (JR),3.7
+Minamikagoshima,3.9
+Jigenji,4.2
+Namidabashi,3.8
+Sesekushi,3.9
+Kiire,3.7
+Kakamyo,3.4
+Nukumi,3.0
+Maenohama,4.0
+Sakanoue,2.8
+Hiroki,3.9
+Ijuin,3.9
+Taniyama (Shiden),3.9
+Goino,4.0
+Sasanuki,3.5
+Izurodori,3.9
+Aira,3.7
+Shigetomi,3.0
+Kajiyacho,3.0
+Nikenjaya (Kagoshima),4.0
+Minamikagoshimaekimae,3.9
+Kotochugakkomae,3.2
+Ryugamizu,4.0
+Shibushi,4.0
+Shirasawa (Kagoshima),3.7
+Makurazaki,4.2
+Satsumaitashiki,3.8
+Akune,4.1
+Ushinohama,4.2
+Satsumaokawa,3.9
+Origuchi,3.3
+Komenotsu,3.6
+Izumi,4.4
+Takaono,3.9
+Nodago,3.6
+Satsumaimaizumi,3.9
+Miyagahama,4.4
+Ibusuki,3.9
+Satsumakawashiri,4.5
+Irino (Kagoshima),4.4
+Kaimon,4.0
+Higashikaimon,4.0
+Nigatsuden,2.8
+Yamakawa,3.7
+Oyama (Kagoshima),3.7
+Nishioyama,4.4
+Kokubu (Kagoshima),3.8
+Kumanojo,3.6
+Sendai (Kagoshima),3.8
+Kamisendai,3.4
+Kobanchaya,4.0
+Kusamichi,3.4
+Chosa,3.8
+Osumiyokogawa,4.5
+Nishikata,4.1
+Kushikino,3.7
+Satsumataki,4.4
+Higashiichiki,4.3
+Yunomoto,4.1
+Takarabe,4.2
+Kitamata,3.4
+Osumiokawara,3.7
+Kirishimajingu,3.8
+Hinatayama,4.6
+Hayato,3.4
+Kajiki,3.3
+Nakafukura,4.0
+Hyokiyama,4.3
+Kareigawa,4.4
+Kirishimaonsen,3.6
+Uemura,3.6
+Ichiki,4.0
+Kamimuragakuenmae,2.8
+Osuminatsui,3.7
+Ishigaki,3.7
+Goryo (Kagoshima),3.7
+Ei,4.6
+Nishiei,3.9
+Eiokawa,4.7
+Mizunarikawa,3.8
+Matsugaura,3.8
+Satsumashioya,3.9
+Kurino,3.7
+Yoshimatsu,3.9
+Kinko,3.4
+Takamibaba,3.0
+Kamishioya,3.6
+Kitanaganoda,3.0
+Akamine,3.9
+Furujima,3.7
+Miebashi,4.0
+Asato,3.8
+Omoromachi,3.9
+Makishi,4.0
+Asahibashi,4.0
+Tsubogawa,3.9
+Oroku,3.9
+Nahakuko,4.0
+Kenchomae (Okinawa),3.9
+Gibo,4.0
+Shuri,3.9
+Onoyamakoen,3.8
+Shiritsubyoinmae (Okinawa),3.6

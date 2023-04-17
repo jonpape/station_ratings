@@ -1,0 +1,5 @@
+*.pdf
+*.zip
+*.tar.gz
+archive/
+.env
