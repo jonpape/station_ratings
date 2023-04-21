@@ -5,3 +5,5 @@ Program opens up a csv with a list of station and then searches for the station 
 If the station is found, the rating for the station is downloaded and stored in a csv.
 
 Project was developed for CIS 5450 final project.
+
+Sidenote: the AP calls cst nearly $650 fo ,400+ calls.  Use at yoron risk.
