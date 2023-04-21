@@ -6,4 +6,4 @@ If the station is found, the rating for the station is downloaded and stored in 
 
 Project was developed for CIS 5450 final project.
 
-Sidenote: the AP calls cst nearly $650 fo ,400+ calls.  Use at yoron risk.
+Sidenote: the AP calls cst nearly $650 for 8400+ calls.  Use at yoron risk.
