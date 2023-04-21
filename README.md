@@ -6,4 +6,4 @@ If the station is found, the rating for the station is downloaded and stored in 
 
 Project was developed for CIS 5450 final project.
 
-Sidenote: the AP calls cst nearly $650 for 8400+ api calls.  Use at your own risk.
+Sidenote: the AP calls cost nearly $650 for 8400+ api calls.  Use at your own risk.
